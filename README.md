@@ -21,7 +21,12 @@ contains plots/visualization of miscanthus data.
 
 ## Methodology
 ### Daily Climate Data for each site
+Deepak will fill in this part.
 ### Constructing Classifiers
+Deepak, David, and Jiarui will perform this task
 ### Selection of models from two papers
+Deepak, David and Jiarui will perform this task
 ### Identifying best combination of models and classifiers
+Jiarui will perform this task
 ### Conclusions for questions 1 and 2.
+Deepak, David, and Jiarui will write this.
