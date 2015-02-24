@@ -33,4 +33,8 @@ png(file="../figures/yield_vs_standage_sitename.png")
 xyplot(yield~stand_age | sitename, data=mxg, auto.key=TRUE)
 dev.off()
 
+# Plotting Yield versus Date from all the studies based on sitename
+png(file="../figures/yield_vs_year_sitename.png")
+xyplot(yield~year | sitename, data=mxg, auto.key=TRUE)
+dev.off()
 
