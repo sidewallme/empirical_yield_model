@@ -19,3 +19,9 @@ contains plots/visualization of miscanthus data.
 1. Can we come up with an machine learning  alternative for meta analyses performed in the two papers with improved prediction capabity and classifier definition.
 2. Can machine learning help us to identify when miscanthus will respond to Nitrogen and when it does not? given the input data set, independent variables could be species, growth stange, site (N deposition rate), irrigation, etc.
 
+## Methodology
+### Daily Climate Data for each site
+### Constructing Classifiers
+### Selection of models from two papers
+### Identifying best combination og models and classifiers
+### Conclusions for questions 1 and 2.
