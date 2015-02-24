@@ -23,5 +23,5 @@ contains plots/visualization of miscanthus data.
 ### Daily Climate Data for each site
 ### Constructing Classifiers
 ### Selection of models from two papers
-### Identifying best combination og models and classifiers
+### Identifying best combination of models and classifiers
 ### Conclusions for questions 1 and 2.
