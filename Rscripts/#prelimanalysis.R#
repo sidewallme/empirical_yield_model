@@ -1,0 +1,36 @@
+
+mxg <-read.csv("../mxgdata/miscanthus.csv")
+library(lattice)
+
+# Plotting Yield versus Standage from all the studies
+png(file="../figures/yield_vs_standage.png")
+xyplot(yield~stand_age, data=mxg)
+dev.off()
+
+# Plotting Yield versus Standage from all the studies based on planting density
+png(file="../figures/yield_vs_standage_plantingdensity.png")
+xyplot(yield~stand_age | planting_density, data=mxg, auto.key=TRUE)
+dev.off()
+
+# Plotting Yield versus Standage from all the studies based on irrigation
+png(file="../figures/yield_vs_standage_irrigation.png")
+xyplot(yield~stand_age | irrigated, data=mxg, auto.key=TRUE)
+dev.off()
+
+# Plotting Yield versus Standage from all the studies based on fertilization
+png(file="../figures/yield_vs_standage_fertilized.png")
+xyplot(yield~stand_age | fertilizer_n, data=mxg, auto.key=TRUE)
+dev.off()
+
+# Plotting Yield versus Standage from all the studies based on species
+png(file="../figures/yield_vs_standage_species.png")
+xyplot(yield~stand_age | species, data=mxg, auto.key=TRUE)
+dev.off()
+
+
+# Plotting Yield versus Standage from all the studies based on sitename
+png(file="../figures/yield_vs_standage_sitename.png")
+xyplot(yield~stand_age | sitename, data=mxg, auto.key=TRUE)
+dev.off()
+
+
