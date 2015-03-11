@@ -15,23 +15,39 @@ library(partykit)
 library(RWeka)
 library(rattle)
 library(RColorBrewer)
+library(pander)
+library(data.table)
+library(knitr)
+
+opts_chunk$set(echo = FALSE, message = FALSE, warnings = FALSE,  cache = FALSE)
+
 ```
 
 Build regression tree
-```{r}
+```{r }
+download.file("https://gist.githubusercontent.com/dlebauer/0ce86601f1c4ddedfdc6/raw/6100699539bdc7d2b46ae972b873788c5ff9e2a2/miscanthus.csv", method = 'curl', destfile = 'miscanthus.csv')
+
+miscanthus <- fread("miscanthus.csv")
+m <- miscanthus[!(is.na(planting_density) | is.na(yield)),
+                `:=`(sacchariflorus = grepl('sacchariflorus', species),
+                     sinensis = grepl('sinensis', species),
+                     sinensis.Hybrid = grepl('Hybrid', species),
+                     giganteus = grepl('giganteus', species))]
+
+dataigb2_rtree <- m
 rtree <- rpart(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus +
                  lat + lon + fertilizer_n + stand_age + irrigated + planting_density, 
                data = dataigb2_rtree)
 
 plot(as.party(rtree),tp_args=list(id=FALSE))
 
-print(rtree$cptable)
+pander(rtree$cptable)
 
 opt <- which.min(rtree$cptable[,"xerror"])
 cp <- rtree$cptable[opt,"CP"]
 
 rtree_prune <- prune(rtree,cp=cp)
-libaraplot(as.party(rtree_prune),tp_args=list(id=FALSE))
+plot(as.party(rtree_prune),tp_args=list(id=FALSE))
 
 fit <- rpart(yield~., method="anova", data=dataigb2_rtree)
 
@@ -40,9 +56,15 @@ summary(rtree)
 
 Using M5P algorithm
 ```{r}
-m5pTree <- M5P(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus 
-                  + lat + lon + fertilizer_n + irrigated + planting_density, 
-         data=dataigb2_rtree)
+m2 <- m[,list(yield, sacchariflorus = as.numeric(sacchariflorus), 
+              sinensis = as.integer(sinensis), 
+              sinensis.Hybrid = as.integer(sinensis.Hybrid), 
+              giganteus = as.integer(giganteus),
+              irrigated = as.integer(irrigated),
+              lat, lon, fertilizer_n,  planting_density)]
+m5pTree <- M5P(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus +
+                 lat + lon + fertilizer_n + irrigated + planting_density, 
+         data = m2)
 summary(m5pTree)
 plot(m5pTree)
 ```
