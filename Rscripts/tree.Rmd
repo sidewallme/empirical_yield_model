@@ -40,10 +40,10 @@ m <- miscanthus[!(is.na(planting_density) | is.na(yield)),
                      sinensis.Hybrid = grepl('Hybrid', species),
                      giganteus = grepl('giganteus', species))]
 
-dataigb2_rtree <- m
+
 rtree <- rpart(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus +
                  lat + lon + fertilizer_n + stand_age + irrigated + planting_density, 
-               data = dataigb2_rtree)
+               data = m)
 
 plot(as.party(rtree),tp_args=list(id=FALSE))
 
