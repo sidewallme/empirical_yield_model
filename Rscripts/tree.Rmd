@@ -1,0 +1,49 @@
+---
+title: "tree"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+Loading libraries:
+```{r}
+library(rpart)
+library(grid)
+library(partykit)
+library(RWeka)
+library(rattle)
+library(RColorBrewer)
+```
+
+Build regression tree
+```{r}
+rtree <- rpart(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus +
+                 lat + lon + fertilizer_n + stand_age + irrigated + planting_density, 
+               data = dataigb2_rtree)
+
+plot(as.party(rtree),tp_args=list(id=FALSE))
+
+print(rtree$cptable)
+
+opt <- which.min(rtree$cptable[,"xerror"])
+cp <- rtree$cptable[opt,"CP"]
+
+rtree_prune <- prune(rtree,cp=cp)
+libaraplot(as.party(rtree_prune),tp_args=list(id=FALSE))
+
+fit <- rpart(yield~., method="anova", data=dataigb2_rtree)
+
+summary(rtree)
+```
+
+Using M5P algorithm
+```{r}
+m5pTree <- M5P(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus 
+                  + lat + lon + fertilizer_n + irrigated + planting_density, 
+         data=dataigb2_rtree)
+summary(m5pTree)
+plot(m5pTree)
+```
+
