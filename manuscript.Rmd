@@ -10,13 +10,18 @@
 
 We have three classes: linear regression, regression tree, and 'black box' or artificial neural network.
 
+
+
 ### Linear Regression
 
 Used for comparison
 
 ### Regression Tree
 
+
 #### CART
+
+
 
 CART is a recursive partitioning method to be used both for regression and classification. CART is constructed by splitting subsets of the data set using all predictor variables to create two child nodes repeatedly, beginning with the entire data set. The best predictor is chosen using a variety of impurity or diversity measures. The goal is to produce subsets of the data which are as homogeneous as possible with respect to the target variable (Breiman et al., 1984). In this study, we used {}
 
@@ -43,6 +48,7 @@ First start with some basic exploratory analyses - map, histogram, relationships
 
 climate range, geographic range, univariate relationships ('pairs' plot)
 
+
 ## Linear Regression
 
 ## Regression Tree
@@ -61,3 +67,6 @@ Park, S. J., Hwang, C. S., & Vlek, P. L. G. (2005). Comparison of adaptive techn
 Zheng, H., Chen, L., Han, X., Zhao, X., & Ma, Y. (2009). Classification and regression tree (CART) for analysis of soybean yield variability among fields in Northeast China: The importance of phosphorus application rates under drought conditions. Agriculture, ecosystems & environment, 132(1), 98-105.
 
 # Appendix
+
+
+![](figures/yield_vs_standage_sitename.png)
