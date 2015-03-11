@@ -23,7 +23,9 @@ opts_chunk$set(echo = FALSE, message = FALSE, warnings = FALSE,  cache = FALSE)
 
 ```
 
-Build regression tree
+
+## Data Prep
+
 ```{r eval = FALSE}
 download.file("https://gist.githubusercontent.com/dlebauer/0ce86601f1c4ddedfdc6/raw/6100699539bdc7d2b46ae972b873788c5ff9e2a2/miscanthus.csv", method = 'curl', destfile = 'miscanthus.csv')
 
@@ -32,7 +34,9 @@ dir.create("data")
 write.csv(miscanthus, file = "data/miscanthus.csv", row.names = FALSE)
 ```
 
-```{r}
+
+
+```{r data-load}
 miscanthus <- fread("data/miscanthus.csv")
 m <- miscanthus[!(is.na(planting_density) | is.na(yield)),
                 `:=`(sacchariflorus = grepl('sacchariflorus', species),
@@ -40,7 +44,9 @@ m <- miscanthus[!(is.na(planting_density) | is.na(yield)),
                      sinensis.Hybrid = grepl('Hybrid', species),
                      giganteus = grepl('giganteus', species))]
 
+```
 
+```{r reg-tree}
 rtree <- rpart(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus +
                  lat + lon + fertilizer_n + stand_age + irrigated + planting_density, 
                data = m)
@@ -60,8 +66,14 @@ fit <- rpart(yield~., method="anova", data=dataigb2_rtree)
 summary(rtree)
 ```
 
-Using M5P algorithm
-```{r}
+TODO what do you see? what does it mean?
+
+## Using M5P algorithm
+
+
+
+```{r M5P}
+
 m2 <- m[,list(yield, sacchariflorus = as.numeric(sacchariflorus), 
               sinensis = as.integer(sinensis), 
               sinensis.Hybrid = as.integer(sinensis.Hybrid), 
@@ -75,3 +87,4 @@ summary(m5pTree)
 plot(m5pTree)
 ```
 
+TODO what do you see? what does it mean?
