@@ -3,12 +3,15 @@ title: "tree"
 output: html_document
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+running
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
+```r
+purl("Rscripts/tree.Rmd")
+system("nohup R --no-save < tree.R", wait = FALSE)
+```
 Loading libraries:
 ```{r}
+library(plyr)#try_default
 library(rpart)
 library(grid)
 library(partykit)
@@ -18,6 +21,7 @@ library(RColorBrewer)
 library(pander)
 library(data.table)
 library(knitr)
+library(printr)
 
 opts_chunk$set(echo = FALSE, message = FALSE, warnings = FALSE,  cache = FALSE)
 
@@ -64,30 +68,108 @@ ans <- m[1, list(tmin = getData('worldclim', var = 'tmin', res = 0.5, lon = lon,
 ```{r rncep}
 library(RNCEP)
 
-unique_xyt <- unique(m[,list(lat, lon, year) ])
+unique_xyt <- unique(yields[,list(lat, lon, year) ])
 
 get_met <- function(year, lat, lon, var){
-  ans <- NCEP.gather(variable = var, level='gaussian', months.minmax=c(5,9), years.minmax = c(year,year), lat.southnorth = c(lat,lat), lon.westeast=c(lon,lon), reanalysis2 = TRUE, return.units = FALSE, status.bar=FALSE)
-
-  ## geometric weighting 
-  dlat <- abs(lat - as.numeric(dimnames(ans)[[1]]))
-  dlon <- abs(lon - as.numeric(dimnames(ans)[[2]]))
+  ans <- NULL
+  ans <- try_default(quiet = TRUE, default = NA, expr = 
+                       NCEP.gather(variable = var, level='gaussian', months.minmax=c(5,9), years.minmax = c(year,year), lat.southnorth = c(lat,lat), lon.westeast=c(lon,lon), reanalysis2 = TRUE, return.units = FALSE, status.bar=FALSE)
+                     )
   
-  ans2 <- ans[1,,] * dlon[1]/sum(dlon) + ans[2,,]* dlon[2]/sum(dlon) 
-  ans3 <- ans2[1,] * dlat[1]/sum(dlat) + ans2[1,]* dlat[2]/sum(dlat) 
+  if(any(!is.na(ans))){
+    lats <- as.numeric(dimnames(ans)[[1]])
+    lons <- as.numeric(dimnames(ans)[[2]])
+    lons[lons>180] <- lons[lons>180] - 360
+    dlat <- abs(lat - lats)
+    dlon <- abs(lon - lons)
+    #weights
+    wlat <- dlat/sum(dlat, na.rm = TRUE)
+    wlon <- dlon/sum(dlon, na.rm = TRUE)
+    
+    weights <- as.matrix(wlat) %*% t(as.matrix(wlon))
+    
+    
+    ans2 <- rowMeans(ans, dims = 2, na.rm = TRUE)
+    ans2.1 <- ans2[!is.nan(ans2)]
+    
+    ans3 <- sum(ans2.1 * weights)
+    }# else if (geometric_weighting == TRUE){
+      
+      ## geometric weighting
+      #     if(dim(ans)[2] == 1) ans <- abind(ans, ans, along = 2)
+      #     if(all(is.na(ans[2,,]))) {
+      #       ans[is.na(ans)]  <- ans[!is.na(ans)]
+      #       dimnames(ans)[[1]][1] <- dimnames(ans)[[1]][2]
+      #       }
+      #     if(all(is.na(ans[1,,]))) {
+      #       ans[is.na(ans)]  <- ans[!is.na(ans)]
+      #       dimnames(ans)[[1]][2] <- dimnames(ans)[[1]][1]
+      
+      # ans2 <- ans[1,,] * dlat[1]/sum(dlat) + ans[2,,]* dlat[2]/sum(dlat) 
+      # ans3 <- ans2[1,] * dlon[1]/sum(dlon) + ans2[2,]* dlon[2]/sum(dlon) 
+      
+      #}
   
-  return(ans)
-}
+  
+  return(ans3)
+  }
 
 
 s2year <- udunits2::ud.convert(1, '1/s', '1/year')
 ## MAT = Mean Annual Temperature
-unique_xyt[1, `:=` (MAT = mean(get_met(year, lat, lon, 'air.2m')),
-                   MAP = sum(get_met(year, lat, lon, 'prate.sfc') * s2year),
-                   PET = mean(get_met(year, lat, lon, 'pevpr.sfc')),
-                   SOLAR = sum(get_met(year, lat, lon, 'dswrf.sfc')))]
+ncep_data_list <- list()
+for(i in 1:nrow(unique_xyt)){
+  ncep_data_list[[i]] <- unique_xyt[i, list(lat, lon, year, MAT = mean(get_met(year, lat, lon, 'air.2m')),
+                                      MAP = sum(get_met(year, lat, lon, 'prate.sfc')),
+                                      PET = mean(get_met(year, lat, lon, 'pevpr.sfc')),
+                                      SOLAR = sum(get_met(year, lat, lon, 'dswrf.sfc'))
+                                      )]
+  
+  
+  ncep_data <- rbindlist(ncep_data_list)
+  save(ncep_data, file = "~/ncep_data.RData") 
+  }
 
-save(unique_xyt, file = "~/met.RData")
+
+ggplot() + geom_point(data = ncep_data, aes(lon, lat, color = MAP/PET))
+```
+
+
+#### Daymet
+
+_note:_ daymet only covers US, Canada, Mexico
+
+```{r daymet, eval=FALSE}
+if(!require(DaymetR)){
+  install_bitbucket("khufkens/daymetr", subdir = 'DaymetR')
+} 
+
+dm <- list()
+new_xyt <- unique_xyt[lon < -30]
+for(i in 1:nrow(new_xyt)){
+  rm(Daymet)
+  try(
+    new_xyt[i, download.daymet(lat = lat, lon = lon,internal = FALSE,  start_yr = year, end_yr = year)]
+    )
+  
+  if(exists("Daymet")){
+    d <- data.table(Daymet$data)
+
+    dm[[i]] <- d[yday > 90 & yday < 270,
+                 list(lat = Daymet$lattitude,
+                      lon = Daymet$longitude,
+                      elev = Daymet$altitude,
+                      year = unique(year),
+                      temp = mean(c(tmax..deg.c., 
+                                    tmin..deg.c.)),
+                      precip = sum(prcp..mm.day.),
+                      vpd = mean(vp..Pa.))]
+    } else {
+      dm[[i]] <- NA
+    }
+  save(dm, file = "data/daymet.RData")
+}
+
 ```
 ## Analyses
 
