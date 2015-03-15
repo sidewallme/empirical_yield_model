@@ -1,0 +1,663 @@
+"yields.id","genus","species","sitename","lat","lon","fertilizer_n","irrigated","planting_year","year","stand_age","planting_density","yield","sacchariflorus","sinensis","sinensis.Hybrid","giganteus"
+971,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,0,TRUE,1999,"1999",0,10000,1.495,FALSE,FALSE,FALSE,TRUE
+972,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,50,TRUE,1999,"1999",0,10000,1.573,FALSE,FALSE,FALSE,TRUE
+973,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,100,TRUE,1999,"1999",0,10000,1.644,FALSE,FALSE,FALSE,TRUE
+974,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,150,TRUE,1999,"1999",0,10000,1.508,FALSE,FALSE,FALSE,TRUE
+975,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,200,TRUE,1999,"1999",0,10000,1.56,FALSE,FALSE,FALSE,TRUE
+976,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,0,TRUE,1999,"2000",1,10000,6.56,FALSE,FALSE,FALSE,TRUE
+977,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,50,TRUE,1999,"2000",1,10000,7.04,FALSE,FALSE,FALSE,TRUE
+978,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,100,TRUE,1999,"2000",1,10000,7.17,FALSE,FALSE,FALSE,TRUE
+979,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,150,TRUE,1999,"2000",1,10000,6.58,FALSE,FALSE,FALSE,TRUE
+980,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,200,TRUE,1999,"2000",1,10000,6.9,FALSE,FALSE,FALSE,TRUE
+981,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,0,TRUE,1999,"2001",2,10000,12.01,FALSE,FALSE,FALSE,TRUE
+982,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,50,TRUE,1999,"2001",2,10000,12.91,FALSE,FALSE,FALSE,TRUE
+983,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,100,TRUE,1999,"2001",2,10000,13.19,FALSE,FALSE,FALSE,TRUE
+984,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,150,TRUE,1999,"2001",2,10000,12.15,FALSE,FALSE,FALSE,TRUE
+985,"Miscanthus","Miscanthus x giganteus","Selcuk University",37.86,32.48,200,TRUE,1999,"2001",2,10000,12.08,FALSE,FALSE,FALSE,TRUE
+1076,"Miscanthus","Miscanthus x giganteus","Tipperary",52.47,-8.15,120,FALSE,1990,"1994",4,20000,19,FALSE,FALSE,FALSE,TRUE
+1077,"Miscanthus","Miscanthus x giganteus","Tipperary",52.47,-8.15,120,FALSE,1990,"1994",4,20000,13.5,FALSE,FALSE,FALSE,TRUE
+1078,"Miscanthus","Miscanthus x giganteus","Tipperary",52.47,-8.15,120,FALSE,1990,"1994",4,20000,15.2,FALSE,FALSE,FALSE,TRUE
+16867,"Miscanthus","Miscanthus x giganteus","Institute of Forest Genetics (BFH)",52.26,10.52,120,FALSE,1993,"1994",1,40000,1.7,FALSE,FALSE,FALSE,TRUE
+16868,"Miscanthus","Miscanthus x giganteus","Institute of Forest Genetics (BFH)",52.26,10.52,120,FALSE,1993,"1994",1,40000,1.5,FALSE,FALSE,FALSE,TRUE
+16869,"Miscanthus","Miscanthus x giganteus","Institute of Forest Genetics (BFH)",52.26,10.52,120,FALSE,1993,"1995",2,40000,2.6,FALSE,FALSE,FALSE,TRUE
+16870,"Miscanthus","Miscanthus x giganteus","Biomass Technology Group (BTG)",52.21,6.84,60,FALSE,1993,"1995",2,40000,4.8,FALSE,FALSE,FALSE,TRUE
+16871,"Miscanthus","Miscanthus x giganteus","Biomass Technology Group (BTG)",52.21,6.84,60,FALSE,1993,"1996",3,40000,14.6,FALSE,FALSE,FALSE,TRUE
+16872,"Miscanthus","Miscanthus x giganteus","Center of Renewable Energy Sources (CRES)",38.03,23.94,60,TRUE,1993,"1995",2,40000,26.3,FALSE,FALSE,FALSE,TRUE
+16873,"Miscanthus","Miscanthus x giganteus","Center of Renewable Energy Sources (CRES)",38.03,23.94,60,TRUE,1993,"1996",3,40000,26.3,FALSE,FALSE,FALSE,TRUE
+16874,"Miscanthus","Miscanthus x giganteus","ENEA-A Tresaia",40.18,16.57,60,FALSE,1993,"1994",1,40000,2.9,FALSE,FALSE,FALSE,TRUE
+16875,"Miscanthus","Miscanthus x giganteus","ENEA-A Tresaia",40.18,16.57,60,FALSE,1993,"1995",2,40000,8.6,FALSE,FALSE,FALSE,TRUE
+16876,"Miscanthus","Miscanthus x giganteus","ENEA-A Tresaia",40.18,16.57,60,FALSE,1993,"1996",3,40000,17.4,FALSE,FALSE,FALSE,TRUE
+16877,"Miscanthus","Miscanthus x giganteus","ENEA-A Tresaia",40.18,16.57,60,FALSE,1993,"1997",4,40000,13.5,FALSE,FALSE,FALSE,TRUE
+16878,"Miscanthus","Miscanthus x giganteus","ENEA-B Brasimone",44.17,11.09,60,TRUE,1993,"1994",1,40000,6,FALSE,FALSE,FALSE,TRUE
+16879,"Miscanthus","Miscanthus x giganteus","ENEA-B Brasimone",44.17,11.09,60,TRUE,1993,"1995",2,40000,16.7,FALSE,FALSE,FALSE,TRUE
+16880,"Miscanthus","Miscanthus x giganteus","ENEA-B Brasimone",44.17,11.09,60,TRUE,1993,"1996",3,40000,19.1,FALSE,FALSE,FALSE,TRUE
+16881,"Miscanthus","Miscanthus x giganteus","ENEA-B Brasimone",44.17,11.09,60,TRUE,1993,"1997",4,40000,19.7,FALSE,FALSE,FALSE,TRUE
+16882,"Miscanthus","Miscanthus x giganteus","Federal Research Center for Agriculture (FAL)",53.66,10.28,120,FALSE,1993,"1994",1,40000,4.2,FALSE,FALSE,FALSE,TRUE
+16883,"Miscanthus","Miscanthus x giganteus","Federal Research Center for Agriculture (FAL)",53.66,10.28,120,FALSE,1993,"1995",2,40000,11.8,FALSE,FALSE,FALSE,TRUE
+16884,"Miscanthus","Miscanthus x giganteus","Federal Research Center for Agriculture (FAL)",53.66,10.28,120,FALSE,1993,"1996",3,40000,18.3,FALSE,FALSE,FALSE,TRUE
+16885,"Miscanthus","Miscanthus x giganteus","Federal Research Center for Agriculture (FAL)",53.66,10.28,120,FALSE,1993,"1997",4,40000,21.5,FALSE,FALSE,FALSE,TRUE
+16886,"Miscanthus","Miscanthus x giganteus","Federal Research Center for Agriculture (FAL)",53.66,10.28,120,FALSE,1993,"1998",5,40000,22,FALSE,FALSE,FALSE,TRUE
+16887,"Miscanthus","Miscanthus x giganteus","Federal Research Center for Agriculture (FAL)",53.66,10.28,120,FALSE,1993,"1999",6,40000,26.2,FALSE,FALSE,FALSE,TRUE
+16888,"Miscanthus","Miscanthus x giganteus","Hyperion",53.33,-6.23,120,FALSE,1993,"1994",1,40000,1,FALSE,FALSE,FALSE,TRUE
+16889,"Miscanthus","Miscanthus x giganteus","Hyperion",53.33,-6.23,120,FALSE,1993,"1995",2,40000,5,FALSE,FALSE,FALSE,TRUE
+16890,"Miscanthus","Miscanthus x giganteus","Bayerische Landesanstalt für Weinbau und Gartenbau (LWG)",50.13,8.86,120,FALSE,1993,"1995",2,40000,1.98,FALSE,FALSE,FALSE,TRUE
+16891,"Miscanthus","Miscanthus x giganteus","Bayerische Landesanstalt für Weinbau und Gartenbau (LWG)",50.13,8.86,120,FALSE,1993,"1996",3,40000,9.13,FALSE,FALSE,FALSE,TRUE
+16892,"Miscanthus","Miscanthus x giganteus","Bayerische Landesanstalt für Weinbau und Gartenbau (LWG)",50.13,8.86,120,FALSE,1993,"1997",4,40000,5.57,FALSE,FALSE,FALSE,TRUE
+16893,"Miscanthus","Miscanthus x giganteus","Bayerische Landesanstalt für Weinbau und Gartenbau (LWG)",50.13,8.86,120,FALSE,1993,"1998",5,40000,9.21,FALSE,FALSE,FALSE,TRUE
+16894,"Miscanthus","Miscanthus x giganteus","Bayerische Landesanstalt für Weinbau und Gartenbau (LWG)",50.13,8.86,120,FALSE,1993,"1999",6,40000,10.05,FALSE,FALSE,FALSE,TRUE
+16895,"Miscanthus","Miscanthus x giganteus","Bayerische Landesanstalt für Weinbau und Gartenbau (LWG)",50.13,8.86,120,FALSE,1993,"2000",7,40000,11.13,FALSE,FALSE,FALSE,TRUE
+16896,"Miscanthus","Miscanthus x giganteus","Sorgham Origanization and Research Group for High Altitude or Latitude (SORGHAL)",50.85,4.35,120,FALSE,1993,"1994",1,40000,2.8,FALSE,FALSE,FALSE,TRUE
+16897,"Miscanthus","Miscanthus x giganteus","Sorgham Origanization and Research Group for High Altitude or Latitude (SORGHAL)",50.85,4.35,120,FALSE,1993,"1995",2,40000,5.2,FALSE,FALSE,FALSE,TRUE
+16898,"Miscanthus","Miscanthus x giganteus","Sorgham Origanization and Research Group for High Altitude or Latitude (SORGHAL)",50.85,4.35,120,FALSE,1993,"1996",3,40000,16.1,FALSE,FALSE,FALSE,TRUE
+16899,"Miscanthus","Miscanthus x giganteus","Sorgham Origanization and Research Group for High Altitude or Latitude (SORGHAL)",50.85,4.35,120,FALSE,1993,"1997",4,40000,15,FALSE,FALSE,FALSE,TRUE
+16900,"Miscanthus","Miscanthus x giganteus","Trinity College Dublin (TCD)",53.34,-6.25,120,FALSE,1993,"1995",2,40000,5.3,FALSE,FALSE,FALSE,TRUE
+16901,"Miscanthus","Miscanthus x giganteus","Trinity College Dublin (TCD)",53.34,-6.25,120,FALSE,1993,"1996",3,40000,7.7,FALSE,FALSE,FALSE,TRUE
+16902,"Miscanthus","Miscanthus x giganteus","Trinity College Dublin (TCD)",53.34,-6.25,120,FALSE,1993,"1997",4,40000,8.4,FALSE,FALSE,FALSE,TRUE
+16903,"Miscanthus","Miscanthus x giganteus","Trinity College Dublin (TCD)",53.34,-6.25,120,FALSE,1993,"1998",5,40000,13.6,FALSE,FALSE,FALSE,TRUE
+16904,"Miscanthus","Miscanthus x giganteus","Trinity College Dublin (TCD)",53.34,-6.25,120,FALSE,1993,"1999",6,40000,14,FALSE,FALSE,FALSE,TRUE
+16905,"Miscanthus","Miscanthus x giganteus","University of Santiago de Compostela (USC)",42.88,-8.54,120,TRUE,1993,"1994",1,40000,5,FALSE,FALSE,FALSE,TRUE
+16906,"Miscanthus","Miscanthus x giganteus","University of Santiago de Compostela (USC)",42.88,-8.54,60,TRUE,1993,"1995",2,40000,13.6,FALSE,FALSE,FALSE,TRUE
+16907,"Miscanthus","Miscanthus x giganteus","University of Santiago de Compostela (USC)",42.88,-8.54,120,TRUE,1993,"1996",3,40000,22.5,FALSE,FALSE,FALSE,TRUE
+16908,"Miscanthus","Miscanthus x giganteus","Istituto di Agronomia Generale e Coltivazioni Erbacee (IAGCE)",45.46,9.18,120,FALSE,1993,"1994",1,40000,4.9,FALSE,FALSE,FALSE,TRUE
+16909,"Miscanthus","Miscanthus x giganteus","Istituto di Agronomia Generale e Coltivazioni Erbacee (IAGCE)",45.46,9.18,120,FALSE,1993,"1995",2,40000,32.4,FALSE,FALSE,FALSE,TRUE
+16910,"Miscanthus","Miscanthus x giganteus","Istituto di Agronomia Generale e Coltivazioni Erbacee (IAGCE)",45.46,9.18,120,FALSE,1993,"1996",3,40000,26.8,FALSE,FALSE,FALSE,TRUE
+16911,"Miscanthus","Miscanthus x giganteus","ADAS Arthur Rickwood ",52.42,0.11,120,FALSE,1993,"1994",1,40000,4.1,FALSE,FALSE,FALSE,TRUE
+16912,"Miscanthus","Miscanthus x giganteus","ADAS Arthur Rickwood ",52.42,0.11,120,FALSE,1993,"1995",2,40000,11.6,FALSE,FALSE,FALSE,TRUE
+16913,"Miscanthus","Miscanthus x giganteus","ADAS Arthur Rickwood ",52.42,0.11,120,FALSE,1993,"1996",3,40000,14.4,FALSE,FALSE,FALSE,TRUE
+16914,"Miscanthus","Miscanthus x giganteus","ADAS Arthur Rickwood ",52.42,0.11,120,FALSE,1993,"1994",1,40000,4.9,FALSE,FALSE,FALSE,TRUE
+16915,"Miscanthus","Miscanthus x giganteus","ADAS Arthur Rickwood ",52.42,0.11,120,FALSE,1993,"1995",2,40000,15,FALSE,FALSE,FALSE,TRUE
+16916,"Miscanthus","Miscanthus x giganteus","ADAS Arthur Rickwood ",52.42,0.11,120,FALSE,1993,"1996",3,40000,13.4,FALSE,FALSE,FALSE,TRUE
+16917,"Miscanthus","Miscanthus x giganteus","Institute of Arable Crops Research (IACR)",51.81,-0.36,120,FALSE,1993,"1994",1,40000,1.9,FALSE,FALSE,FALSE,TRUE
+16918,"Miscanthus","Miscanthus x giganteus","Institute of Arable Crops Research (IACR)",51.81,-0.36,120,FALSE,1993,"1995",2,40000,8.4,FALSE,FALSE,FALSE,TRUE
+16919,"Miscanthus","Miscanthus x giganteus","Institute of Arable Crops Research (IACR)",51.81,-0.36,120,FALSE,1993,"1996",3,40000,11,FALSE,FALSE,FALSE,TRUE
+16920,"Miscanthus","Miscanthus x giganteus","Institute of Arable Crops Research (IACR)",51.81,-0.36,120,FALSE,1993,"1997",4,40000,12.2,FALSE,FALSE,FALSE,TRUE
+16921,"Miscanthus","Miscanthus x giganteus","Essex University",51.89,0.9,120,FALSE,1993,"1994",1,40000,8.9,FALSE,FALSE,FALSE,TRUE
+16922,"Miscanthus","Miscanthus x giganteus","Essex University",51.89,0.9,120,FALSE,1993,"1995",2,40000,16.5,FALSE,FALSE,FALSE,TRUE
+16923,"Miscanthus","Miscanthus x giganteus","Essex University",51.89,0.9,120,FALSE,1993,"1996",3,40000,16.6,FALSE,FALSE,FALSE,TRUE
+16924,"Miscanthus","Miscanthus x giganteus","Universidade Nova de Lisboa (UNIOVA)",38.73,-9.16,120,TRUE,1993,"1995",2,40000,2.7,FALSE,FALSE,FALSE,TRUE
+16925,"Miscanthus","Miscanthus x giganteus","Universidade Nova de Lisboa (UNIOVA)",38.73,-9.16,120,TRUE,1993,"1996",3,40000,3.1,FALSE,FALSE,FALSE,TRUE
+16926,"Miscanthus","Miscanthus x giganteus","Universidade Nova de Lisboa (UNIOVA)",38.73,-9.16,120,TRUE,1993,"1997",4,40000,24.3,FALSE,FALSE,FALSE,TRUE
+16927,"Miscanthus","Miscanthus x giganteus","Universidade Nova de Lisboa (UNIOVA)",38.73,-9.16,120,TRUE,1993,"1998",5,40000,25.1,FALSE,FALSE,FALSE,TRUE
+16928,"Miscanthus","Miscanthus x giganteus","Universidade Nova de Lisboa (UNIOVA)",38.73,-9.16,120,TRUE,1993,"1999",6,40000,24,FALSE,FALSE,FALSE,TRUE
+1079,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.1,FALSE,FALSE,FALSE,TRUE
+1080,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,0,FALSE,FALSE,FALSE,TRUE
+1081,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1082,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.1,FALSE,FALSE,FALSE,TRUE
+1083,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,0,FALSE,FALSE,FALSE,TRUE
+1084,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1085,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.1,FALSE,FALSE,FALSE,TRUE
+1086,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,0,FALSE,FALSE,FALSE,TRUE
+1087,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1088,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.1,FALSE,FALSE,FALSE,TRUE
+1089,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,0,FALSE,FALSE,FALSE,TRUE
+1090,"Miscanthus","Miscanthus x giganteus","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1091,"Miscanthus","Miscanthus sacchariflorus","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.5,TRUE,FALSE,FALSE,FALSE
+1092,"Miscanthus","Miscanthus sacchariflorus","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,0,TRUE,FALSE,FALSE,FALSE
+1093,"Miscanthus","Miscanthus sacchariflorus","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,0,TRUE,FALSE,FALSE,FALSE
+1094,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.2,FALSE,TRUE,TRUE,FALSE
+1095,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,5,FALSE,TRUE,TRUE,FALSE
+1096,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,19.3,FALSE,TRUE,TRUE,FALSE
+1097,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.4,FALSE,TRUE,TRUE,FALSE
+1098,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,3.8,FALSE,TRUE,TRUE,FALSE
+1099,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,11,FALSE,TRUE,TRUE,FALSE
+1100,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.4,FALSE,TRUE,TRUE,FALSE
+1101,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,9.5,FALSE,TRUE,TRUE,FALSE
+1102,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,24.7,FALSE,TRUE,TRUE,FALSE
+1103,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.6,FALSE,TRUE,TRUE,FALSE
+1104,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,5.4,FALSE,TRUE,TRUE,FALSE
+1105,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,14.2,FALSE,TRUE,TRUE,FALSE
+1106,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.8,FALSE,TRUE,TRUE,FALSE
+1107,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,11.4,FALSE,TRUE,TRUE,FALSE
+1108,"Miscanthus","Miscanthus sinensis Hybrid","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,20.5,FALSE,TRUE,TRUE,FALSE
+1109,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.4,FALSE,TRUE,FALSE,FALSE
+1110,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,5.2,FALSE,TRUE,FALSE,FALSE
+1111,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,15.4,FALSE,TRUE,FALSE,FALSE
+1112,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.2,FALSE,TRUE,FALSE,FALSE
+1113,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,5,FALSE,TRUE,FALSE,FALSE
+1114,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,15.3,FALSE,TRUE,FALSE,FALSE
+1115,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.2,FALSE,TRUE,FALSE,FALSE
+1116,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,6.7,FALSE,TRUE,FALSE,FALSE
+1117,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,17.3,FALSE,TRUE,FALSE,FALSE
+1118,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.4,FALSE,TRUE,FALSE,FALSE
+1119,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,3.9,FALSE,TRUE,FALSE,FALSE
+1120,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,13.8,FALSE,TRUE,FALSE,FALSE
+1121,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/12/1997",0,20000,0.3,FALSE,TRUE,FALSE,FALSE
+1122,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"11/24/1998",1,20000,3.1,FALSE,TRUE,FALSE,FALSE
+1123,"Miscanthus","Miscanthus sinensis","Kristianstad",56,14,60,TRUE,1997,"10/18/1999",2,20000,9.7,FALSE,TRUE,FALSE,FALSE
+1124,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.7,FALSE,FALSE,FALSE,TRUE
+1125,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1126,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,0,FALSE,FALSE,FALSE,TRUE
+1127,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.8,FALSE,FALSE,FALSE,TRUE
+1128,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1129,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,0,FALSE,FALSE,FALSE,TRUE
+1130,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,1.1,FALSE,FALSE,FALSE,TRUE
+1131,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1132,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,0,FALSE,FALSE,FALSE,TRUE
+1133,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.8,FALSE,FALSE,FALSE,TRUE
+1134,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,0,FALSE,FALSE,FALSE,TRUE
+1135,"Miscanthus","Miscanthus x giganteus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,0,FALSE,FALSE,FALSE,TRUE
+1136,"Miscanthus","Miscanthus sacchariflorus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.5,TRUE,FALSE,FALSE,FALSE
+1137,"Miscanthus","Miscanthus sacchariflorus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,0.7,TRUE,FALSE,FALSE,FALSE
+1138,"Miscanthus","Miscanthus sacchariflorus","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,1.4,TRUE,FALSE,FALSE,FALSE
+1139,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.9,FALSE,TRUE,TRUE,FALSE
+1140,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,5.2,FALSE,TRUE,TRUE,FALSE
+1141,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,16.4,FALSE,TRUE,TRUE,FALSE
+1142,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,1.1,FALSE,TRUE,TRUE,FALSE
+1143,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,4.7,FALSE,TRUE,TRUE,FALSE
+1144,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,10.4,FALSE,TRUE,TRUE,FALSE
+1145,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.3,FALSE,TRUE,TRUE,FALSE
+1146,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,4.1,FALSE,TRUE,TRUE,FALSE
+1147,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,15.9,FALSE,TRUE,TRUE,FALSE
+1148,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,1.4,FALSE,TRUE,TRUE,FALSE
+1149,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,1.4,FALSE,TRUE,TRUE,FALSE
+1150,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,0.9,FALSE,TRUE,TRUE,FALSE
+1151,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,1.4,FALSE,TRUE,TRUE,FALSE
+1152,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,7.8,FALSE,TRUE,TRUE,FALSE
+1153,"Miscanthus","Miscanthus sinensis Hybrid","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,18.2,FALSE,TRUE,TRUE,FALSE
+1154,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.4,FALSE,TRUE,FALSE,FALSE
+1155,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,5.2,FALSE,TRUE,FALSE,FALSE
+1156,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,15,FALSE,TRUE,FALSE,FALSE
+1157,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.3,FALSE,TRUE,FALSE,FALSE
+1158,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,3.1,FALSE,TRUE,FALSE,FALSE
+1159,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,12.4,FALSE,TRUE,FALSE,FALSE
+1160,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.3,FALSE,TRUE,FALSE,FALSE
+1161,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,3.3,FALSE,TRUE,FALSE,FALSE
+1162,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,11.2,FALSE,TRUE,FALSE,FALSE
+1163,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.6,FALSE,TRUE,FALSE,FALSE
+1164,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,2.4,FALSE,TRUE,FALSE,FALSE
+1165,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,9.9,FALSE,TRUE,FALSE,FALSE
+1166,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/27/1997",1,20000,0.2,FALSE,TRUE,FALSE,FALSE
+1167,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/19/1998",2,20000,1.9,FALSE,TRUE,FALSE,FALSE
+1168,"Miscanthus","Miscanthus sinensis","Danish Institute of Agricultural Sciences, Research Centre Foulum",56.5,9.58,60,TRUE,1996,"11/18/1999",3,20000,6.8,FALSE,TRUE,FALSE,FALSE
+1169,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.6,FALSE,FALSE,FALSE,TRUE
+1170,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,3,FALSE,FALSE,FALSE,TRUE
+1171,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,13.8,FALSE,FALSE,FALSE,TRUE
+1172,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.8,FALSE,FALSE,FALSE,TRUE
+1173,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,5.7,FALSE,FALSE,FALSE,TRUE
+1174,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,16.8,FALSE,FALSE,FALSE,TRUE
+1175,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.9,FALSE,FALSE,FALSE,TRUE
+1176,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,5.9,FALSE,FALSE,FALSE,TRUE
+1177,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,18.7,FALSE,FALSE,FALSE,TRUE
+1178,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.8,FALSE,FALSE,FALSE,TRUE
+1179,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,5.3,FALSE,FALSE,FALSE,TRUE
+1180,"Miscanthus","Miscanthus x giganteus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,14.6,FALSE,FALSE,FALSE,TRUE
+1181,"Miscanthus","Miscanthus sacchariflorus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.4,TRUE,FALSE,FALSE,FALSE
+1182,"Miscanthus","Miscanthus sacchariflorus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,1.9,TRUE,FALSE,FALSE,FALSE
+1183,"Miscanthus","Miscanthus sacchariflorus","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,11.1,TRUE,FALSE,FALSE,FALSE
+1184,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,1.4,FALSE,TRUE,TRUE,FALSE
+1185,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,7,FALSE,TRUE,TRUE,FALSE
+1186,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,15.7,FALSE,TRUE,TRUE,FALSE
+1187,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,1.2,FALSE,TRUE,TRUE,FALSE
+1188,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,5.9,FALSE,TRUE,TRUE,FALSE
+1189,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,17.7,FALSE,TRUE,TRUE,FALSE
+1190,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.2,FALSE,TRUE,TRUE,FALSE
+1191,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,1.4,FALSE,TRUE,TRUE,FALSE
+1192,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,6.5,FALSE,TRUE,TRUE,FALSE
+1193,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,1.7,FALSE,TRUE,TRUE,FALSE
+1194,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,7.7,FALSE,TRUE,TRUE,FALSE
+1195,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,15.8,FALSE,TRUE,TRUE,FALSE
+1196,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.8,FALSE,TRUE,TRUE,FALSE
+1197,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,6,FALSE,TRUE,TRUE,FALSE
+1198,"Miscanthus","Miscanthus sinensis Hybrid","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,14,FALSE,TRUE,TRUE,FALSE
+1199,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.1,FALSE,TRUE,FALSE,FALSE
+1200,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,1.9,FALSE,TRUE,FALSE,FALSE
+1201,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,8,FALSE,TRUE,FALSE,FALSE
+1202,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.1,FALSE,TRUE,FALSE,FALSE
+1203,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,2,FALSE,TRUE,FALSE,FALSE
+1204,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,7,FALSE,TRUE,FALSE,FALSE
+1205,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.2,FALSE,TRUE,FALSE,FALSE
+1206,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,3,FALSE,TRUE,FALSE,FALSE
+1207,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,10.9,FALSE,TRUE,FALSE,FALSE
+1208,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.1,FALSE,TRUE,FALSE,FALSE
+1209,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,0.6,FALSE,TRUE,FALSE,FALSE
+1210,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,4.6,FALSE,TRUE,FALSE,FALSE
+1211,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/15/1997",0,20000,0.2,FALSE,TRUE,FALSE,FALSE
+1212,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/24/1998",1,20000,2,FALSE,TRUE,FALSE,FALSE
+1213,"Miscanthus","Miscanthus sinensis","Harpenden",51.8,-0.35,60,TRUE,1997,"11/3/1999",2,20000,5.9,FALSE,TRUE,FALSE,FALSE
+1214,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,3.2,FALSE,FALSE,FALSE,TRUE
+1215,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,8,FALSE,FALSE,FALSE,TRUE
+1216,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,22.8,FALSE,FALSE,FALSE,TRUE
+1217,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,3.4,FALSE,FALSE,FALSE,TRUE
+1218,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,8.7,FALSE,FALSE,FALSE,TRUE
+1219,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,24.3,FALSE,FALSE,FALSE,TRUE
+1220,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,3.3,FALSE,FALSE,FALSE,TRUE
+1221,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,8.9,FALSE,FALSE,FALSE,TRUE
+1222,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,25.7,FALSE,FALSE,FALSE,TRUE
+1223,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,3,FALSE,FALSE,FALSE,TRUE
+1224,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,8.1,FALSE,FALSE,FALSE,TRUE
+1225,"Miscanthus","Miscanthus x giganteus","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,29.1,FALSE,FALSE,FALSE,TRUE
+1226,"Miscanthus","Miscanthus sacchariflorus","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,2.9,TRUE,FALSE,FALSE,FALSE
+1227,"Miscanthus","Miscanthus sacchariflorus","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,4.6,TRUE,FALSE,FALSE,FALSE
+1228,"Miscanthus","Miscanthus sacchariflorus","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,12.6,TRUE,FALSE,FALSE,FALSE
+1229,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,2.8,FALSE,TRUE,TRUE,FALSE
+1230,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,7.4,FALSE,TRUE,TRUE,FALSE
+1231,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,20,FALSE,TRUE,TRUE,FALSE
+1232,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,1.1,FALSE,TRUE,TRUE,FALSE
+1233,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,3.6,FALSE,TRUE,TRUE,FALSE
+1234,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,17,FALSE,TRUE,TRUE,FALSE
+1235,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,1,FALSE,TRUE,TRUE,FALSE
+1236,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,7.3,FALSE,TRUE,TRUE,FALSE
+1237,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,19.2,FALSE,TRUE,TRUE,FALSE
+1238,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,3,FALSE,TRUE,TRUE,FALSE
+1239,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,7.6,FALSE,TRUE,TRUE,FALSE
+1240,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,10.3,FALSE,TRUE,TRUE,FALSE
+1241,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,1.9,FALSE,TRUE,TRUE,FALSE
+1242,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,9.7,FALSE,TRUE,TRUE,FALSE
+1243,"Miscanthus","Miscanthus sinensis Hybrid","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,19.1,FALSE,TRUE,TRUE,FALSE
+1244,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,0.7,FALSE,TRUE,FALSE,FALSE
+1245,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,4.4,FALSE,TRUE,FALSE,FALSE
+1246,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,12.8,FALSE,TRUE,FALSE,FALSE
+1247,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,0.6,FALSE,TRUE,FALSE,FALSE
+1248,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,4.5,FALSE,TRUE,FALSE,FALSE
+1249,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,10.9,FALSE,TRUE,FALSE,FALSE
+1250,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,1,FALSE,TRUE,FALSE,FALSE
+1251,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,5,FALSE,TRUE,FALSE,FALSE
+1252,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,12.3,FALSE,TRUE,FALSE,FALSE
+1253,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,0.5,FALSE,TRUE,FALSE,FALSE
+1254,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,3.6,FALSE,TRUE,FALSE,FALSE
+1255,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,10.4,FALSE,TRUE,FALSE,FALSE
+1256,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/11/1997",1,20000,0.5,FALSE,TRUE,FALSE,FALSE
+1257,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"11/23/1998",2,20000,2.5,FALSE,TRUE,FALSE,FALSE
+1258,"Miscanthus","Miscanthus sinensis","Sttutgart",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,9.1,FALSE,TRUE,FALSE,FALSE
+1259,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,8.4,FALSE,FALSE,FALSE,TRUE
+1260,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,26.9,FALSE,FALSE,FALSE,TRUE
+1261,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,37.8,FALSE,FALSE,FALSE,TRUE
+1262,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,4.6,FALSE,FALSE,FALSE,TRUE
+1263,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,25.5,FALSE,FALSE,FALSE,TRUE
+1264,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,36.4,FALSE,FALSE,FALSE,TRUE
+1265,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,6,FALSE,FALSE,FALSE,TRUE
+1266,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,30.3,FALSE,FALSE,FALSE,TRUE
+1267,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,36.8,FALSE,FALSE,FALSE,TRUE
+1268,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,8.1,FALSE,FALSE,FALSE,TRUE
+1269,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,25.6,FALSE,FALSE,FALSE,TRUE
+1270,"Miscanthus","Miscanthus x giganteus","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,34.7,FALSE,FALSE,FALSE,TRUE
+1271,"Miscanthus","Miscanthus sacchariflorus","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,4.4,TRUE,FALSE,FALSE,FALSE
+1272,"Miscanthus","Miscanthus sacchariflorus","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,15.1,TRUE,FALSE,FALSE,FALSE
+1273,"Miscanthus","Miscanthus sacchariflorus","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,35.2,TRUE,FALSE,FALSE,FALSE
+1274,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,7.9,FALSE,TRUE,TRUE,FALSE
+1275,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,18.4,FALSE,TRUE,TRUE,FALSE
+1276,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,27.2,FALSE,TRUE,TRUE,FALSE
+1277,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,7.5,FALSE,TRUE,TRUE,FALSE
+1278,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,27.2,FALSE,TRUE,TRUE,FALSE
+1279,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,40.9,FALSE,TRUE,TRUE,FALSE
+1280,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,2.5,FALSE,TRUE,TRUE,FALSE
+1281,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,10.8,FALSE,TRUE,TRUE,FALSE
+1282,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,21,FALSE,TRUE,TRUE,FALSE
+1283,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,7.6,FALSE,TRUE,TRUE,FALSE
+1284,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,20.1,FALSE,TRUE,TRUE,FALSE
+1285,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,26.3,FALSE,TRUE,TRUE,FALSE
+1286,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,6.3,FALSE,TRUE,TRUE,FALSE
+1287,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,13.6,FALSE,TRUE,TRUE,FALSE
+1288,"Miscanthus","Miscanthus sinensis Hybrid","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,20.3,FALSE,TRUE,TRUE,FALSE
+1289,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,5.9,FALSE,TRUE,FALSE,FALSE
+1290,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,10.6,FALSE,TRUE,FALSE,FALSE
+1291,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,16.2,FALSE,TRUE,FALSE,FALSE
+1292,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,4.7,FALSE,TRUE,FALSE,FALSE
+1293,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,10.2,FALSE,TRUE,FALSE,FALSE
+1294,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,16.3,FALSE,TRUE,FALSE,FALSE
+1295,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,5.7,FALSE,TRUE,FALSE,FALSE
+1296,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,16.3,FALSE,TRUE,FALSE,FALSE
+1297,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,22.4,FALSE,TRUE,FALSE,FALSE
+1298,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,5.3,FALSE,TRUE,FALSE,FALSE
+1299,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,11.6,FALSE,TRUE,FALSE,FALSE
+1300,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,16.1,FALSE,TRUE,FALSE,FALSE
+1301,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/27/1997",1,20000,2,FALSE,TRUE,FALSE,FALSE
+1302,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/15/1998",2,20000,8.8,FALSE,TRUE,FALSE,FALSE
+1303,"Miscanthus","Miscanthus sinensis","Lisbon",48.67,9,60,TRUE,1996,"10/6/1999",3,20000,16.1,FALSE,TRUE,FALSE,FALSE
+947,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,6.8,FALSE,TRUE,FALSE,FALSE
+948,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,6.9,FALSE,TRUE,FALSE,FALSE
+949,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,7,FALSE,TRUE,FALSE,FALSE
+950,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,7.2,FALSE,TRUE,FALSE,FALSE
+951,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,8,FALSE,TRUE,FALSE,FALSE
+952,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,11,FALSE,TRUE,FALSE,FALSE
+953,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,13,FALSE,TRUE,FALSE,FALSE
+954,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,18,FALSE,TRUE,FALSE,FALSE
+955,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,26,FALSE,TRUE,FALSE,FALSE
+956,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,27,FALSE,TRUE,FALSE,FALSE
+957,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,17777,27,FALSE,TRUE,FALSE,FALSE
+958,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"2/17/1994",1,17777,NA,NA,NA,NA,NA
+959,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,6.9,FALSE,TRUE,FALSE,FALSE
+960,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,6.9,FALSE,TRUE,FALSE,FALSE
+961,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,7.6,FALSE,TRUE,FALSE,FALSE
+962,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,8.8,FALSE,TRUE,FALSE,FALSE
+963,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,11,FALSE,TRUE,FALSE,FALSE
+964,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,15,FALSE,TRUE,FALSE,FALSE
+965,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,27,FALSE,TRUE,FALSE,FALSE
+966,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,41,FALSE,TRUE,FALSE,FALSE
+967,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,52,FALSE,TRUE,FALSE,FALSE
+968,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,47,FALSE,TRUE,FALSE,FALSE
+969,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"1993",0,40000,45,FALSE,TRUE,FALSE,FALSE
+970,"Miscanthus","Miscanthus sinensis","ADAS Arthur Rickwood",52.42,0.11,60,TRUE,1993,"2/17/1994",1,40000,NA,NA,NA,NA,NA
+16969,"Miscanthus","Miscanthus x giganteus","St Florian",48.23,14.39,60,FALSE,1989,"1990",1,10000,15.7,FALSE,FALSE,FALSE,TRUE
+16970,"Miscanthus","Miscanthus x giganteus","St Florian",48.23,14.39,60,FALSE,1989,"1991",2,10000,24.9,FALSE,FALSE,FALSE,TRUE
+16971,"Miscanthus","Miscanthus x giganteus","St Florian",48.23,14.39,60,FALSE,1989,"1992",3,10000,22.7,FALSE,FALSE,FALSE,TRUE
+16972,"Miscanthus","Miscanthus x giganteus","St Florian",48.23,14.39,60,FALSE,1989,"1993",4,10000,23,FALSE,FALSE,FALSE,TRUE
+16973,"Miscanthus","Miscanthus x giganteus","St Florian",48.23,14.39,60,FALSE,1989,"1994",5,10000,20.3,FALSE,FALSE,FALSE,TRUE
+16974,"Miscanthus","Miscanthus x giganteus","St Florian",48.23,14.39,60,FALSE,1989,"1995",6,10000,18,FALSE,FALSE,FALSE,TRUE
+16975,"Miscanthus","Miscanthus x giganteus","Atzenbrugg",48.29,15.91,60,FALSE,1989,"1990",1,10000,8.8,FALSE,FALSE,FALSE,TRUE
+16976,"Miscanthus","Miscanthus x giganteus","Atzenbrugg",48.29,15.91,60,FALSE,1989,"1991",2,10000,22.1,FALSE,FALSE,FALSE,TRUE
+16977,"Miscanthus","Miscanthus x giganteus","Atzenbrugg",48.29,15.91,60,FALSE,1989,"1992",3,10000,19.8,FALSE,FALSE,FALSE,TRUE
+16978,"Miscanthus","Miscanthus x giganteus","Atzenbrugg",48.29,15.91,60,FALSE,1989,"1993",4,10000,18,FALSE,FALSE,FALSE,TRUE
+16979,"Miscanthus","Miscanthus x giganteus","Atzenbrugg",48.29,15.91,60,FALSE,1989,"1994",5,10000,19.6,FALSE,FALSE,FALSE,TRUE
+16980,"Miscanthus","Miscanthus x giganteus","Atzenbrugg",48.29,15.91,60,FALSE,1989,"1995",6,10000,17.6,FALSE,FALSE,FALSE,TRUE
+16981,"Miscanthus","Miscanthus x giganteus","Markgraf",47.84,6.42,60,TRUE,1989,"1990",1,10000,14.8,FALSE,FALSE,FALSE,TRUE
+16982,"Miscanthus","Miscanthus x giganteus","Markgraf",47.84,6.42,60,TRUE,1989,"1991",2,10000,35.5,FALSE,FALSE,FALSE,TRUE
+16983,"Miscanthus","Miscanthus x giganteus","Markgraf",47.84,6.42,60,TRUE,1989,"1992",3,10000,21.6,FALSE,FALSE,FALSE,TRUE
+16984,"Miscanthus","Miscanthus x giganteus","Markgraf",47.84,6.42,60,TRUE,1989,"1993",4,10000,23,FALSE,FALSE,FALSE,TRUE
+16985,"Miscanthus","Miscanthus x giganteus","Markgraf",47.84,6.42,60,TRUE,1989,"1994",5,10000,21.4,FALSE,FALSE,FALSE,TRUE
+16986,"Miscanthus","Miscanthus x giganteus","Markgraf",47.84,6.42,60,TRUE,1989,"1995",6,10000,22.7,FALSE,FALSE,FALSE,TRUE
+16987,"Miscanthus","Miscanthus x giganteus","Steinbrunn",47.84,6.42,60,TRUE,1989,"1990",1,10000,8,FALSE,FALSE,FALSE,TRUE
+16988,"Miscanthus","Miscanthus x giganteus","Steinbrunn",47.84,6.42,60,TRUE,1989,"1991",2,10000,17.5,FALSE,FALSE,FALSE,TRUE
+16989,"Miscanthus","Miscanthus x giganteus","Steinbrunn",47.84,6.42,60,TRUE,1989,"1992",3,10000,20.9,FALSE,FALSE,FALSE,TRUE
+16990,"Miscanthus","Miscanthus x giganteus","Steinbrunn",47.84,6.42,60,TRUE,1989,"1993",4,10000,19.3,FALSE,FALSE,FALSE,TRUE
+16991,"Miscanthus","Miscanthus x giganteus","Steinbrunn",47.84,6.42,60,TRUE,1989,"1994",5,10000,17.3,FALSE,FALSE,FALSE,TRUE
+16992,"Miscanthus","Miscanthus x giganteus","Steinbrunn",47.84,6.42,60,TRUE,1989,"1995",6,10000,18.7,FALSE,FALSE,FALSE,TRUE
+16993,"Miscanthus","Miscanthus x giganteus","Ilz",48.23,14.39,60,FALSE,1989,"1990",1,10000,12.1,FALSE,FALSE,FALSE,TRUE
+16994,"Miscanthus","Miscanthus x giganteus","Ilz",48.23,14.39,60,FALSE,1989,"1991",2,10000,23,FALSE,FALSE,FALSE,TRUE
+16995,"Miscanthus","Miscanthus x giganteus","Ilz",48.23,14.39,60,FALSE,1989,"1992",3,10000,28.9,FALSE,FALSE,FALSE,TRUE
+16996,"Miscanthus","Miscanthus x giganteus","Ilz",48.23,14.39,60,FALSE,1989,"1993",4,10000,26.1,FALSE,FALSE,FALSE,TRUE
+16997,"Miscanthus","Miscanthus x giganteus","Ilz",48.23,14.39,60,FALSE,1989,"1994",5,10000,25.8,FALSE,FALSE,FALSE,TRUE
+16998,"Miscanthus","Miscanthus x giganteus","Ilz",48.23,14.39,60,FALSE,1989,"1995",6,10000,27.6,FALSE,FALSE,FALSE,TRUE
+1536,"Miscanthus","Miscanthus x giganteus","Rothamsted Research",51.81,-0.352,60,FALSE,1993,"1995",2,20000,15.56,FALSE,FALSE,FALSE,TRUE
+1537,"Miscanthus","Miscanthus x giganteus","Rothamsted Research",51.81,-0.352,60,FALSE,1993,"1996",3,20000,23.75,FALSE,FALSE,FALSE,TRUE
+1538,"Miscanthus","Miscanthus x giganteus","Rothamsted Research",51.81,-0.352,60,FALSE,1993,"1997",4,20000,33.8,FALSE,FALSE,FALSE,TRUE
+1539,"Miscanthus","Miscanthus x giganteus","Rothamsted Research",51.81,-0.352,60,FALSE,1993,"1996",3,20000,23.69,FALSE,FALSE,FALSE,TRUE
+1540,"Miscanthus","Miscanthus x giganteus","Rothamsted Research",51.81,-0.352,60,FALSE,1993,"1997",4,20000,29.88,FALSE,FALSE,FALSE,TRUE
+1541,"Miscanthus","Miscanthus x giganteus","Rothamsted Research",51.81,-0.352,60,FALSE,1993,"1997",4,20000,32.61,FALSE,FALSE,FALSE,TRUE
+892,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,0,FALSE,FALSE,FALSE,TRUE
+893,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,1.34,FALSE,FALSE,FALSE,TRUE
+894,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,5.12,FALSE,FALSE,FALSE,TRUE
+895,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,9.92,FALSE,FALSE,FALSE,TRUE
+896,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,17.35,FALSE,FALSE,FALSE,TRUE
+897,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,28.43,FALSE,FALSE,FALSE,TRUE
+898,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,31.01,FALSE,FALSE,FALSE,TRUE
+899,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1993",1,10000,30.25,FALSE,FALSE,FALSE,TRUE
+900,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,0,FALSE,FALSE,FALSE,TRUE
+901,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,1.42,FALSE,FALSE,FALSE,TRUE
+902,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,15.04,FALSE,FALSE,FALSE,TRUE
+903,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,22.48,FALSE,FALSE,FALSE,TRUE
+904,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,30.94,FALSE,FALSE,FALSE,TRUE
+905,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,35.14,FALSE,FALSE,FALSE,TRUE
+906,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,42.79,FALSE,FALSE,FALSE,TRUE
+907,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,TRUE,1992,"1994",2,10000,37.47,FALSE,FALSE,FALSE,TRUE
+908,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,FALSE,1992,"1995",3,10000,0,FALSE,FALSE,FALSE,TRUE
+909,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,FALSE,1992,"1995",3,10000,14.35,FALSE,FALSE,FALSE,TRUE
+910,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,FALSE,1992,"1995",3,10000,21.17,FALSE,FALSE,FALSE,TRUE
+911,"Miscanthus","Miscanthus x giganteus","Koutso",41.14,24.88,0,FALSE,1992,"1995",3,10000,23.15,FALSE,FALSE,FALSE,TRUE
+16863,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,0,TRUE,1993,"10/1/1995",2,8500,30.48,FALSE,FALSE,FALSE,TRUE
+16864,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,0,TRUE,1993,"10/1/1995",2,8500,36.4,FALSE,FALSE,FALSE,TRUE
+16865,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,120,FALSE,1993,"10/1/1995",2,8500,29.78,FALSE,FALSE,FALSE,TRUE
+16866,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,40,FALSE,1993,"10/1/1995",2,8500,20.76,FALSE,FALSE,FALSE,TRUE
+16999,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,0,FALSE,1993,"10/1/1995",2,8500,2.91,FALSE,FALSE,FALSE,TRUE
+17000,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,0,TRUE,1993,"10/1/1995",2,8500,24.84,FALSE,FALSE,FALSE,TRUE
+17001,"Miscanthus","Miscanthus x giganteus","Sperchiada area",38.91,22.44,0,TRUE,1993,"10/1/1995",2,8500,31.7,FALSE,FALSE,FALSE,TRUE
+886,"Miscanthus","Miscanthus sinensis","Pisa",43.67,10.32,200,TRUE,1992,"1992",0,40000,35,FALSE,TRUE,FALSE,FALSE
+887,"Miscanthus","Miscanthus sinensis","Pisa",43.67,10.32,200,FALSE,1992,"1993",1,40000,24,FALSE,TRUE,FALSE,FALSE
+888,"Miscanthus","Miscanthus sinensis","Pisa",43.67,10.32,100,TRUE,1992,"1994",2,40000,24,FALSE,TRUE,FALSE,FALSE
+889,"Miscanthus","Miscanthus sinensis","Pisa",43.67,10.32,100,FALSE,1992,"1995",3,40000,20.5,FALSE,TRUE,FALSE,FALSE
+890,"Miscanthus","Miscanthus sinensis","Pisa",43.67,10.32,0,TRUE,1992,"1996",4,40000,17.5,FALSE,TRUE,FALSE,FALSE
+891,"Miscanthus","Miscanthus sinensis","Pisa",43.67,10.32,0,FALSE,1992,"1997",5,40000,17,FALSE,TRUE,FALSE,FALSE
+1902,"Miscanthus","Miscanthus x giganteus","Rhine valley",50,7.85,0,FALSE,1989,"1989",0,9000,1,FALSE,FALSE,FALSE,TRUE
+1903,"Miscanthus","Miscanthus x giganteus","Rhine valley",50,7.85,0,FALSE,1989,"1990",1,9000,11.3,FALSE,FALSE,FALSE,TRUE
+1904,"Miscanthus","Miscanthus x giganteus","Rhine valley",50,7.85,0,FALSE,1989,"1991",2,9000,20.7,FALSE,FALSE,FALSE,TRUE
+1905,"Miscanthus","Miscanthus x giganteus","Rhine valley",50,7.85,90,FALSE,1989,"1992",3,9000,30,FALSE,FALSE,FALSE,TRUE
+1906,"Miscanthus","Miscanthus x giganteus","Rhine valley",50,7.85,90,FALSE,1989,"1993",4,9000,17,FALSE,FALSE,FALSE,TRUE
+1922,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1988",1,10000,0.4,FALSE,FALSE,FALSE,TRUE
+1923,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1989",2,10000,3.8,FALSE,FALSE,FALSE,TRUE
+1924,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1990",3,10000,14.3,FALSE,FALSE,FALSE,TRUE
+1925,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1991",4,10000,17.3,FALSE,FALSE,FALSE,TRUE
+1926,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1992",5,10000,24.5,FALSE,FALSE,FALSE,TRUE
+1927,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1993",6,10000,17.2,FALSE,FALSE,FALSE,TRUE
+1928,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1994",7,10000,20.3,FALSE,FALSE,FALSE,TRUE
+1929,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1988",1,20000,1.5,FALSE,FALSE,FALSE,TRUE
+1930,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1989",2,20000,6.6,FALSE,FALSE,FALSE,TRUE
+1931,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1990",3,20000,17.8,FALSE,FALSE,FALSE,TRUE
+1932,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1991",4,20000,18.6,FALSE,FALSE,FALSE,TRUE
+1933,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1992",5,20000,23.4,FALSE,FALSE,FALSE,TRUE
+1934,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1993",6,20000,15.7,FALSE,FALSE,FALSE,TRUE
+1935,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1994",7,20000,21.6,FALSE,FALSE,FALSE,TRUE
+1936,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1988",1,30000,0.7,FALSE,FALSE,FALSE,TRUE
+1937,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1989",2,30000,4.6,FALSE,FALSE,FALSE,TRUE
+1938,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1990",3,30000,16,FALSE,FALSE,FALSE,TRUE
+1939,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1991",4,30000,17,FALSE,FALSE,FALSE,TRUE
+1940,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1992",5,30000,26.8,FALSE,FALSE,FALSE,TRUE
+1941,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1993",6,30000,14.8,FALSE,FALSE,FALSE,TRUE
+1942,"Miscanthus","Miscanthus x giganteus","Veitshoechheim",49.83,9.87,0,FALSE,1987,"1994",7,30000,17.8,FALSE,FALSE,FALSE,TRUE
+1945,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,75,FALSE,1990,"1993",3,40000,4.62,FALSE,FALSE,FALSE,TRUE
+1946,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,75,FALSE,1990,"1993",3,40000,8.94,FALSE,FALSE,FALSE,TRUE
+1947,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,75,FALSE,1990,"1993",3,40000,9.5,FALSE,FALSE,FALSE,TRUE
+1951,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",56.62,10.81,100,FALSE,1991,"1994",3,20000,24,FALSE,FALSE,FALSE,TRUE
+1952,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",56.62,10.81,100,FALSE,1991,"1995",4,20000,17.7,FALSE,FALSE,FALSE,TRUE
+1953,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",56.62,10.81,100,FALSE,1991,"1996",5,20000,23.7,FALSE,FALSE,FALSE,TRUE
+1954,"Miscanthus","Miscanthus x giganteus","Guntersleben",49.87,9.91,100,FALSE,1991,"1994",3,20000,32.1,FALSE,FALSE,FALSE,TRUE
+1955,"Miscanthus","Miscanthus x giganteus","Guntersleben",49.87,9.91,100,FALSE,1991,"1995",4,20000,24.3,FALSE,FALSE,FALSE,TRUE
+1956,"Miscanthus","Miscanthus x giganteus","Guntersleben",49.87,9.91,100,FALSE,1991,"1996",5,20000,33.5,FALSE,FALSE,FALSE,TRUE
+1957,"Miscanthus","Miscanthus x giganteus","Guntersleben",49.87,9.91,100,FALSE,1991,"1994",3,20000,17.5,FALSE,FALSE,FALSE,TRUE
+1958,"Miscanthus","Miscanthus x giganteus","Guntersleben",49.87,9.91,100,FALSE,1991,"1995",4,20000,16.6,FALSE,FALSE,FALSE,TRUE
+1959,"Miscanthus","Miscanthus x giganteus","Guntersleben",49.87,9.91,100,FALSE,1991,"1996",5,20000,16.8,FALSE,FALSE,FALSE,TRUE
+1948,"Miscanthus","Miscanthus x giganteus","Klein Markow",53.88,12.62,100,FALSE,1991,"1994",3,20000,14.8,FALSE,FALSE,FALSE,TRUE
+1949,"Miscanthus","Miscanthus x giganteus","Klein Markow",53.88,12.62,100,FALSE,1991,"1995",4,20000,19,FALSE,FALSE,FALSE,TRUE
+1950,"Miscanthus","Miscanthus x giganteus","Klein Markow",53.88,12.62,100,FALSE,1991,"1996",5,20000,28.8,FALSE,FALSE,FALSE,TRUE
+1960,"Miscanthus","Miscanthus x giganteus","ADAS Rickwood",52.42,0.11,60,FALSE,1993,"1993",0,40000,24.4,FALSE,FALSE,FALSE,TRUE
+1961,"Miscanthus","Miscanthus x giganteus","ADAS Rickwood",52.42,0.11,60,FALSE,1993,"1993",0,10000,16.5,FALSE,FALSE,FALSE,TRUE
+1962,"Miscanthus","Miscanthus x giganteus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1993,"1993",0,40000,15.8,FALSE,FALSE,FALSE,TRUE
+1963,"Miscanthus","Miscanthus x giganteus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1993,"1993",0,10000,6.2,FALSE,FALSE,FALSE,TRUE
+1964,"Miscanthus","Miscanthus x giganteus","ADAS Starcross",50.63,-3.45,60,FALSE,1993,"1993",0,40000,12.2,FALSE,FALSE,FALSE,TRUE
+1965,"Miscanthus","Miscanthus x giganteus","ADAS Starcross",50.63,-3.45,60,FALSE,1993,"1993",0,10000,2.5,FALSE,FALSE,FALSE,TRUE
+1996,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,TRUE,1992,"Feb-95",3,20000,11.7,FALSE,FALSE,FALSE,TRUE
+1997,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,TRUE,1992,"Feb-95",3,20000,12,FALSE,FALSE,FALSE,TRUE
+1998,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,0,TRUE,1991,"Feb-95",4,20000,8.9,FALSE,FALSE,FALSE,TRUE
+1999,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,TRUE,1992,"Feb-95",3,20000,8.1,FALSE,FALSE,FALSE,TRUE
+2000,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,100,TRUE,1991,"Feb-95",4,20000,13.7,FALSE,FALSE,FALSE,TRUE
+2001,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,150,TRUE,1991,"Feb-95",4,20000,10.5,FALSE,FALSE,FALSE,TRUE
+2002,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,TRUE,1991,"Feb-95",4,20000,12.2,FALSE,FALSE,FALSE,TRUE
+2003,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"Feb-95",2,20000,14.4,FALSE,FALSE,FALSE,TRUE
+2004,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"Feb-95",2,20000,12.7,FALSE,FALSE,FALSE,TRUE
+2005,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"Feb-95",2,20000,16.2,FALSE,FALSE,FALSE,TRUE
+2006,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"Feb-95",2,20000,16.5,FALSE,FALSE,FALSE,TRUE
+2007,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,TRUE,1992,"Feb-95",3,20000,24.3,FALSE,FALSE,FALSE,TRUE
+2008,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,TRUE,1992,"Feb-95",3,20000,30.5,FALSE,FALSE,FALSE,TRUE
+17002,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,TRUE,1993,"1994",1,20000,13.7,FALSE,FALSE,FALSE,TRUE
+17003,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,TRUE,1993,"1994",1,20000,16.9,FALSE,FALSE,FALSE,TRUE
+17004,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,TRUE,1993,"1995",2,20000,21,FALSE,FALSE,FALSE,TRUE
+17005,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,TRUE,1993,"1995",2,20000,19.8,FALSE,FALSE,FALSE,TRUE
+17006,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,TRUE,1993,"1996",3,20000,21.2,FALSE,FALSE,FALSE,TRUE
+17007,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,TRUE,1993,"1996",3,20000,22.6,FALSE,FALSE,FALSE,TRUE
+2009,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"1994",1,20000,20.2,FALSE,FALSE,FALSE,TRUE
+2010,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"1996",3,20000,33.4,FALSE,FALSE,FALSE,TRUE
+2011,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"1994",1,20000,15.1,FALSE,FALSE,FALSE,TRUE
+2012,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"1996",3,20000,23,FALSE,FALSE,FALSE,TRUE
+2013,"Miscanthus","Miscanthus x giganteus","Gutenzell",48.11,10.01,0,FALSE,1993,"1994",1,20000,13.3,FALSE,FALSE,FALSE,TRUE
+2014,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,FALSE,1992,"1994",2,20000,29.4,FALSE,FALSE,FALSE,TRUE
+2015,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,FALSE,1992,"1994",2,20000,24.4,FALSE,FALSE,FALSE,TRUE
+2016,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,FALSE,1992,"1996",4,20000,29.3,FALSE,FALSE,FALSE,TRUE
+2017,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,FALSE,1992,"1996",4,20000,28.4,FALSE,FALSE,FALSE,TRUE
+2018,"Miscanthus","Miscanthus x giganteus","Ihinger Hof",48.74,8.92,50,FALSE,1992,"1996",4,20000,21.2,FALSE,FALSE,FALSE,TRUE
+2019,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,FALSE,1992,"1994",2,20000,13.4,FALSE,FALSE,FALSE,TRUE
+2020,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,FALSE,1992,"1994",2,20000,12.4,FALSE,FALSE,FALSE,TRUE
+2021,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,FALSE,1992,"1996",4,20000,12.4,FALSE,FALSE,FALSE,TRUE
+2022,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,FALSE,1992,"1996",4,20000,10.3,FALSE,FALSE,FALSE,TRUE
+2023,"Miscanthus","Miscanthus x giganteus","Durmersheim",48.94,8.28,50,FALSE,1992,"1994",2,20000,10.2,FALSE,FALSE,FALSE,TRUE
+17010,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1985",2,5000,4.9,FALSE,FALSE,FALSE,TRUE
+17011,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1985",2,10000,4.6,FALSE,FALSE,FALSE,TRUE
+17012,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1985",2,20000,5.9,FALSE,FALSE,FALSE,TRUE
+17013,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1985",2,40000,13,FALSE,FALSE,FALSE,TRUE
+17014,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1986",3,5000,9.6,FALSE,FALSE,FALSE,TRUE
+17015,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1986",3,10000,11,FALSE,FALSE,FALSE,TRUE
+17016,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1986",3,20000,13.2,FALSE,FALSE,FALSE,TRUE
+17017,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1986",3,40000,0,FALSE,FALSE,FALSE,TRUE
+17018,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1987",4,5000,8.3,FALSE,FALSE,FALSE,TRUE
+17019,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1987",4,10000,8.6,FALSE,FALSE,FALSE,TRUE
+17020,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1987",4,20000,14.8,FALSE,FALSE,FALSE,TRUE
+17021,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1987",4,40000,11.9,FALSE,FALSE,FALSE,TRUE
+17022,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1988",5,5000,10.1,FALSE,FALSE,FALSE,TRUE
+17023,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1988",5,10000,13.6,FALSE,FALSE,FALSE,TRUE
+17024,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1988",5,20000,14.6,FALSE,FALSE,FALSE,TRUE
+17025,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1988",5,40000,14,FALSE,FALSE,FALSE,TRUE
+17026,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1989",6,5000,10.7,FALSE,FALSE,FALSE,TRUE
+17027,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1989",6,10000,11.5,FALSE,FALSE,FALSE,TRUE
+17028,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1989",6,20000,11.8,FALSE,FALSE,FALSE,TRUE
+17029,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1989",6,40000,11.8,FALSE,FALSE,FALSE,TRUE
+17030,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1990",7,5000,13.2,FALSE,FALSE,FALSE,TRUE
+17031,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1990",7,10000,13.5,FALSE,FALSE,FALSE,TRUE
+17032,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1990",7,20000,13.5,FALSE,FALSE,FALSE,TRUE
+17033,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1990",7,40000,14.3,FALSE,FALSE,FALSE,TRUE
+17034,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,0,FALSE,1988,"1991",3,NA,2.7,NA,NA,NA,NA
+17035,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,0,FALSE,1988,"1991",3,NA,2.2,NA,NA,NA,NA
+17036,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1991",8,5000,8.6,FALSE,FALSE,FALSE,TRUE
+17037,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1991",8,10000,12,FALSE,FALSE,FALSE,TRUE
+17038,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1991",8,20000,10,FALSE,FALSE,FALSE,TRUE
+17039,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1991",8,40000,11.3,FALSE,FALSE,FALSE,TRUE
+17040,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,0,FALSE,1988,"1992",4,NA,4.9,NA,NA,NA,NA
+17041,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,0,FALSE,1988,"1992",4,NA,4.4,NA,NA,NA,NA
+17042,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1992",9,5000,6.3,FALSE,FALSE,FALSE,TRUE
+17043,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1992",9,10000,6.2,FALSE,FALSE,FALSE,TRUE
+17044,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1992",9,20000,6,FALSE,FALSE,FALSE,TRUE
+17045,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1992",9,40000,6.4,FALSE,FALSE,FALSE,TRUE
+17046,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,0,FALSE,1988,"1993",5,NA,7.8,NA,NA,NA,NA
+17047,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,0,FALSE,1988,"1993",5,NA,6,NA,NA,NA,NA
+17048,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1993",10,5000,7.4,FALSE,FALSE,FALSE,TRUE
+17049,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1993",10,10000,6.8,FALSE,FALSE,FALSE,TRUE
+17050,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1993",10,20000,9.7,FALSE,FALSE,FALSE,TRUE
+17051,"Miscanthus","Miscanthus x giganteus","Hornum",56.84,9.42,85,FALSE,1983,"1993",10,40000,8.9,FALSE,FALSE,FALSE,TRUE
+2306,"Miscanthus","Miscanthus x giganteus","Cervia",44.13,12.18,50,FALSE,1991,"Oct-92",1,38000,31,FALSE,FALSE,FALSE,TRUE
+2307,"Miscanthus","Miscanthus x giganteus","Cervia",44.13,12.18,50,FALSE,1991,"Jan-93",2,38000,22,FALSE,FALSE,FALSE,TRUE
+2308,"Miscanthus","Miscanthus x giganteus","Cervia",44.13,12.18,50,FALSE,1991,"Mar-93",2,38000,24,FALSE,FALSE,FALSE,TRUE
+2309,"Miscanthus","Miscanthus x giganteus","Cervia",44.13,12.18,50,FALSE,1991,"Oct-93",2,38000,31,FALSE,FALSE,FALSE,TRUE
+17008,"Miscanthus","Miscanthus x giganteus","Cervia",44.13,12.18,50,FALSE,1991,"Jan-94",3,38000,26,FALSE,FALSE,FALSE,TRUE
+17009,"Miscanthus","Miscanthus x giganteus","Cervia",44.13,12.18,50,FALSE,1991,"Mar-94",3,38000,22,FALSE,FALSE,FALSE,TRUE
+2366,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"1995",3,25000,14.9,TRUE,FALSE,FALSE,FALSE
+2367,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"1996",4,25000,19,TRUE,FALSE,FALSE,FALSE
+2368,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"1997",5,25000,20.2,TRUE,FALSE,FALSE,FALSE
+2369,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"1998",6,25000,16.5,TRUE,FALSE,FALSE,FALSE
+2370,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"1999",7,25000,19.5,TRUE,FALSE,FALSE,FALSE
+2371,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"2000",8,25000,22.2,TRUE,FALSE,FALSE,FALSE
+2372,"Miscanthus","Miscanthus sacchariflorus","Buckfast Abbey Farm",50.49,-3.78,60,FALSE,1992,"2001",9,25000,17.6,TRUE,FALSE,FALSE,FALSE
+2373,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"1995",1,25000,0.8,TRUE,FALSE,FALSE,FALSE
+2374,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"1996",2,25000,7.9,TRUE,FALSE,FALSE,FALSE
+2375,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"1997",3,25000,15.2,TRUE,FALSE,FALSE,FALSE
+2376,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"1998",4,25000,19.4,TRUE,FALSE,FALSE,FALSE
+2377,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"1999",5,25000,18.1,TRUE,FALSE,FALSE,FALSE
+2378,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"2000",6,25000,23.5,TRUE,FALSE,FALSE,FALSE
+2379,"Miscanthus","Miscanthus sacchariflorus","ADAS Bridgets",51.1,-1.27,60,FALSE,1994,"2001",7,25000,16.7,TRUE,FALSE,FALSE,FALSE
+2380,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"1995",1,25000,0.5,TRUE,FALSE,FALSE,FALSE
+2381,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"1996",2,25000,1.7,TRUE,FALSE,FALSE,FALSE
+2382,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"1997",3,25000,4.6,TRUE,FALSE,FALSE,FALSE
+2383,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"1998",4,25000,8.5,TRUE,FALSE,FALSE,FALSE
+2384,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"1999",5,25000,11.5,TRUE,FALSE,FALSE,FALSE
+2385,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"2000",6,25000,8.1,TRUE,FALSE,FALSE,FALSE
+2386,"Miscanthus","Miscanthus sacchariflorus","ADAS High Mowthrope",54.12,-0.65,60,FALSE,1994,"2001",7,25000,16,TRUE,FALSE,FALSE,FALSE
+2387,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"1994",0,25000,0.8,TRUE,FALSE,FALSE,FALSE
+2388,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"1995",1,25000,4.3,TRUE,FALSE,FALSE,FALSE
+2389,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"1996",2,25000,8.3,TRUE,FALSE,FALSE,FALSE
+2390,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"1997",3,25000,16.7,TRUE,FALSE,FALSE,FALSE
+2391,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"1998",4,25000,13.7,TRUE,FALSE,FALSE,FALSE
+2392,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"1999",5,25000,17.8,TRUE,FALSE,FALSE,FALSE
+2393,"Miscanthus","Miscanthus sacchariflorus","ADAS Boxworth",52.25,-0.04,60,FALSE,1994,"2000",6,25000,17.7,TRUE,FALSE,FALSE,FALSE
+2394,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"1994",0,25000,0.8,TRUE,FALSE,FALSE,FALSE
+2395,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"1995",1,25000,2.5,TRUE,FALSE,FALSE,FALSE
+2396,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"1996",2,25000,4.9,TRUE,FALSE,FALSE,FALSE
+2397,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"1997",3,25000,13.7,TRUE,FALSE,FALSE,FALSE
+2398,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"1998",4,25000,12.8,TRUE,FALSE,FALSE,FALSE
+2399,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"1999",5,25000,12.8,TRUE,FALSE,FALSE,FALSE
+2400,"Miscanthus","Miscanthus sacchariflorus","ADAS Gleadthorpe ",53.2,-1.01,60,FALSE,1994,"2000",6,25000,10.3,TRUE,FALSE,FALSE,FALSE
+2401,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"1994",2,25000,17.2,TRUE,FALSE,FALSE,FALSE
+2402,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"1995",3,25000,12.1,TRUE,FALSE,FALSE,FALSE
+2403,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"1996",4,25000,17.2,TRUE,FALSE,FALSE,FALSE
+2404,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"1997",5,25000,21.2,TRUE,FALSE,FALSE,FALSE
+2405,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"1998",6,25000,20.7,TRUE,FALSE,FALSE,FALSE
+2406,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"1999",7,25000,23.1,TRUE,FALSE,FALSE,FALSE
+2407,"Miscanthus","Miscanthus sacchariflorus","ADAS Arthur Rickwood",52.42,0.11,60,FALSE,1992,"2000",8,25000,21.4,TRUE,FALSE,FALSE,FALSE
+2408,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"1994",2,25000,13.6,TRUE,FALSE,FALSE,FALSE
+2409,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"1995",3,25000,17,TRUE,FALSE,FALSE,FALSE
+2410,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"1996",4,25000,17.7,TRUE,FALSE,FALSE,FALSE
+2411,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"1997",5,25000,17.3,TRUE,FALSE,FALSE,FALSE
+2412,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"1998",6,25000,24.6,TRUE,FALSE,FALSE,FALSE
+2413,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"1999",7,25000,17.7,TRUE,FALSE,FALSE,FALSE
+2414,"Miscanthus","Miscanthus sacchariflorus","ADAS Rosemaund",52.13,-2.64,60,FALSE,1992,"2000",8,25000,20.8,TRUE,FALSE,FALSE,FALSE
+16929,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1993",1,20000,1.88,FALSE,FALSE,FALSE,TRUE
+16930,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1994",2,20000,13.41,FALSE,FALSE,FALSE,TRUE
+16931,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,24.32,FALSE,FALSE,FALSE,TRUE
+16932,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1996",4,20000,33.2,FALSE,FALSE,FALSE,TRUE
+16933,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1993",1,20000,1.04,FALSE,FALSE,FALSE,TRUE
+16934,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1994",2,20000,4.88,FALSE,FALSE,FALSE,TRUE
+16935,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,7.15,FALSE,FALSE,FALSE,TRUE
+16936,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1996",4,20000,13.8,FALSE,FALSE,FALSE,TRUE
+16937,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1993",1,20000,4.47,FALSE,FALSE,FALSE,TRUE
+16938,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1994",2,20000,11.86,FALSE,FALSE,FALSE,TRUE
+16939,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,10.73,FALSE,FALSE,FALSE,TRUE
+16940,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1996",4,20000,19.89,FALSE,FALSE,FALSE,TRUE
+16941,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1993",1,20000,0.202,FALSE,FALSE,FALSE,TRUE
+16942,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,2.61,FALSE,FALSE,FALSE,TRUE
+16942,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1994",2,20000,2.61,FALSE,FALSE,FALSE,TRUE
+16943,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,3.8,FALSE,FALSE,FALSE,TRUE
+16944,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1996",4,20000,8.86,FALSE,FALSE,FALSE,TRUE
+16945,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,0,FALSE,1992,"1993",1,20000,2.85,FALSE,FALSE,FALSE,TRUE
+16946,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,60,FALSE,1992,"1993",1,20000,4.47,FALSE,FALSE,FALSE,TRUE
+16947,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1993",1,20000,4.24,FALSE,FALSE,FALSE,TRUE
+16948,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,180,FALSE,1992,"1993",1,20000,4.67,FALSE,FALSE,FALSE,TRUE
+16949,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,0,FALSE,1992,"1993",1,20000,0.98,FALSE,FALSE,FALSE,TRUE
+16950,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,60,FALSE,1992,"1993",1,20000,1.04,FALSE,FALSE,FALSE,TRUE
+16951,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1993",1,20000,1.86,FALSE,FALSE,FALSE,TRUE
+16952,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,180,FALSE,1992,"1993",1,20000,1.23,FALSE,FALSE,FALSE,TRUE
+16953,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,0,FALSE,1992,"1994",2,20000,5.67,FALSE,FALSE,FALSE,TRUE
+16954,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,60,FALSE,1992,"1994",2,20000,11.86,FALSE,FALSE,FALSE,TRUE
+16955,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1994",2,20000,13.62,FALSE,FALSE,FALSE,TRUE
+16956,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,180,FALSE,1992,"1994",2,20000,13.46,FALSE,FALSE,FALSE,TRUE
+16957,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,0,FALSE,1992,"1994",2,20000,4.46,FALSE,FALSE,FALSE,TRUE
+16958,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,60,FALSE,1992,"1994",2,20000,4.88,FALSE,FALSE,FALSE,TRUE
+16959,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1994",2,20000,8.93,FALSE,FALSE,FALSE,TRUE
+16960,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,180,FALSE,1992,"1994",2,20000,8.64,FALSE,FALSE,FALSE,TRUE
+16961,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,0,FALSE,1992,"1995",3,20000,4.42,FALSE,FALSE,FALSE,TRUE
+16962,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,60,FALSE,1992,"1995",3,20000,10.73,FALSE,FALSE,FALSE,TRUE
+16963,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,8.21,FALSE,FALSE,FALSE,TRUE
+16964,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,180,FALSE,1992,"1995",3,20000,12.3,FALSE,FALSE,FALSE,TRUE
+16965,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,0,FALSE,1992,"1995",3,20000,6.73,FALSE,FALSE,FALSE,TRUE
+16966,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,60,FALSE,1992,"1995",3,20000,7.15,FALSE,FALSE,FALSE,TRUE
+16967,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,120,FALSE,1992,"1995",3,20000,8.48,FALSE,FALSE,FALSE,TRUE
+16968,"Miscanthus","Miscanthus x giganteus","Saxony",51.12,13.19,180,FALSE,1992,"1995",3,20000,9.96,FALSE,FALSE,FALSE,TRUE
+2883,"Miscanthus","Miscanthus x giganteus","Fichtel Mountain",49.99,11.99,80,FALSE,1989,"1990",1,20000,0.13,FALSE,FALSE,FALSE,TRUE
+2884,"Miscanthus","Miscanthus x giganteus","Fichtel Mountain",49.99,11.99,80,FALSE,1989,"1991",2,20000,0.48,FALSE,FALSE,FALSE,TRUE
+2885,"Miscanthus","Miscanthus x giganteus","Fichtel Mountain",49.99,11.99,80,FALSE,1989,"1992",3,20000,3.68,FALSE,FALSE,FALSE,TRUE
+2886,"Miscanthus","Miscanthus x giganteus","Fichtel Mountain",49.99,11.99,80,FALSE,1989,"1993",4,20000,9.97,FALSE,FALSE,FALSE,TRUE
+2887,"Miscanthus","Miscanthus x giganteus","Niedere Geest",52.8,11.76,80,FALSE,1989,"1990",1,20000,0.64,FALSE,FALSE,FALSE,TRUE
+2888,"Miscanthus","Miscanthus x giganteus","Niedere Geest",52.8,11.76,80,FALSE,1989,"1991",2,20000,4.9,FALSE,FALSE,FALSE,TRUE
+2889,"Miscanthus","Miscanthus x giganteus","Niedere Geest",52.8,11.76,80,FALSE,1989,"1992",3,20000,9.53,FALSE,FALSE,FALSE,TRUE
+2890,"Miscanthus","Miscanthus x giganteus","Niedere Geest",52.8,11.76,80,FALSE,1989,"1993",4,20000,13.82,FALSE,FALSE,FALSE,TRUE
+2891,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1990",1,20000,2.1,FALSE,FALSE,FALSE,TRUE
+2892,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1991",2,20000,3.26,FALSE,FALSE,FALSE,TRUE
+2893,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1992",3,20000,12.7,FALSE,FALSE,FALSE,TRUE
+2894,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1993",4,20000,17.01,FALSE,FALSE,FALSE,TRUE
+2895,"Miscanthus","Miscanthus x giganteus","Gaul-Berg",48.68,10.14,80,FALSE,1989,"1990",1,20000,0.5,FALSE,FALSE,FALSE,TRUE
+2896,"Miscanthus","Miscanthus x giganteus","Gaul-Berg",48.68,10.14,80,FALSE,1989,"1991",2,20000,3.95,FALSE,FALSE,FALSE,TRUE
+2897,"Miscanthus","Miscanthus x giganteus","Gaul-Berg",48.68,10.14,80,FALSE,1989,"1992",3,20000,22.54,FALSE,FALSE,FALSE,TRUE
+2898,"Miscanthus","Miscanthus x giganteus","Gaul-Berg",48.68,10.14,80,FALSE,1989,"1993",4,20000,17.85,FALSE,FALSE,FALSE,TRUE
+2899,"Miscanthus","Miscanthus x giganteus","Ascherberg",51.79,7.61,80,FALSE,1989,"1990",1,20000,1.47,FALSE,FALSE,FALSE,TRUE
+2900,"Miscanthus","Miscanthus x giganteus","Ascherberg",51.79,7.61,80,FALSE,1989,"1991",2,20000,5.08,FALSE,FALSE,FALSE,TRUE
+2901,"Miscanthus","Miscanthus x giganteus","Ascherberg",51.79,7.61,80,FALSE,1989,"1992",3,20000,15.2,FALSE,FALSE,FALSE,TRUE
+2902,"Miscanthus","Miscanthus x giganteus","Ascherberg",51.79,7.61,80,FALSE,1989,"1993",4,20000,18.44,FALSE,FALSE,FALSE,TRUE
+2903,"Miscanthus","Miscanthus x giganteus","Sulingen ",52.7,8.81,80,FALSE,1989,"1990",1,20000,3.46,FALSE,FALSE,FALSE,TRUE
+2904,"Miscanthus","Miscanthus x giganteus","Sulingen ",52.7,8.81,80,FALSE,1989,"1991",2,20000,7.01,FALSE,FALSE,FALSE,TRUE
+2905,"Miscanthus","Miscanthus x giganteus","Sulingen ",52.7,8.81,80,FALSE,1989,"1992",3,20000,8.8,FALSE,FALSE,FALSE,TRUE
+2906,"Miscanthus","Miscanthus x giganteus","Sulingen ",52.7,8.81,80,FALSE,1989,"1993",4,20000,19.01,FALSE,FALSE,FALSE,TRUE
+2907,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1990",1,20000,2.1,FALSE,FALSE,FALSE,TRUE
+2908,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1991",2,20000,5.4,FALSE,FALSE,FALSE,TRUE
+2909,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1992",3,20000,18.13,FALSE,FALSE,FALSE,TRUE
+2910,"Miscanthus","Miscanthus x giganteus","Ehrendorf",52.61,8.25,80,FALSE,1989,"1993",4,20000,20.02,FALSE,FALSE,FALSE,TRUE
+2911,"Miscanthus","Miscanthus x giganteus","Hallertau",48.63,11.77,80,FALSE,1989,"1990",1,20000,0.28,FALSE,FALSE,FALSE,TRUE
+2912,"Miscanthus","Miscanthus x giganteus","Hallertau",48.63,11.77,80,FALSE,1989,"1991",2,20000,3.87,FALSE,FALSE,FALSE,TRUE
+2913,"Miscanthus","Miscanthus x giganteus","Hallertau",48.63,11.77,80,FALSE,1989,"1992",3,20000,16.2,FALSE,FALSE,FALSE,TRUE
+2914,"Miscanthus","Miscanthus x giganteus","Hallertau",48.63,11.77,80,FALSE,1989,"1993",4,20000,20.43,FALSE,FALSE,FALSE,TRUE
+2915,"Miscanthus","Miscanthus x giganteus","Ampermoos",48.1,11.14,80,FALSE,1989,"1990",1,20000,0.41,FALSE,FALSE,FALSE,TRUE
+2916,"Miscanthus","Miscanthus x giganteus","Ampermoos",48.1,11.14,80,FALSE,1989,"1991",2,20000,8.99,FALSE,FALSE,FALSE,TRUE
+2917,"Miscanthus","Miscanthus x giganteus","Ampermoos",48.1,11.14,80,FALSE,1989,"1992",3,20000,20.14,FALSE,FALSE,FALSE,TRUE
+2918,"Miscanthus","Miscanthus x giganteus","Ampermoos",48.1,11.14,80,FALSE,1989,"1993",4,20000,20.88,FALSE,FALSE,FALSE,TRUE
+2919,"Miscanthus","Miscanthus x giganteus","Donauried",48.49,10.29,80,FALSE,1989,"1990",1,20000,1.11,FALSE,FALSE,FALSE,TRUE
+2920,"Miscanthus","Miscanthus x giganteus","Donauried",48.49,10.29,80,FALSE,1989,"1991",2,20000,11.39,FALSE,FALSE,FALSE,TRUE
+2921,"Miscanthus","Miscanthus x giganteus","Donauried",48.49,10.29,80,FALSE,1989,"1992",3,20000,17.68,FALSE,FALSE,FALSE,TRUE
+2922,"Miscanthus","Miscanthus x giganteus","Donauried",48.49,10.29,80,FALSE,1989,"1993",4,20000,23.42,FALSE,FALSE,FALSE,TRUE
+2923,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",52.62,10.81,80,FALSE,1989,"1990",1,20000,3.72,FALSE,FALSE,FALSE,TRUE
+2924,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",52.62,10.81,80,FALSE,1989,"1991",2,20000,13.69,FALSE,FALSE,FALSE,TRUE
+2925,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",52.62,10.81,80,FALSE,1989,"1992",3,20000,15.3,FALSE,FALSE,FALSE,TRUE
+2926,"Miscanthus","Miscanthus x giganteus","Boitzenhagen",52.62,10.81,80,FALSE,1989,"1993",4,20000,23.89,FALSE,FALSE,FALSE,TRUE
+3160,"Miscanthus","Miscanthus sinensis","Ter Apel",53.38,9.75,0,FALSE,1988,"1991",3,40000,21.8,FALSE,TRUE,FALSE,FALSE

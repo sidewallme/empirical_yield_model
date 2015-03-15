@@ -1,0 +1,77 @@
+# Title
+
+### Authors
+
+
+# Abstract
+
+# Introduction 
+
+# Material and methods
+
+## Data
+
+## Statistical Models 
+
+We have three classes: linear regression, regression tree, and 'black box' or artificial neural network.
+
+
+
+### Linear Regression
+
+Used for comparison
+
+### Regression Tree
+
+
+#### CART
+
+
+
+CART is a recursive partitioning method to be used both for regression and classification. CART is constructed by splitting subsets of the data set using all predictor variables to create two child nodes repeatedly, beginning with the entire data set. The best predictor is chosen using a variety of impurity or diversity measures. The goal is to produce subsets of the data which are as homogeneous as possible with respect to the target variable (Breiman et al., 1984). In this study, we used {}
+
+(Kurt, I., Ture, M., & Kurum, A. T. (2008). Comparing performances of logistic regression, classification and regression tree, and neural networks for predicting coronary artery disease. Expert Systems with Applications, 34(1), 366-374.)
+
+#### M5-prime
+
+M5’ algorithm (M5-prime) by Wang and Witten, which is an enhancement of the original M5 model tree algorithm
+(Wang, Y., & Witten, I. H. (1996). Induction of model trees for predicting continuous classes.)
+
+#### Adaboost
+
+The core principle of AdaBoost is to fit a sequence of weak learners (i.e., models that are only slightly better than random guessing, such as small decision trees) on repeatedly modified versions of the data. The predictions from all of them are then combined through a weighted majority vote (or sum) to produce the final prediction.
+
+### Artificial neural network
+
+#### MLP (multi-layer perceptrons)
+
+# Results
+
+## Data: 
+
+First start with some basic exploratory analyses - map, histogram, relationships among variables.
+
+climate range, geographic range, univariate relationships ('pairs' plot)
+
+
+## Linear Regression
+
+## Regression Tree
+
+## Artificial neural network
+
+
+# References:
+
+Bishop, T. F. A., & McBratney, A. B. (2001). A comparison of prediction methods for the creation of field-extent soil property maps. Geoderma, 103(1), 149-160.
+
+De'ath, G., & Fabricius, K. E. (2000). Classification and regression trees: a powerful yet simple technique for ecological data analysis. Ecology, 81(11), 3178-3192.
+
+Park, S. J., Hwang, C. S., & Vlek, P. L. G. (2005). Comparison of adaptive techniques to predict crop yield response under varying soil and land management conditions. Agricultural Systems, 85(1), 59-81.
+
+Zheng, H., Chen, L., Han, X., Zhao, X., & Ma, Y. (2009). Classification and regression tree (CART) for analysis of soybean yield variability among fields in Northeast China: The importance of phosphorus application rates under drought conditions. Agriculture, ecosystems & environment, 132(1), 98-105.
+
+# Appendix
+
+
+![](figures/yield_vs_standage_sitename.png)
