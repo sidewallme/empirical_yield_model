@@ -39,7 +39,7 @@ M5’ algorithm (M5-prime) by Wang and Witten, which is an enhancement of the or
 
 #### Adaboost
 
-The core principle of AdaBoost is to fit a sequence of weak learners (i.e., models that are only slightly better than random guessing, such as small decision trees) on repeatedly modified versions of the data. The predictions from all of them are then combined through a weighted majority vote (or sum) to produce the final prediction.
+The core principle of AdaBoost is to fit a sequence of weak learners (i.e., models that are only slightly better than random guessing, such as small decision trees) on repeatedly modified version of the data. The predictions from all of them are then combined through a weighted majority vote (or sum) to produce the final prediction.
 
 ### Artificial neural network
 
