@@ -82,7 +82,7 @@ get_met <- function(year, lat, lon, var){
     lons[lons>180] <- lons[lons>180] - 360
     dlat <- abs(lat - lats)
     dlon <- abs(lon - lons)
-    #weights
+    #weights calculate distance weighted average
     wlat <- dlat/sum(dlat, na.rm = TRUE)
     wlon <- dlon/sum(dlon, na.rm = TRUE)
     
@@ -92,24 +92,7 @@ get_met <- function(year, lat, lon, var){
     ans2 <- rowMeans(ans, dims = 2, na.rm = TRUE)
     ans2.1 <- ans2[!is.nan(ans2)]
     
-    ans3 <- sum(ans2.1 * weights)
-    }# else if (geometric_weighting == TRUE){
-      
-      ## geometric weighting
-      #     if(dim(ans)[2] == 1) ans <- abind(ans, ans, along = 2)
-      #     if(all(is.na(ans[2,,]))) {
-      #       ans[is.na(ans)]  <- ans[!is.na(ans)]
-      #       dimnames(ans)[[1]][1] <- dimnames(ans)[[1]][2]
-      #       }
-      #     if(all(is.na(ans[1,,]))) {
-      #       ans[is.na(ans)]  <- ans[!is.na(ans)]
-      #       dimnames(ans)[[1]][2] <- dimnames(ans)[[1]][1]
-      
-      # ans2 <- ans[1,,] * dlat[1]/sum(dlat) + ans[2,,]* dlat[2]/sum(dlat) 
-      # ans3 <- ans2[1,] * dlon[1]/sum(dlon) + ans2[2,]* dlon[2]/sum(dlon) 
-      
-      #}
-  
+    ans3 <- sum(ans2.1 * weights)  
   
   return(ans3)
   }
@@ -129,7 +112,7 @@ for(i in 1:nrow(unique_xyt)){
   ncep_data <- rbindlist(ncep_data_list)
   save(ncep_data, file = "~/ncep_data.RData") 
   }
-
+file.copy("~/ncep_data.RData", to = "data/ncep_data.RData", overwrite = TRUE)
 
 ggplot() + geom_point(data = ncep_data, aes(lon, lat, color = MAP/PET))
 ```
