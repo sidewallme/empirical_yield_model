@@ -1,0 +1,2429 @@
+yields.id,genus,species,lat,lon,fertilizer_n,planting_date,planting_density,year,yield,irrigated
+971,Miscanthus,Miscanthus x giganteus,37.86,32.48,0,1999,10000,1999,1.495,TRUE
+972,Miscanthus,Miscanthus x giganteus,37.86,32.48,50,1999,10000,1999,1.573,TRUE
+973,Miscanthus,Miscanthus x giganteus,37.86,32.48,100,1999,10000,1999,1.644,TRUE
+974,Miscanthus,Miscanthus x giganteus,37.86,32.48,150,1999,10000,1999,1.508,TRUE
+975,Miscanthus,Miscanthus x giganteus,37.86,32.48,200,1999,10000,1999,1.56,TRUE
+976,Miscanthus,Miscanthus x giganteus,37.86,32.48,0,1999,10000,2000,6.56,TRUE
+977,Miscanthus,Miscanthus x giganteus,37.86,32.48,50,1999,10000,2000,7.04,TRUE
+978,Miscanthus,Miscanthus x giganteus,37.86,32.48,100,1999,10000,2000,7.17,TRUE
+979,Miscanthus,Miscanthus x giganteus,37.86,32.48,150,1999,10000,2000,6.58,TRUE
+980,Miscanthus,Miscanthus x giganteus,37.86,32.48,200,1999,10000,2000,6.9,TRUE
+981,Miscanthus,Miscanthus x giganteus,37.86,32.48,0,1999,10000,2001,12.01,TRUE
+982,Miscanthus,Miscanthus x giganteus,37.86,32.48,50,1999,10000,2001,12.91,TRUE
+983,Miscanthus,Miscanthus x giganteus,37.86,32.48,100,1999,10000,2001,13.19,TRUE
+984,Miscanthus,Miscanthus x giganteus,37.86,32.48,150,1999,10000,2001,12.15,TRUE
+985,Miscanthus,Miscanthus x giganteus,37.86,32.48,200,1999,10000,2001,12.08,TRUE
+1076,Miscanthus,Miscanthus x giganteus,52.47,-8.15,120,1990,20000,1994,19,FALSE
+1077,Miscanthus,Miscanthus x giganteus,52.47,-8.15,120,1990,20000,1994,13.5,FALSE
+1078,Miscanthus,Miscanthus x giganteus,52.47,-8.15,120,1990,20000,1994,15.2,FALSE
+16867,Miscanthus,Miscanthus x giganteus,52.26,10.52,120,1993,40000,1994,1.7,FALSE
+16868,Miscanthus,Miscanthus x giganteus,52.26,10.52,120,1993,40000,1994,1.5,FALSE
+16869,Miscanthus,Miscanthus x giganteus,52.26,10.52,120,1993,40000,1995,2.6,FALSE
+16870,Miscanthus,Miscanthus x giganteus,52.21,6.84,60,1993,40000,1995,4.8,FALSE
+16871,Miscanthus,Miscanthus x giganteus,52.21,6.84,60,1993,40000,1996,14.6,FALSE
+16872,Miscanthus,Miscanthus x giganteus,38.03,23.94,60,1993,40000,1995,26.3,TRUE
+16873,Miscanthus,Miscanthus x giganteus,38.03,23.94,60,1993,40000,1996,26.3,TRUE
+16874,Miscanthus,Miscanthus x giganteus,40.18,16.57,60,1993,40000,1994,2.9,FALSE
+16875,Miscanthus,Miscanthus x giganteus,40.18,16.57,60,1993,40000,1995,8.6,FALSE
+16876,Miscanthus,Miscanthus x giganteus,40.18,16.57,60,1993,40000,1996,17.4,FALSE
+16877,Miscanthus,Miscanthus x giganteus,40.18,16.57,60,1993,40000,1997,13.5,FALSE
+16878,Miscanthus,Miscanthus x giganteus,44.17,11.09,60,1993,40000,1994,6,TRUE
+16879,Miscanthus,Miscanthus x giganteus,44.17,11.09,60,1993,40000,1995,16.7,TRUE
+16880,Miscanthus,Miscanthus x giganteus,44.17,11.09,60,1993,40000,1996,19.1,TRUE
+16881,Miscanthus,Miscanthus x giganteus,44.17,11.09,60,1993,40000,1997,19.7,TRUE
+16882,Miscanthus,Miscanthus x giganteus,53.66,10.28,120,1993,40000,1994,4.2,FALSE
+16883,Miscanthus,Miscanthus x giganteus,53.66,10.28,120,1993,40000,1995,11.8,FALSE
+16884,Miscanthus,Miscanthus x giganteus,53.66,10.28,120,1993,40000,1996,18.3,FALSE
+16885,Miscanthus,Miscanthus x giganteus,53.66,10.28,120,1993,40000,1997,21.5,FALSE
+16886,Miscanthus,Miscanthus x giganteus,53.66,10.28,120,1993,40000,1998,22,FALSE
+16887,Miscanthus,Miscanthus x giganteus,53.66,10.28,120,1993,40000,1999,26.2,FALSE
+16888,Miscanthus,Miscanthus x giganteus,53.33,-6.23,120,1993,40000,1994,1,FALSE
+16889,Miscanthus,Miscanthus x giganteus,53.33,-6.23,120,1993,40000,1995,5,FALSE
+16890,Miscanthus,Miscanthus x giganteus,50.13,8.86,120,1993,40000,1995,1.98,FALSE
+16891,Miscanthus,Miscanthus x giganteus,50.13,8.86,120,1993,40000,1996,9.13,FALSE
+16892,Miscanthus,Miscanthus x giganteus,50.13,8.86,120,1993,40000,1997,5.57,FALSE
+16893,Miscanthus,Miscanthus x giganteus,50.13,8.86,120,1993,40000,1998,9.21,FALSE
+16894,Miscanthus,Miscanthus x giganteus,50.13,8.86,120,1993,40000,1999,10.05,FALSE
+16895,Miscanthus,Miscanthus x giganteus,50.13,8.86,120,1993,40000,2000,11.13,FALSE
+16896,Miscanthus,Miscanthus x giganteus,50.85,4.35,120,1993,40000,1994,2.8,FALSE
+16897,Miscanthus,Miscanthus x giganteus,50.85,4.35,120,1993,40000,1995,5.2,FALSE
+16898,Miscanthus,Miscanthus x giganteus,50.85,4.35,120,1993,40000,1996,16.1,FALSE
+16899,Miscanthus,Miscanthus x giganteus,50.85,4.35,120,1993,40000,1997,15,FALSE
+16900,Miscanthus,Miscanthus x giganteus,53.34,-6.25,120,1993,40000,1995,5.3,FALSE
+16901,Miscanthus,Miscanthus x giganteus,53.34,-6.25,120,1993,40000,1996,7.7,FALSE
+16902,Miscanthus,Miscanthus x giganteus,53.34,-6.25,120,1993,40000,1997,8.4,FALSE
+16903,Miscanthus,Miscanthus x giganteus,53.34,-6.25,120,1993,40000,1998,13.6,FALSE
+16904,Miscanthus,Miscanthus x giganteus,53.34,-6.25,120,1993,40000,1999,14,FALSE
+16905,Miscanthus,Miscanthus x giganteus,42.88,-8.54,120,1993,40000,1994,5,TRUE
+16906,Miscanthus,Miscanthus x giganteus,42.88,-8.54,60,1993,40000,1995,13.6,TRUE
+16907,Miscanthus,Miscanthus x giganteus,42.88,-8.54,120,1993,40000,1996,22.5,TRUE
+16908,Miscanthus,Miscanthus x giganteus,45.46,9.18,120,1993,40000,1994,4.9,FALSE
+16909,Miscanthus,Miscanthus x giganteus,45.46,9.18,120,1993,40000,1995,32.4,FALSE
+16910,Miscanthus,Miscanthus x giganteus,45.46,9.18,120,1993,40000,1996,26.8,FALSE
+16911,Miscanthus,Miscanthus x giganteus,52.42,0.11,120,1993,40000,1994,4.1,FALSE
+16912,Miscanthus,Miscanthus x giganteus,52.42,0.11,120,1993,40000,1995,11.6,FALSE
+16913,Miscanthus,Miscanthus x giganteus,52.42,0.11,120,1993,40000,1996,14.4,FALSE
+16914,Miscanthus,Miscanthus x giganteus,52.42,0.11,120,1993,40000,1994,4.9,FALSE
+16915,Miscanthus,Miscanthus x giganteus,52.42,0.11,120,1993,40000,1995,15,FALSE
+16916,Miscanthus,Miscanthus x giganteus,52.42,0.11,120,1993,40000,1996,13.4,FALSE
+16917,Miscanthus,Miscanthus x giganteus,51.81,-0.36,120,1993,40000,1994,1.9,FALSE
+16918,Miscanthus,Miscanthus x giganteus,51.81,-0.36,120,1993,40000,1995,8.4,FALSE
+16919,Miscanthus,Miscanthus x giganteus,51.81,-0.36,120,1993,40000,1996,11,FALSE
+16920,Miscanthus,Miscanthus x giganteus,51.81,-0.36,120,1993,40000,1997,12.2,FALSE
+16921,Miscanthus,Miscanthus x giganteus,51.89,0.9,120,1993,40000,1994,8.9,FALSE
+16922,Miscanthus,Miscanthus x giganteus,51.89,0.9,120,1993,40000,1995,16.5,FALSE
+16923,Miscanthus,Miscanthus x giganteus,51.89,0.9,120,1993,40000,1996,16.6,FALSE
+16924,Miscanthus,Miscanthus x giganteus,38.73,-9.16,120,1993,40000,1995,2.7,TRUE
+16925,Miscanthus,Miscanthus x giganteus,38.73,-9.16,120,1993,40000,1996,3.1,TRUE
+16926,Miscanthus,Miscanthus x giganteus,38.73,-9.16,120,1993,40000,1997,24.3,TRUE
+16927,Miscanthus,Miscanthus x giganteus,38.73,-9.16,120,1993,40000,1998,25.1,TRUE
+16928,Miscanthus,Miscanthus x giganteus,38.73,-9.16,120,1993,40000,1999,24,TRUE
+1079,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1997,0.1,TRUE
+1080,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1998,0,TRUE
+1081,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1999,0,TRUE
+1082,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1997,0.1,TRUE
+1083,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1998,0,TRUE
+1084,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1999,0,TRUE
+1085,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1997,0.1,TRUE
+1086,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1998,0,TRUE
+1087,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1999,0,TRUE
+1088,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1997,0.1,TRUE
+1089,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1998,0,TRUE
+1090,Miscanthus,Miscanthus x giganteus,56,14,60,1997,20000,1999,0,TRUE
+1091,Miscanthus,Miscanthus sacchariflorus,56,14,60,1997,20000,1997,0.5,TRUE
+1092,Miscanthus,Miscanthus sacchariflorus,56,14,60,1997,20000,1998,0,TRUE
+1093,Miscanthus,Miscanthus sacchariflorus,56,14,60,1997,20000,1999,0,TRUE
+1094,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1997,0.2,TRUE
+1095,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1998,5,TRUE
+1096,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1999,19.3,TRUE
+1097,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1997,0.4,TRUE
+1098,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1998,3.8,TRUE
+1099,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1999,11,TRUE
+1100,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1997,0.4,TRUE
+1101,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1998,9.5,TRUE
+1102,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1999,24.7,TRUE
+1103,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1997,0.6,TRUE
+1104,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1998,5.4,TRUE
+1105,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1999,14.2,TRUE
+1106,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1997,0.8,TRUE
+1107,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1998,11.4,TRUE
+1108,Miscanthus,Miscanthus sinensis Hybrid,56,14,60,1997,20000,1999,20.5,TRUE
+1109,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1997,0.4,TRUE
+1110,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1998,5.2,TRUE
+1111,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1999,15.4,TRUE
+1112,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1997,0.2,TRUE
+1113,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1998,5,TRUE
+1114,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1999,15.3,TRUE
+1115,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1997,0.2,TRUE
+1116,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1998,6.7,TRUE
+1117,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1999,17.3,TRUE
+1118,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1997,0.4,TRUE
+1119,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1998,3.9,TRUE
+1120,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1999,13.8,TRUE
+1121,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1997,0.3,TRUE
+1122,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1998,3.1,TRUE
+1123,Miscanthus,Miscanthus sinensis,56,14,60,1997,20000,1999,9.7,TRUE
+1124,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1997,0.7,TRUE
+1125,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1998,0,TRUE
+1126,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1999,0,TRUE
+1127,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1997,0.8,TRUE
+1128,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1998,0,TRUE
+1129,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1999,0,TRUE
+1130,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1997,1.1,TRUE
+1131,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1998,0,TRUE
+1132,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1999,0,TRUE
+1133,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1997,0.8,TRUE
+1134,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1998,0,TRUE
+1135,Miscanthus,Miscanthus x giganteus,56.5,9.58,60,1996,20000,1999,0,TRUE
+1136,Miscanthus,Miscanthus sacchariflorus,56.5,9.58,60,1996,20000,1997,0.5,TRUE
+1137,Miscanthus,Miscanthus sacchariflorus,56.5,9.58,60,1996,20000,1998,0.7,TRUE
+1138,Miscanthus,Miscanthus sacchariflorus,56.5,9.58,60,1996,20000,1999,1.4,TRUE
+1139,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1997,0.9,TRUE
+1140,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1998,5.2,TRUE
+1141,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1999,16.4,TRUE
+1142,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1997,1.1,TRUE
+1143,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1998,4.7,TRUE
+1144,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1999,10.4,TRUE
+1145,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1997,0.3,TRUE
+1146,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1998,4.1,TRUE
+1147,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1999,15.9,TRUE
+1148,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1997,1.4,TRUE
+1149,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1998,1.4,TRUE
+1150,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1999,0.9,TRUE
+1151,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1997,1.4,TRUE
+1152,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1998,7.8,TRUE
+1153,Miscanthus,Miscanthus sinensis Hybrid,56.5,9.58,60,1996,20000,1999,18.2,TRUE
+1154,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1997,0.4,TRUE
+1155,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1998,5.2,TRUE
+1156,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1999,15,TRUE
+1157,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1997,0.3,TRUE
+1158,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1998,3.1,TRUE
+1159,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1999,12.4,TRUE
+1160,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1997,0.3,TRUE
+1161,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1998,3.3,TRUE
+1162,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1999,11.2,TRUE
+1163,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1997,0.6,TRUE
+1164,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1998,2.4,TRUE
+1165,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1999,9.9,TRUE
+1166,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1997,0.2,TRUE
+1167,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1998,1.9,TRUE
+1168,Miscanthus,Miscanthus sinensis,56.5,9.58,60,1996,20000,1999,6.8,TRUE
+1169,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1997,0.6,TRUE
+1170,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1998,3,TRUE
+1171,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1999,13.8,TRUE
+1172,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1997,0.8,TRUE
+1173,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1998,5.7,TRUE
+1174,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1999,16.8,TRUE
+1175,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1997,0.9,TRUE
+1176,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1998,5.9,TRUE
+1177,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1999,18.7,TRUE
+1178,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1997,0.8,TRUE
+1179,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1998,5.3,TRUE
+1180,Miscanthus,Miscanthus x giganteus,51.8,-0.35,60,1997,20000,1999,14.6,TRUE
+1181,Miscanthus,Miscanthus sacchariflorus,51.8,-0.35,60,1997,20000,1997,0.4,TRUE
+1182,Miscanthus,Miscanthus sacchariflorus,51.8,-0.35,60,1997,20000,1998,1.9,TRUE
+1183,Miscanthus,Miscanthus sacchariflorus,51.8,-0.35,60,1997,20000,1999,11.1,TRUE
+1184,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1997,1.4,TRUE
+1185,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1998,7,TRUE
+1186,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1999,15.7,TRUE
+1187,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1997,1.2,TRUE
+1188,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1998,5.9,TRUE
+1189,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1999,17.7,TRUE
+1190,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1997,0.2,TRUE
+1191,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1998,1.4,TRUE
+1192,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1999,6.5,TRUE
+1193,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1997,1.7,TRUE
+1194,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1998,7.7,TRUE
+1195,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1999,15.8,TRUE
+1196,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1997,0.8,TRUE
+1197,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1998,6,TRUE
+1198,Miscanthus,Miscanthus sinensis Hybrid,51.8,-0.35,60,1997,20000,1999,14,TRUE
+1199,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1997,0.1,TRUE
+1200,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1998,1.9,TRUE
+1201,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1999,8,TRUE
+1202,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1997,0.1,TRUE
+1203,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1998,2,TRUE
+1204,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1999,7,TRUE
+1205,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1997,0.2,TRUE
+1206,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1998,3,TRUE
+1207,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1999,10.9,TRUE
+1208,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1997,0.1,TRUE
+1209,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1998,0.6,TRUE
+1210,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1999,4.6,TRUE
+1211,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1997,0.2,TRUE
+1212,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1998,2,TRUE
+1213,Miscanthus,Miscanthus sinensis,51.8,-0.35,60,1997,20000,1999,5.9,TRUE
+1214,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,3.2,TRUE
+1215,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,8,TRUE
+1216,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,22.8,TRUE
+1217,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,3.4,TRUE
+1218,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,8.7,TRUE
+1219,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,24.3,TRUE
+1220,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,3.3,TRUE
+1221,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,8.9,TRUE
+1222,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,25.7,TRUE
+1223,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,3,TRUE
+1224,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,8.1,TRUE
+1225,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,29.1,TRUE
+1226,Miscanthus,Miscanthus sacchariflorus,48.67,9,60,1996,20000,1997,2.9,TRUE
+1227,Miscanthus,Miscanthus sacchariflorus,48.67,9,60,1996,20000,1998,4.6,TRUE
+1228,Miscanthus,Miscanthus sacchariflorus,48.67,9,60,1996,20000,1997,12.6,TRUE
+1229,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,2.8,TRUE
+1230,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,7.4,TRUE
+1231,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,20,TRUE
+1232,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,1.1,TRUE
+1233,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,3.6,TRUE
+1234,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,17,TRUE
+1235,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,1,TRUE
+1236,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,7.3,TRUE
+1237,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,19.2,TRUE
+1238,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,3,TRUE
+1239,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,7.6,TRUE
+1240,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,10.3,TRUE
+1241,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,1.9,TRUE
+1242,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,9.7,TRUE
+1243,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,19.1,TRUE
+1244,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,0.7,TRUE
+1245,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,4.4,TRUE
+1246,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,12.8,TRUE
+1247,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,0.6,TRUE
+1248,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,4.5,TRUE
+1249,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,10.9,TRUE
+1250,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,1,TRUE
+1251,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,5,TRUE
+1252,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,12.3,TRUE
+1253,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,0.5,TRUE
+1254,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,3.6,TRUE
+1255,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,10.4,TRUE
+1256,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,0.5,TRUE
+1257,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,2.5,TRUE
+1258,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,9.1,TRUE
+1259,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,8.4,TRUE
+1260,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,26.9,TRUE
+1261,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1999,37.8,TRUE
+1262,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,4.6,TRUE
+1263,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,25.5,TRUE
+1264,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1999,36.4,TRUE
+1265,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,6,TRUE
+1266,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,30.3,TRUE
+1267,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1999,36.8,TRUE
+1268,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1997,8.1,TRUE
+1269,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1998,25.6,TRUE
+1270,Miscanthus,Miscanthus x giganteus,48.67,9,60,1996,20000,1999,34.7,TRUE
+1271,Miscanthus,Miscanthus sacchariflorus,48.67,9,60,1996,20000,1997,4.4,TRUE
+1272,Miscanthus,Miscanthus sacchariflorus,48.67,9,60,1996,20000,1998,15.1,TRUE
+1273,Miscanthus,Miscanthus sacchariflorus,48.67,9,60,1996,20000,1999,35.2,TRUE
+1274,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,7.9,TRUE
+1275,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,18.4,TRUE
+1276,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1999,27.2,TRUE
+1277,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,7.5,TRUE
+1278,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,27.2,TRUE
+1279,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1999,40.9,TRUE
+1280,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,2.5,TRUE
+1281,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,10.8,TRUE
+1282,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1999,21,TRUE
+1283,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,7.6,TRUE
+1284,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,20.1,TRUE
+1285,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1999,26.3,TRUE
+1286,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1997,6.3,TRUE
+1287,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1998,13.6,TRUE
+1288,Miscanthus,Miscanthus sinensis Hybrid,48.67,9,60,1996,20000,1999,20.3,TRUE
+1289,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,5.9,TRUE
+1290,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,10.6,TRUE
+1291,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1999,16.2,TRUE
+1292,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,4.7,TRUE
+1293,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,10.2,TRUE
+1294,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1999,16.3,TRUE
+1295,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,5.7,TRUE
+1296,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,16.3,TRUE
+1297,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1999,22.4,TRUE
+1298,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,5.3,TRUE
+1299,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,11.6,TRUE
+1300,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1999,16.1,TRUE
+1301,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1997,2,TRUE
+1302,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1998,8.8,TRUE
+1303,Miscanthus,Miscanthus sinensis,48.67,9,60,1996,20000,1999,16.1,TRUE
+947,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,6.8,TRUE
+948,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,6.9,TRUE
+949,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,7,TRUE
+950,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,7.2,TRUE
+951,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,8,TRUE
+952,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,11,TRUE
+953,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,13,TRUE
+954,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,18,TRUE
+955,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,26,TRUE
+956,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,27,TRUE
+957,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,17777,1993,27,TRUE
+959,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,6.9,TRUE
+960,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,6.9,TRUE
+961,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,7.6,TRUE
+962,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,8.8,TRUE
+963,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,11,TRUE
+964,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,15,TRUE
+965,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,27,TRUE
+966,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,41,TRUE
+967,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,52,TRUE
+968,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,47,TRUE
+969,Miscanthus,Miscanthus sinensis,52.42,0.11,60,1993,40000,1993,45,TRUE
+16969,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1990,15.7,FALSE
+16970,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1991,24.9,FALSE
+16971,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1992,22.7,FALSE
+16972,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1993,23,FALSE
+16973,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1994,20.3,FALSE
+16974,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1995,18,FALSE
+16975,Miscanthus,Miscanthus x giganteus,48.29,15.91,60,1989,10000,1990,8.8,FALSE
+16976,Miscanthus,Miscanthus x giganteus,48.29,15.91,60,1989,10000,1991,22.1,FALSE
+16977,Miscanthus,Miscanthus x giganteus,48.29,15.91,60,1989,10000,1992,19.8,FALSE
+16978,Miscanthus,Miscanthus x giganteus,48.29,15.91,60,1989,10000,1993,18,FALSE
+16979,Miscanthus,Miscanthus x giganteus,48.29,15.91,60,1989,10000,1994,19.6,FALSE
+16980,Miscanthus,Miscanthus x giganteus,48.29,15.91,60,1989,10000,1995,17.6,FALSE
+16981,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1990,14.8,TRUE
+16982,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1991,35.5,TRUE
+16983,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1992,21.6,TRUE
+16984,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1993,23,TRUE
+16985,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1994,21.4,TRUE
+16986,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1995,22.7,TRUE
+16987,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1990,8,TRUE
+16988,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1991,17.5,TRUE
+16989,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1992,20.9,TRUE
+16990,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1993,19.3,TRUE
+16991,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1994,17.3,TRUE
+16992,Miscanthus,Miscanthus x giganteus,47.84,6.42,60,1989,10000,1995,18.7,TRUE
+16993,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1990,12.1,FALSE
+16994,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1991,23,FALSE
+16995,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1992,28.9,FALSE
+16996,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1993,26.1,FALSE
+16997,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1994,25.8,FALSE
+16998,Miscanthus,Miscanthus x giganteus,48.23,14.39,60,1989,10000,1995,27.6,FALSE
+1536,Miscanthus,Miscanthus x giganteus,51.81,-0.352,60,1993,20000,1995,15.56,FALSE
+1537,Miscanthus,Miscanthus x giganteus,51.81,-0.352,60,1993,20000,1996,23.75,FALSE
+1538,Miscanthus,Miscanthus x giganteus,51.81,-0.352,60,1993,20000,1997,33.8,FALSE
+1539,Miscanthus,Miscanthus x giganteus,51.81,-0.352,60,1993,20000,1996,23.69,FALSE
+1540,Miscanthus,Miscanthus x giganteus,51.81,-0.352,60,1993,20000,1997,29.88,FALSE
+1541,Miscanthus,Miscanthus x giganteus,51.81,-0.352,60,1993,20000,1997,32.61,FALSE
+892,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,0,TRUE
+893,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,1.34,TRUE
+894,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,5.12,TRUE
+895,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,9.92,TRUE
+896,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,17.35,TRUE
+897,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,28.43,TRUE
+898,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,31.01,TRUE
+899,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1993,30.25,TRUE
+900,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,0,TRUE
+901,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,1.42,TRUE
+902,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,15.04,TRUE
+903,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,22.48,TRUE
+904,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,30.94,TRUE
+905,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,35.14,TRUE
+906,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,42.79,TRUE
+907,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1994,37.47,TRUE
+908,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1995,0,FALSE
+909,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1995,14.35,FALSE
+910,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1995,21.17,FALSE
+911,Miscanthus,Miscanthus x giganteus,41.14,24.88,0,1992,10000,1995,23.15,FALSE
+16863,Miscanthus,Miscanthus x giganteus,38.91,22.44,0,1993,8500,1995,30.48,TRUE
+16864,Miscanthus,Miscanthus x giganteus,38.91,22.44,0,1993,8500,1995,36.4,TRUE
+16865,Miscanthus,Miscanthus x giganteus,38.91,22.44,120,1993,8500,1995,29.78,FALSE
+16866,Miscanthus,Miscanthus x giganteus,38.91,22.44,40,1993,8500,1995,20.76,FALSE
+16999,Miscanthus,Miscanthus x giganteus,38.91,22.44,0,1993,8500,1995,2.91,FALSE
+17000,Miscanthus,Miscanthus x giganteus,38.91,22.44,0,1993,8500,1995,24.84,TRUE
+17001,Miscanthus,Miscanthus x giganteus,38.91,22.44,0,1993,8500,1995,31.7,TRUE
+886,Miscanthus,Miscanthus sinensis,43.67,10.32,200,1992,40000,1992,35,TRUE
+887,Miscanthus,Miscanthus sinensis,43.67,10.32,200,1992,40000,1993,24,FALSE
+888,Miscanthus,Miscanthus sinensis,43.67,10.32,100,1992,40000,1994,24,TRUE
+889,Miscanthus,Miscanthus sinensis,43.67,10.32,100,1992,40000,1995,20.5,FALSE
+890,Miscanthus,Miscanthus sinensis,43.67,10.32,0,1992,40000,1996,17.5,TRUE
+891,Miscanthus,Miscanthus sinensis,43.67,10.32,0,1992,40000,1997,17,FALSE
+1902,Miscanthus,Miscanthus x giganteus,50,7.85,0,1989,9000,1989,1,FALSE
+1903,Miscanthus,Miscanthus x giganteus,50,7.85,0,1989,9000,1990,11.3,FALSE
+1904,Miscanthus,Miscanthus x giganteus,50,7.85,0,1989,9000,1991,20.7,FALSE
+1905,Miscanthus,Miscanthus x giganteus,50,7.85,90,1989,9000,1992,30,FALSE
+1906,Miscanthus,Miscanthus x giganteus,50,7.85,90,1989,9000,1993,17,FALSE
+1922,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1988,0.4,FALSE
+1923,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1989,3.8,FALSE
+1924,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1990,14.3,FALSE
+1925,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1991,17.3,FALSE
+1926,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1992,24.5,FALSE
+1927,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1993,17.2,FALSE
+1928,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,10000,1994,20.3,FALSE
+1929,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1988,1.5,FALSE
+1930,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1989,6.6,FALSE
+1931,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1990,17.8,FALSE
+1932,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1991,18.6,FALSE
+1933,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1992,23.4,FALSE
+1934,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1993,15.7,FALSE
+1935,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,20000,1994,21.6,FALSE
+1936,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1988,0.7,FALSE
+1937,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1989,4.6,FALSE
+1938,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1990,16,FALSE
+1939,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1991,17,FALSE
+1940,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1992,26.8,FALSE
+1941,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1993,14.8,FALSE
+1942,Miscanthus,Miscanthus x giganteus,49.83,9.87,0,1987,30000,1994,17.8,FALSE
+1945,Miscanthus,Miscanthus x giganteus,56.84,9.42,75,1990,40000,1993,4.62,FALSE
+1946,Miscanthus,Miscanthus x giganteus,56.84,9.42,75,1990,40000,1993,8.94,FALSE
+1947,Miscanthus,Miscanthus x giganteus,56.84,9.42,75,1990,40000,1993,9.5,FALSE
+1951,Miscanthus,Miscanthus x giganteus,56.62,10.81,100,1991,20000,1994,24,FALSE
+1952,Miscanthus,Miscanthus x giganteus,56.62,10.81,100,1991,20000,1995,17.7,FALSE
+1953,Miscanthus,Miscanthus x giganteus,56.62,10.81,100,1991,20000,1996,23.7,FALSE
+1954,Miscanthus,Miscanthus x giganteus,49.87,9.91,100,1991,20000,1994,32.1,FALSE
+1955,Miscanthus,Miscanthus x giganteus,49.87,9.91,100,1991,20000,1995,24.3,FALSE
+1956,Miscanthus,Miscanthus x giganteus,49.87,9.91,100,1991,20000,1996,33.5,FALSE
+1957,Miscanthus,Miscanthus x giganteus,49.87,9.91,100,1991,20000,1994,17.5,FALSE
+1958,Miscanthus,Miscanthus x giganteus,49.87,9.91,100,1991,20000,1995,16.6,FALSE
+1959,Miscanthus,Miscanthus x giganteus,49.87,9.91,100,1991,20000,1996,16.8,FALSE
+1948,Miscanthus,Miscanthus x giganteus,53.88,12.62,100,1991,20000,1994,14.8,FALSE
+1949,Miscanthus,Miscanthus x giganteus,53.88,12.62,100,1991,20000,1995,19,FALSE
+1950,Miscanthus,Miscanthus x giganteus,53.88,12.62,100,1991,20000,1996,28.8,FALSE
+1960,Miscanthus,Miscanthus x giganteus,52.42,0.11,60,1993,40000,1993,24.4,FALSE
+1961,Miscanthus,Miscanthus x giganteus,52.42,0.11,60,1993,10000,1993,16.5,FALSE
+1962,Miscanthus,Miscanthus x giganteus,52.13,-2.64,60,1993,40000,1993,15.8,FALSE
+1963,Miscanthus,Miscanthus x giganteus,52.13,-2.64,60,1993,10000,1993,6.2,FALSE
+1964,Miscanthus,Miscanthus x giganteus,50.63,-3.45,60,1993,40000,1993,12.2,FALSE
+1965,Miscanthus,Miscanthus x giganteus,50.63,-3.45,60,1993,10000,1993,2.5,FALSE
+1996,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1994,11.7,TRUE
+1997,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1994,12,TRUE
+1998,Miscanthus,Miscanthus x giganteus,48.94,8.28,0,1991,20000,1994,8.9,TRUE
+1999,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1994,8.1,TRUE
+2000,Miscanthus,Miscanthus x giganteus,48.94,8.28,100,1991,20000,1994,13.7,TRUE
+2001,Miscanthus,Miscanthus x giganteus,48.94,8.28,150,1991,20000,1994,10.5,TRUE
+2002,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1991,20000,1994,12.2,TRUE
+2003,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,14.4,FALSE
+2004,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,12.7,FALSE
+2005,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,16.2,FALSE
+2006,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,16.5,FALSE
+2007,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1994,24.3,TRUE
+2008,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1994,30.5,TRUE
+17002,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,13.7,TRUE
+17003,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,16.9,TRUE
+17004,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1995,21,TRUE
+17005,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1995,19.8,TRUE
+17006,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1996,21.2,TRUE
+17007,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1996,22.6,TRUE
+2009,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,20.2,FALSE
+2010,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1996,33.4,FALSE
+2011,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,15.1,FALSE
+2012,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1996,23,FALSE
+2013,Miscanthus,Miscanthus x giganteus,48.11,10.01,0,1993,20000,1994,13.3,FALSE
+2014,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1994,29.4,FALSE
+2015,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1994,24.4,FALSE
+2016,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1996,29.3,FALSE
+2017,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1996,28.4,FALSE
+2018,Miscanthus,Miscanthus x giganteus,48.74,8.92,50,1992,20000,1996,21.2,FALSE
+2019,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1994,13.4,FALSE
+2020,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1994,12.4,FALSE
+2021,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1996,12.4,FALSE
+2022,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1996,10.3,FALSE
+2023,Miscanthus,Miscanthus x giganteus,48.94,8.28,50,1992,20000,1994,10.2,FALSE
+17010,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1985,4.9,FALSE
+17011,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1985,4.6,FALSE
+17012,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1985,5.9,FALSE
+17013,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1985,13,FALSE
+17014,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1986,9.6,FALSE
+17015,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1986,11,FALSE
+17016,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1986,13.2,FALSE
+17017,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1986,0,FALSE
+17018,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1987,8.3,FALSE
+17019,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1987,8.6,FALSE
+17020,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1987,14.8,FALSE
+17021,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1987,11.9,FALSE
+17022,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1988,10.1,FALSE
+17023,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1988,13.6,FALSE
+17024,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1988,14.6,FALSE
+17025,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1988,14,FALSE
+17026,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1989,10.7,FALSE
+17027,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1989,11.5,FALSE
+17028,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1989,11.8,FALSE
+17029,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1989,11.8,FALSE
+17030,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1990,13.2,FALSE
+17031,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1990,13.5,FALSE
+17032,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1990,13.5,FALSE
+17033,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1990,14.3,FALSE
+17034,Miscanthus,Miscanthus x giganteus,56.84,9.42,0,1988,"""""",1991,2.7,FALSE
+17035,Miscanthus,Miscanthus x giganteus,56.84,9.42,0,1988,"""""",1991,2.2,FALSE
+17036,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1991,8.6,FALSE
+17037,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1991,12,FALSE
+17038,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1991,10,FALSE
+17039,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1991,11.3,FALSE
+17040,Miscanthus,Miscanthus x giganteus,56.84,9.42,0,1988,"""""",1992,4.9,FALSE
+17041,Miscanthus,Miscanthus x giganteus,56.84,9.42,0,1988,"""""",1992,4.4,FALSE
+17042,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1992,6.3,FALSE
+17043,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1992,6.2,FALSE
+17044,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1992,6,FALSE
+17045,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1992,6.4,FALSE
+17046,Miscanthus,Miscanthus x giganteus,56.84,9.42,0,1988,"""""",1993,7.8,FALSE
+17047,Miscanthus,Miscanthus x giganteus,56.84,9.42,0,1988,"""""",1993,6,FALSE
+17048,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,5000,1993,7.4,FALSE
+17049,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,10000,1993,6.8,FALSE
+17050,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,20000,1993,9.7,FALSE
+17051,Miscanthus,Miscanthus x giganteus,56.84,9.42,85,1983,40000,1993,8.9,FALSE
+2306,Miscanthus,Miscanthus x giganteus,44.13,12.18,50,1991,38000,1992,31,FALSE
+2307,Miscanthus,Miscanthus x giganteus,44.13,12.18,50,1991,38000,1993,22,FALSE
+2308,Miscanthus,Miscanthus x giganteus,44.13,12.18,50,1991,38000,1993,24,FALSE
+2309,Miscanthus,Miscanthus x giganteus,44.13,12.18,50,1991,38000,1993,31,FALSE
+17008,Miscanthus,Miscanthus x giganteus,44.13,12.18,50,1991,38000,1994,26,FALSE
+17009,Miscanthus,Miscanthus x giganteus,44.13,12.18,50,1991,38000,1994,22,FALSE
+2366,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,1995,14.9,FALSE
+2367,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,1996,19,FALSE
+2368,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,1997,20.2,FALSE
+2369,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,1998,16.5,FALSE
+2370,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,1999,19.5,FALSE
+2371,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,2000,22.2,FALSE
+2372,Miscanthus,Miscanthus sacchariflorus,50.49,-3.78,60,1992,25000,2001,17.6,FALSE
+2373,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,1995,0.8,FALSE
+2374,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,1996,7.9,FALSE
+2375,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,1997,15.2,FALSE
+2376,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,1998,19.4,FALSE
+2377,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,1999,18.1,FALSE
+2378,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,2000,23.5,FALSE
+2379,Miscanthus,Miscanthus sacchariflorus,51.1,-1.27,60,1994,25000,2001,16.7,FALSE
+2380,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,1995,0.5,FALSE
+2381,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,1996,1.7,FALSE
+2382,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,1997,4.6,FALSE
+2383,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,1998,8.5,FALSE
+2384,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,1999,11.5,FALSE
+2385,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,2000,8.1,FALSE
+2386,Miscanthus,Miscanthus sacchariflorus,54.12,-0.65,60,1994,25000,2001,16,FALSE
+2387,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,1994,0.8,FALSE
+2388,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,1995,4.3,FALSE
+2389,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,1996,8.3,FALSE
+2390,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,1997,16.7,FALSE
+2391,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,1998,13.7,FALSE
+2392,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,1999,17.8,FALSE
+2393,Miscanthus,Miscanthus sacchariflorus,52.25,-0.04,60,1994,25000,2000,17.7,FALSE
+2394,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,1994,0.8,FALSE
+2395,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,1995,2.5,FALSE
+2396,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,1996,4.9,FALSE
+2397,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,1997,13.7,FALSE
+2398,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,1998,12.8,FALSE
+2399,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,1999,12.8,FALSE
+2400,Miscanthus,Miscanthus sacchariflorus,53.2,-1.01,60,1994,25000,2000,10.3,FALSE
+2401,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,1994,17.2,FALSE
+2402,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,1995,12.1,FALSE
+2403,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,1996,17.2,FALSE
+2404,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,1997,21.2,FALSE
+2405,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,1998,20.7,FALSE
+2406,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,1999,23.1,FALSE
+2407,Miscanthus,Miscanthus sacchariflorus,52.42,0.11,60,1992,25000,2000,21.4,FALSE
+2408,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,1994,13.6,FALSE
+2409,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,1995,17,FALSE
+2410,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,1996,17.7,FALSE
+2411,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,1997,17.3,FALSE
+2412,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,1998,24.6,FALSE
+2413,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,1999,17.7,FALSE
+2414,Miscanthus,Miscanthus sacchariflorus,52.13,-2.64,60,1992,25000,2000,20.8,FALSE
+16929,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1993,1.88,FALSE
+16930,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1994,13.41,FALSE
+16931,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1995,24.32,FALSE
+16932,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1996,33.2,FALSE
+16933,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1993,1.04,FALSE
+16934,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1994,4.88,FALSE
+16935,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1995,7.15,FALSE
+16936,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1996,13.8,FALSE
+16937,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1993,4.47,FALSE
+16938,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1994,11.86,FALSE
+16939,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1995,10.73,FALSE
+16940,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1996,19.89,FALSE
+16941,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1993,0.202,FALSE
+16942,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1994,2.61,FALSE
+16943,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1995,3.8,FALSE
+16944,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1996,8.86,FALSE
+16945,Miscanthus,Miscanthus x giganteus,51.12,13.19,0,1992,20000,1993,2.85,FALSE
+16946,Miscanthus,Miscanthus x giganteus,51.12,13.19,60,1992,20000,1993,4.47,FALSE
+16947,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1993,4.24,FALSE
+16948,Miscanthus,Miscanthus x giganteus,51.12,13.19,180,1992,20000,1993,4.67,FALSE
+16949,Miscanthus,Miscanthus x giganteus,51.12,13.19,0,1992,20000,1993,0.98,FALSE
+16950,Miscanthus,Miscanthus x giganteus,51.12,13.19,60,1992,20000,1993,1.04,FALSE
+16951,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1993,1.86,FALSE
+16952,Miscanthus,Miscanthus x giganteus,51.12,13.19,180,1992,20000,1993,1.23,FALSE
+16953,Miscanthus,Miscanthus x giganteus,51.12,13.19,0,1992,20000,1994,5.67,FALSE
+16954,Miscanthus,Miscanthus x giganteus,51.12,13.19,60,1992,20000,1994,11.86,FALSE
+16955,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1994,13.62,FALSE
+16956,Miscanthus,Miscanthus x giganteus,51.12,13.19,180,1992,20000,1994,13.46,FALSE
+16957,Miscanthus,Miscanthus x giganteus,51.12,13.19,0,1992,20000,1994,4.46,FALSE
+16958,Miscanthus,Miscanthus x giganteus,51.12,13.19,60,1992,20000,1994,4.88,FALSE
+16959,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1994,8.93,FALSE
+16960,Miscanthus,Miscanthus x giganteus,51.12,13.19,180,1992,20000,1994,8.64,FALSE
+16961,Miscanthus,Miscanthus x giganteus,51.12,13.19,0,1992,20000,1995,4.42,FALSE
+16962,Miscanthus,Miscanthus x giganteus,51.12,13.19,60,1992,20000,1995,10.73,FALSE
+16963,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1995,8.21,FALSE
+16964,Miscanthus,Miscanthus x giganteus,51.12,13.19,180,1992,20000,1995,12.3,FALSE
+16965,Miscanthus,Miscanthus x giganteus,51.12,13.19,0,1992,20000,1995,6.73,FALSE
+16966,Miscanthus,Miscanthus x giganteus,51.12,13.19,60,1992,20000,1995,7.15,FALSE
+16967,Miscanthus,Miscanthus x giganteus,51.12,13.19,120,1992,20000,1995,8.48,FALSE
+16968,Miscanthus,Miscanthus x giganteus,51.12,13.19,180,1992,20000,1995,9.96,FALSE
+2883,Miscanthus,Miscanthus x giganteus,49.99,11.99,80,1989,20000,1990,0.13,FALSE
+2884,Miscanthus,Miscanthus x giganteus,49.99,11.99,80,1989,20000,1991,0.48,FALSE
+2885,Miscanthus,Miscanthus x giganteus,49.99,11.99,80,1989,20000,1992,3.68,FALSE
+2886,Miscanthus,Miscanthus x giganteus,49.99,11.99,80,1989,20000,1993,9.97,FALSE
+2887,Miscanthus,Miscanthus x giganteus,52.8,11.76,80,1989,20000,1990,0.64,FALSE
+2888,Miscanthus,Miscanthus x giganteus,52.8,11.76,80,1989,20000,1991,4.9,FALSE
+2889,Miscanthus,Miscanthus x giganteus,52.8,11.76,80,1989,20000,1992,9.53,FALSE
+2890,Miscanthus,Miscanthus x giganteus,52.8,11.76,80,1989,20000,1993,13.82,FALSE
+2891,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1990,2.1,FALSE
+2892,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1991,3.26,FALSE
+2893,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1992,12.7,FALSE
+2894,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1993,17.01,FALSE
+2895,Miscanthus,Miscanthus x giganteus,48.68,10.14,80,1989,20000,1990,0.5,FALSE
+2896,Miscanthus,Miscanthus x giganteus,48.68,10.14,80,1989,20000,1991,3.95,FALSE
+2897,Miscanthus,Miscanthus x giganteus,48.68,10.14,80,1989,20000,1992,22.54,FALSE
+2898,Miscanthus,Miscanthus x giganteus,48.68,10.14,80,1989,20000,1993,17.85,FALSE
+2899,Miscanthus,Miscanthus x giganteus,51.79,7.61,80,1989,20000,1990,1.47,FALSE
+2900,Miscanthus,Miscanthus x giganteus,51.79,7.61,80,1989,20000,1991,5.08,FALSE
+2901,Miscanthus,Miscanthus x giganteus,51.79,7.61,80,1989,20000,1992,15.2,FALSE
+2902,Miscanthus,Miscanthus x giganteus,51.79,7.61,80,1989,20000,1993,18.44,FALSE
+2903,Miscanthus,Miscanthus x giganteus,52.7,8.81,80,1989,20000,1990,3.46,FALSE
+2904,Miscanthus,Miscanthus x giganteus,52.7,8.81,80,1989,20000,1991,7.01,FALSE
+2905,Miscanthus,Miscanthus x giganteus,52.7,8.81,80,1989,20000,1992,8.8,FALSE
+2906,Miscanthus,Miscanthus x giganteus,52.7,8.81,80,1989,20000,1993,19.01,FALSE
+2907,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1990,2.1,FALSE
+2908,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1991,5.4,FALSE
+2909,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1992,18.13,FALSE
+2910,Miscanthus,Miscanthus x giganteus,52.61,8.25,80,1989,20000,1993,20.02,FALSE
+2911,Miscanthus,Miscanthus x giganteus,48.63,11.77,80,1989,20000,1990,0.28,FALSE
+2912,Miscanthus,Miscanthus x giganteus,48.63,11.77,80,1989,20000,1991,3.87,FALSE
+2913,Miscanthus,Miscanthus x giganteus,48.63,11.77,80,1989,20000,1992,16.2,FALSE
+2914,Miscanthus,Miscanthus x giganteus,48.63,11.77,80,1989,20000,1993,20.43,FALSE
+2915,Miscanthus,Miscanthus x giganteus,48.1,11.14,80,1989,20000,1990,0.41,FALSE
+2916,Miscanthus,Miscanthus x giganteus,48.1,11.14,80,1989,20000,1991,8.99,FALSE
+2917,Miscanthus,Miscanthus x giganteus,48.1,11.14,80,1989,20000,1992,20.14,FALSE
+2918,Miscanthus,Miscanthus x giganteus,48.1,11.14,80,1989,20000,1993,20.88,FALSE
+2919,Miscanthus,Miscanthus x giganteus,48.49,10.29,80,1989,20000,1990,1.11,FALSE
+2920,Miscanthus,Miscanthus x giganteus,48.49,10.29,80,1989,20000,1991,11.39,FALSE
+2921,Miscanthus,Miscanthus x giganteus,48.49,10.29,80,1989,20000,1992,17.68,FALSE
+2922,Miscanthus,Miscanthus x giganteus,48.49,10.29,80,1989,20000,1993,23.42,FALSE
+2923,Miscanthus,Miscanthus x giganteus,52.62,10.81,80,1989,20000,1990,3.72,FALSE
+2924,Miscanthus,Miscanthus x giganteus,52.62,10.81,80,1989,20000,1991,13.69,FALSE
+2925,Miscanthus,Miscanthus x giganteus,52.62,10.81,80,1989,20000,1992,15.3,FALSE
+2926,Miscanthus,Miscanthus x giganteus,52.62,10.81,80,1989,20000,1993,23.89,FALSE
+3160,Miscanthus,Miscanthus sinensis,53.38,9.75,0,1988,40000,1991,21.8,FALSE
+851,Panicum,Panicum virgatum,40.24,79.24,0,1999,"""""",2003,2.87,FALSE
+849,Panicum,Panicum virgatum,40.24,79.24,0,1999,"""""",2003,2.08,FALSE
+850,Panicum,Panicum virgatum,40.24,79.24,0,1999,"""""",2004,5.07,FALSE
+848,Panicum,Panicum virgatum,40.24,79.24,0,1999,"""""",2004,2.61,FALSE
+227,Panicum,Panicum virgatum,40.96,-78.74,56,1999,"""""",2002,6.83,FALSE
+225,Panicum,Panicum virgatum,40.96,-78.74,56,1999,"""""",2003,6.95,FALSE
+228,Panicum,Panicum virgatum,40.96,-78.74,56,1999,"""""",2003,4.72,FALSE
+226,Panicum,Panicum virgatum,40.96,-78.74,56,1999,"""""",2004,7.02,FALSE
+229,Panicum,Panicum virgatum,40.96,-78.74,56,1999,"""""",2004,4.03,FALSE
+1,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,10.7,FALSE
+2,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,15.2,FALSE
+3,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,11.7,FALSE
+4,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,13.2,FALSE
+5,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,10.4,FALSE
+6,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,11.6,FALSE
+7,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,12.4,FALSE
+8,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,9.4,FALSE
+9,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,8.5,FALSE
+10,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1998,12.1,FALSE
+11,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,20.1,FALSE
+12,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,18.9,FALSE
+13,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,15.8,FALSE
+14,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,19,FALSE
+15,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,17.1,FALSE
+16,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,16.8,FALSE
+17,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,19,FALSE
+18,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,15.8,FALSE
+19,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,14,FALSE
+20,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,1999,21.1,FALSE
+21,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,20.1,FALSE
+22,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,17.5,FALSE
+23,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,17.9,FALSE
+24,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,18.4,FALSE
+25,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,21.3,FALSE
+26,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,16.7,FALSE
+27,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,17.8,FALSE
+28,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,18.8,FALSE
+29,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,11.3,FALSE
+30,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2000,19.3,FALSE
+31,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,18.2,FALSE
+32,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,14.8,FALSE
+33,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,13.1,FALSE
+34,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,11.7,FALSE
+35,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,16.9,FALSE
+36,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,17,FALSE
+37,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,16.4,FALSE
+38,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,16.2,FALSE
+39,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,14.8,FALSE
+40,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2001,12.9,FALSE
+41,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,9.2,FALSE
+42,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,8.9,FALSE
+43,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,8.1,FALSE
+44,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,7.4,FALSE
+45,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,9.8,FALSE
+46,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,9.2,FALSE
+47,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,11.5,FALSE
+48,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,10.7,FALSE
+49,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,11,FALSE
+50,Panicum,Panicum virgatum,38.37,23.17,75,1998,2250000,2002,7.1,FALSE
+51,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.3,FALSE
+52,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.5,FALSE
+53,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.5,FALSE
+54,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,1.4,FALSE
+55,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.9,FALSE
+56,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.4,FALSE
+57,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.2,FALSE
+58,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.1,FALSE
+59,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.4,FALSE
+60,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.99,FALSE
+61,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,1.3,FALSE
+62,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,0.9,FALSE
+63,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1998,2.8,FALSE
+64,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,7.6,FALSE
+65,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,7.6,FALSE
+66,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,7.1,FALSE
+67,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,4.7,FALSE
+68,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,8.3,FALSE
+69,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,8.5,FALSE
+70,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,8.5,FALSE
+71,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,14.6,FALSE
+72,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,9.9,FALSE
+73,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,10.4,FALSE
+74,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,6.3,FALSE
+75,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,3.5,FALSE
+76,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,5.8,FALSE
+77,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,1.7,FALSE
+78,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,1.8,FALSE
+79,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,10.1,FALSE
+80,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,9.4,FALSE
+81,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,11.4,FALSE
+82,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,15.3,FALSE
+83,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,10.8,FALSE
+84,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,11.9,FALSE
+85,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,20.2,FALSE
+86,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,26.1,FALSE
+87,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,14.9,FALSE
+88,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,15.8,FALSE
+89,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,7.8,FALSE
+90,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,8.2,FALSE
+91,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,10.7,FALSE
+92,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,5.6,FALSE
+93,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,6.9,FALSE
+94,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,8.1,FALSE
+95,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,9.7,FALSE
+96,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,7.6,FALSE
+97,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,12.1,FALSE
+98,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,11.9,FALSE
+99,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,12.9,FALSE
+100,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,13.4,FALSE
+101,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,21.8,FALSE
+102,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,17,FALSE
+103,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,13,FALSE
+104,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,7.8,FALSE
+105,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,5.5,FALSE
+106,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,6.1,FALSE
+107,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,3.3,FALSE
+108,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,4.1,FALSE
+109,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,7.3,FALSE
+110,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,6.8,FALSE
+111,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,4.9,FALSE
+112,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,7.9,FALSE
+113,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,7.7,FALSE
+114,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,9,FALSE
+115,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,9.9,FALSE
+116,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,16.9,FALSE
+117,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,10.9,FALSE
+118,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,9.5,FALSE
+119,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,7.8,FALSE
+120,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,5.5,FALSE
+121,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,5.6,FALSE
+122,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,3.8,FALSE
+123,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2003,6.7,FALSE
+16446,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,13.4,FALSE
+16447,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,12.9,FALSE
+16448,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,12.1,FALSE
+16449,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,11.9,FALSE
+16450,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,9.7,FALSE
+16451,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,8.1,FALSE
+16452,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2001,7.6,FALSE
+844,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,7.1,FALSE
+845,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,6.7,FALSE
+17640,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,7.7,FALSE
+17641,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,6.6,FALSE
+17642,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,8.1,FALSE
+17643,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,8.6,FALSE
+17644,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,7.9,FALSE
+17645,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,7.8,FALSE
+852,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,7.4,FALSE
+853,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1978,6,FALSE
+854,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,8.4,FALSE
+855,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,6.8,FALSE
+856,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,7.6,FALSE
+857,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,8.8,FALSE
+858,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,5,FALSE
+859,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,5,FALSE
+860,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,7.7,FALSE
+861,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,6.8,FALSE
+862,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,4.9,FALSE
+863,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1979,4.2,FALSE
+864,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,8.9,FALSE
+865,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,8.3,FALSE
+866,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,7,FALSE
+867,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,8.4,FALSE
+868,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,3.9,FALSE
+869,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,5.4,FALSE
+870,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,8.7,FALSE
+871,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,8.3,FALSE
+872,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,4.4,FALSE
+873,Panicum,Panicum virgatum,37.62,-79.95,0,1977,"""""",1980,5,FALSE
+182,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,5.27,FALSE
+183,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,5.34,FALSE
+184,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,6.32,FALSE
+185,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,8.81,FALSE
+186,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,8.32,FALSE
+187,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,7.39,FALSE
+188,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,6.03,FALSE
+189,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,7.92,FALSE
+190,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,8.09,FALSE
+191,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,7.75,FALSE
+192,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,9.42,FALSE
+193,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,10.52,FALSE
+194,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,9.27,FALSE
+195,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,6.72,FALSE
+196,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,6.13,FALSE
+197,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,4.75,FALSE
+198,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.49,FALSE
+199,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.05,FALSE
+200,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,3.05,FALSE
+201,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,3.28,FALSE
+202,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,3.17,FALSE
+203,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.62,FALSE
+204,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2,FALSE
+205,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.18,FALSE
+221,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,7.6,FALSE
+222,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.4,FALSE
+223,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,5.93,FALSE
+224,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,9.58,FALSE
+990,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,9.46,FALSE
+991,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.2,FALSE
+992,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,6.45,FALSE
+993,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,8.79,FALSE
+994,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.14,FALSE
+995,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,9.37,FALSE
+996,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,8.32,FALSE
+997,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.46,FALSE
+998,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,10.08,FALSE
+999,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,7.97,FALSE
+1000,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.38,FALSE
+1001,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,9.83,FALSE
+1002,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,8.33,FALSE
+1003,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.66,FALSE
+1004,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,10.48,FALSE
+1005,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,12.48,FALSE
+1006,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,3.2,FALSE
+1007,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2000,10.19,FALSE
+1008,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2001,10.94,FALSE
+1009,Panicum,Panicum virgatum,46.8,-100.92,67,1998,12250000,2002,2.58,FALSE
+1010,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,3.46,FALSE
+1011,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,4.54,FALSE
+1012,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,3.42,FALSE
+1013,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,3.2,FALSE
+1014,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,5.57,FALSE
+1015,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,4.5,FALSE
+1016,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,3.26,FALSE
+1017,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,4.73,FALSE
+1018,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,3.84,FALSE
+1019,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,4.49,FALSE
+1020,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,5.35,FALSE
+1021,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,3.69,FALSE
+1022,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,4.22,FALSE
+1023,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,5.74,FALSE
+1024,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,3.53,FALSE
+1025,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,3,FALSE
+1026,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,3.76,FALSE
+1027,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,2.94,FALSE
+1028,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,5.2,FALSE
+1029,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,7.55,FALSE
+1030,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,5.25,FALSE
+1031,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2001,5.62,FALSE
+1032,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2002,7.59,FALSE
+1033,Panicum,Panicum virgatum,46.88,-102.8,56,1998,21160000,2003,4.66,FALSE
+1034,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,4.6,FALSE
+1035,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,3,FALSE
+1036,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,4.2,FALSE
+1037,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,3.9,FALSE
+1038,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,4,FALSE
+1039,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,6.1,FALSE
+1040,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,4.9,FALSE
+1041,Panicum,Panicum virgatum,44,-100,0,1986,4000000,2001,5.7,FALSE
+1042,Panicum,Panicum virgatum,43.2,-89.23,112,1997,2250000,2001,12.8,FALSE
+1043,Panicum,Panicum virgatum,43.2,-89.23,112,1997,2250000,2001,5.9,FALSE
+1044,Panicum,Panicum virgatum,43.2,-89.23,112,1997,2250000,2001,9.9,FALSE
+1045,Panicum,Panicum virgatum,43.2,-89.23,112,1997,2250000,2001,17,FALSE
+1046,Panicum,Panicum virgatum,43.2,-89.23,112,1997,2250000,2001,11.7,FALSE
+1047,Panicum,Panicum virgatum,43.2,-89.23,112,1997,2250000,2001,14.6,FALSE
+1048,Panicum,Panicum virgatum,45.34,-97.75,0,1999,2250000,2001,9.7,FALSE
+1049,Panicum,Panicum virgatum,45.34,-97.75,0,1999,2250000,2001,6.6,FALSE
+1050,Panicum,Panicum virgatum,45.34,-97.75,0,1999,2250000,2001,7.9,FALSE
+1051,Panicum,Panicum virgatum,45.34,-97.75,0,1999,2250000,2001,11.4,FALSE
+1052,Panicum,Panicum virgatum,45.34,-97.75,0,1999,2250000,2001,12.5,FALSE
+1053,Panicum,Panicum virgatum,45.34,-97.75,0,1999,2250000,2001,13.2,FALSE
+1058,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2001,6.3,FALSE
+1059,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2001,4.79,FALSE
+1060,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2001,4.22,FALSE
+1061,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2002,4.79,FALSE
+1062,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2002,5.48,FALSE
+1063,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2002,2.24,FALSE
+1064,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2003,6.08,FALSE
+1065,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2003,4.76,FALSE
+1066,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2003,1.7,FALSE
+1067,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2004,5.41,FALSE
+1068,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2004,4.22,FALSE
+1069,Panicum,Panicum virgatum,45,-97,0,2000,12250000,2004,3.66,FALSE
+17646,Panicum,Panicum virgatum,45,-97,0,1999,450000,2002,12.6,FALSE
+17647,Panicum,Panicum virgatum,45,-97,0,1999,450000,2003,10.5,FALSE
+17648,Panicum,Panicum virgatum,45,-97,0,1999,450000,2002,13.1,FALSE
+17649,Panicum,Panicum virgatum,45,-97,0,1999,450000,2003,9.9,FALSE
+1072,Panicum,Panicum virgatum,48.44,8.56,80,2002,"""""",2005,14.05,FALSE
+1071,Panicum,Panicum virgatum,48.44,8.56,40,2002,"""""",2005,11.82,FALSE
+1070,Panicum,Panicum virgatum,48.44,8.56,0,2002,"""""",2005,8.26,FALSE
+1073,Panicum,Panicum virgatum,32.22,-98.2,0,2000,6250000,2011,6.63,FALSE
+1074,Panicum,Panicum virgatum,32.22,-98.2,27,2000,6250000,2012,4.78,FALSE
+1075,Panicum,Panicum virgatum,32.22,-98.2,0,2000,6250000,2012,3.02,FALSE
+1394,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1998,9.55,FALSE
+1395,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1998,6.16,FALSE
+1396,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1998,7.19,FALSE
+1397,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1998,10.2,FALSE
+1398,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1998,8.45,FALSE
+1399,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1998,9.98,FALSE
+1400,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1999,13.32,FALSE
+1401,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1999,6.93,FALSE
+1402,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1999,10,FALSE
+1403,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1999,11.96,FALSE
+1404,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1999,10.77,FALSE
+1405,Panicum,Panicum virgatum,43,-101,112,1997,2250000,1999,10.72,FALSE
+1406,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2000,16.66,FALSE
+1407,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2000,7.81,FALSE
+1408,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2000,9.32,FALSE
+1409,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2000,17.31,FALSE
+1410,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2000,11.55,FALSE
+1411,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2000,11.16,FALSE
+1412,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2001,17.71,FALSE
+1413,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2001,8.53,FALSE
+1414,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2001,10.95,FALSE
+1415,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2001,16.36,FALSE
+1416,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2001,15.33,FALSE
+1417,Panicum,Panicum virgatum,43,-101,112,1997,2250000,2001,12.55,FALSE
+1418,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1998,3.97,FALSE
+1419,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1999,4.6,FALSE
+1420,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2000,3.67,FALSE
+1421,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2001,3.14,FALSE
+1422,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1998,2.12,FALSE
+1423,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1999,3.81,FALSE
+1424,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2000,2.75,FALSE
+1425,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2001,2.81,FALSE
+1426,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1998,3.44,FALSE
+1427,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1999,4.34,FALSE
+1428,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2000,4.08,FALSE
+1429,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2001,3.83,FALSE
+1430,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1998,4.93,FALSE
+1431,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1999,5.99,FALSE
+1432,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2000,4.73,FALSE
+1433,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2001,4.89,FALSE
+1434,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1998,4.19,FALSE
+1435,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1999,4.93,FALSE
+1436,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2000,4.86,FALSE
+1437,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2001,4.51,FALSE
+1438,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1998,4.58,FALSE
+1439,Panicum,Panicum virgatum,44,-97,112,1997,2250000,1999,4.73,FALSE
+1440,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2000,4.72,FALSE
+1441,Panicum,Panicum virgatum,44,-97,112,1997,2250000,2001,4.34,FALSE
+1522,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,1.66,FALSE
+1523,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,2.15,FALSE
+1524,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,2.42,FALSE
+1525,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,1.34,FALSE
+1526,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,1.53,FALSE
+1527,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,1.55,FALSE
+1528,Panicum,Panicum virgatum,51.81,-0.35,0,1993,25000000,1993,1.11,FALSE
+1529,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,1.66,FALSE
+1530,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,1.64,FALSE
+1531,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,2.06,FALSE
+1532,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,1.03,FALSE
+1533,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,1.47,FALSE
+1534,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,1.51,FALSE
+1535,Panicum,Panicum virgatum,51.81,-0.35,60,1993,25000000,1993,1.35,FALSE
+1542,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,1999,13.27,FALSE
+1543,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,1999,13.21,FALSE
+1544,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,1999,12.99,FALSE
+1545,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,1999,11.55,FALSE
+1546,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,1999,16.11,FALSE
+1547,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,1999,15.08,FALSE
+1548,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,1999,14.76,FALSE
+1549,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,1999,11.67,FALSE
+1550,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2000,16.65,FALSE
+1551,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2000,15.62,FALSE
+1552,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2000,15.46,FALSE
+1553,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2000,14.56,FALSE
+1554,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2000,18.62,FALSE
+1555,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2000,15.71,FALSE
+1556,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2000,13.77,FALSE
+1557,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2000,12.93,FALSE
+1558,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2001,15.79,FALSE
+1559,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2001,14.94,FALSE
+1560,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2001,14.13,FALSE
+1561,Panicum,Panicum virgatum,35.62,-88.83,50,1991,4000000,2001,13.22,FALSE
+1562,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2001,20.75,FALSE
+1563,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2001,18.47,FALSE
+1564,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2001,16.81,FALSE
+1565,Panicum,Panicum virgatum,35.62,-88.83,100,1991,4000000,2001,15.91,FALSE
+1566,Panicum,Panicum virgatum,35.72,-78.67,50,1991,4000000,1999,15.66,FALSE
+1567,Panicum,Panicum virgatum,35.72,-78.67,100,1991,4000000,1999,14.67,FALSE
+1568,Panicum,Panicum virgatum,35.72,-78.67,,,,1999,12.63,FALSE
+1569,Panicum,Panicum virgatum,35.72,-78.67,,,,1999,12.02,FALSE
+1570,Panicum,Panicum virgatum,35.72,-78.67,,,,1999,14.55,FALSE
+1571,Panicum,Panicum virgatum,35.72,-78.67,,,,1999,12.13,FALSE
+1572,Panicum,Panicum virgatum,35.72,-78.67,50,1991,4000000,1999,12.02,FALSE
+1573,Panicum,Panicum virgatum,35.72,-78.67,100,1991,4000000,1999,11.66,FALSE
+1574,Panicum,Panicum virgatum,35.72,-78.67,,,,2000,,FALSE
+1575,Panicum,Panicum virgatum,35.72,-78.67,,,,2000,,FALSE
+1576,Panicum,Panicum virgatum,35.72,-78.67,,,,2000,,FALSE
+1577,Panicum,Panicum virgatum,35.72,-78.67,,,,2000,,FALSE
+1578,Panicum,Panicum virgatum,35.72,-78.67,50,1991,4000000,2000,,FALSE
+1579,Panicum,Panicum virgatum,35.72,-78.67,100,1991,4000000,2000,,FALSE
+1580,Panicum,Panicum virgatum,35.72,-78.67,,,,2000,,FALSE
+1581,Panicum,Panicum virgatum,35.72,-78.67,,,,2000,,FALSE
+1582,Panicum,Panicum virgatum,35.72,-78.67,,,,2001,,FALSE
+1583,Panicum,Panicum virgatum,35.72,-78.67,,,,2001,,FALSE
+1584,Panicum,Panicum virgatum,35.72,-78.67,50,1991,4000000,2001,,FALSE
+1585,Panicum,Panicum virgatum,35.72,-78.67,100,1991,4000000,2001,,FALSE
+1586,Panicum,Panicum virgatum,35.72,-78.67,,,,2001,,FALSE
+1587,Panicum,Panicum virgatum,35.72,-78.67,,,,2001,,FALSE
+1588,Panicum,Panicum virgatum,35.72,-78.67,,,,2001,,FALSE
+1589,Panicum,Panicum virgatum,35.72,-78.67,,,,2001,,FALSE
+1590,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,1999,15.85,FALSE
+1591,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,1999,14.11,FALSE
+1592,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,1999,11.82,FALSE
+1593,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,1999,10.58,FALSE
+1594,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,1999,13.11,FALSE
+1595,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,1999,12.47,FALSE
+1596,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,1999,8.21,FALSE
+1597,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,1999,7.94,FALSE
+1598,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2000,,FALSE
+1599,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2000,,FALSE
+1600,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2000,,FALSE
+1601,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2000,,FALSE
+1602,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2000,,FALSE
+1603,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2000,,FALSE
+1604,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2000,,FALSE
+1605,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2000,,FALSE
+1606,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2001,,FALSE
+1607,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2001,,FALSE
+1608,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2001,,FALSE
+1609,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2001,,FALSE
+1610,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,2001,,FALSE
+1611,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,2001,,FALSE
+1612,Panicum,Panicum virgatum,35.88,-82.05,50,1991,4000000,,,FALSE
+1613,Panicum,Panicum virgatum,35.88,-82.05,100,1991,4000000,,,FALSE
+1614,Panicum,Panicum virgatum,37.1,-87.82,50,1991,4000000,1999,8.44,FALSE
+1615,Panicum,Panicum virgatum,37.1,-87.82,100,1991,4000000,1999,8.21,FALSE
+1616,Panicum,Panicum virgatum,37.1,-87.82,,,,1999,7.91,FALSE
+1617,Panicum,Panicum virgatum,37.1,-87.82,,,,1999,7.04,FALSE
+1618,Panicum,Panicum virgatum,37.1,-87.82,,,,1999,9.09,FALSE
+1619,Panicum,Panicum virgatum,37.1,-87.82,,,,1999,8.57,FALSE
+1620,Panicum,Panicum virgatum,37.1,-87.82,50,1991,4000000,1999,7.78,FALSE
+1621,Panicum,Panicum virgatum,37.1,-87.82,100,1991,4000000,1999,7.29,FALSE
+1622,Panicum,Panicum virgatum,37.1,-87.82,,,,2000,14.35,FALSE
+1623,Panicum,Panicum virgatum,37.1,-87.82,,,,2000,12.24,FALSE
+1624,Panicum,Panicum virgatum,37.1,-87.82,,,,2000,11.87,FALSE
+1625,Panicum,Panicum virgatum,37.1,-87.82,,,,2000,10.2,FALSE
+1626,Panicum,Panicum virgatum,37.1,-87.82,50,1991,4000000,2000,10.99,FALSE
+1626,Panicum,Panicum virgatum,37.1,-87.82,,,,2000,8.42,FALSE
+1627,Panicum,Panicum virgatum,37.1,-87.82,100,1991,4000000,2000,7.94,FALSE
+1627,Panicum,Panicum virgatum,37.1,-87.82,,,,2000,7.93,FALSE
+1628,Panicum,Panicum virgatum,37.1,-87.82,,,,2001,17.01,FALSE
+1629,Panicum,Panicum virgatum,37.1,-87.82,,,,2001,16.66,FALSE
+1630,Panicum,Panicum virgatum,37.1,-87.82,,,,2001,15.54,FALSE
+1631,Panicum,Panicum virgatum,37.1,-87.82,,,,2001,12.98,FALSE
+1632,Panicum,Panicum virgatum,37.1,-87.82,100,1991,4000000,2001,12.63,FALSE
+1633,Panicum,Panicum virgatum,37.1,-87.82,50,1991,4000000,2001,11.61,FALSE
+1634,Panicum,Panicum virgatum,37.1,-87.82,,,,2001,8.69,FALSE
+1635,Panicum,Panicum virgatum,37.1,-87.82,,,,2001,8.17,FALSE
+1728,Panicum,Panicum virgatum,38.22,-78.12,50,1991,4000000,1999,16.53,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,1999,16.25,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,1999,13.18,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,1999,12.65,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,1999,18.33,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,1999,15.71,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,1999,12.33,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,1999,11.6,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2000,16.95,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2000,16.63,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2000,14.27,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2000,14.08,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2000,20.73,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2000,15.46,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2000,14.36,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2000,11.74,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2001,18.1,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2001,17.02,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2001,15.29,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2001,15.1,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,100,1991,4000000,2001,24.78,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2001,22.54,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2001,13.73,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,2001,11.24,FALSE
+,Panicum,Panicum virgatum,37.62,-79.95,50,1991,4000000,1999,21.08,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,19.07,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,17.69,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,15.43,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,15.18,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,14.8,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,13.04,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,11.66,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,17.19,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,16.93,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,16.18,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,15.8,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,14.17,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,11.16,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,10.28,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,9.52,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,16.56,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,14.67,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,13.67,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,13.29,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,13.67,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,10.65,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,9.65,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,9.65,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,26.36,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,25.35,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,22.46,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,21.08,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,1999,22.71,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,17.19,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,14.42,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,13.92,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,22.46,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,21.33,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,20.58,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,17.44,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2000,18.94,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,17.06,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,12.04,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2000,11.91,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,19.95,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,19.7,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,18.07,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,16.81,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,100,1991,4000000,2001,27.36,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,22.21,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,18.32,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,2001,11.78,FALSE
+,Panicum,Panicum virgatum,37.18,-80.42,50,1991,4000000,1999,13.7,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,100,1991,4000000,1999,12.1,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,100,1991,4000000,1999,9.76,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,100,1991,4000000,1999,7.41,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,100,1991,4000000,1999,15.07,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,50,1991,4000000,1999,11.97,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,50,1991,4000000,1999,8.41,FALSE
+,Panicum,Panicum virgatum,38.22,-78.12,50,1991,4000000,1999,8.38,FALSE
+1734,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,11.5,FALSE
+1735,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,10.9,FALSE
+1736,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,12.5,FALSE
+1737,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,13.6,FALSE
+1738,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,12,FALSE
+1739,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,11.2,FALSE
+1740,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,12.4,FALSE
+1741,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,13.5,FALSE
+1742,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,11.1,FALSE
+1743,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1994,5.6,FALSE
+1744,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,22,FALSE
+1745,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,26.4,FALSE
+1746,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,23.6,FALSE
+1747,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,21.3,FALSE
+1748,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,21.1,FALSE
+1749,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,16.9,FALSE
+1750,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,16.9,FALSE
+1751,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,11.8,FALSE
+1752,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,15.2,FALSE
+1753,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1995,9.4,FALSE
+1754,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,14,FALSE
+1755,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,10.1,FALSE
+1756,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,11.8,FALSE
+1757,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,12.4,FALSE
+1758,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,9.5,FALSE
+1759,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,10.6,FALSE
+1760,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,10.8,FALSE
+1761,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,9.5,FALSE
+1762,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,8.1,FALSE
+1763,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1996,8.2,FALSE
+1764,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,11.2,FALSE
+1765,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,9.4,FALSE
+1766,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,10,FALSE
+1767,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,9.8,FALSE
+1768,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,9,FALSE
+1769,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,9.6,FALSE
+1770,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,7.8,FALSE
+1771,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,9,FALSE
+1772,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,6.3,FALSE
+1773,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1997,7.1,FALSE
+1774,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,8.9,FALSE
+1775,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,7.5,FALSE
+1776,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,7.8,FALSE
+1777,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,6.7,FALSE
+1778,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,7.1,FALSE
+1779,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,6.4,FALSE
+1780,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,6,FALSE
+1781,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,6.3,FALSE
+1782,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,5.2,FALSE
+1783,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1998,5,FALSE
+1784,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,15.2,FALSE
+1785,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,14.9,FALSE
+1786,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,13.1,FALSE
+1787,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,13.9,FALSE
+1788,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,14.1,FALSE
+1789,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,10.6,FALSE
+1790,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,10.3,FALSE
+1791,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,12.4,FALSE
+1792,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,11.5,FALSE
+1793,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",1999,10.4,FALSE
+1794,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,11.5,FALSE
+1795,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,12.4,FALSE
+1796,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,11,FALSE
+1797,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,11.8,FALSE
+1798,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,10.6,FALSE
+1799,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,12,FALSE
+1800,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,10.8,FALSE
+1801,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,10.5,FALSE
+1802,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,10.7,FALSE
+1803,Panicum,Panicum virgatum,35.01,-97.54,78,1993,"""""",2000,7.5,FALSE
+1804,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,26.6,FALSE
+1805,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,17.1,FALSE
+1806,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,15.7,FALSE
+1807,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,13,FALSE
+1808,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,16.8,FALSE
+1809,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,13.4,FALSE
+1810,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,16.5,FALSE
+1811,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,25.7,FALSE
+1812,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,21.7,FALSE
+1813,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,21.3,FALSE
+1814,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,14.7,FALSE
+1815,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,17.3,FALSE
+1816,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,12.2,FALSE
+1817,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,19.6,FALSE
+1818,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,16.8,FALSE
+1819,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,20.3,FALSE
+1820,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,11.4,FALSE
+1821,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,6.6,FALSE
+1822,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,12.5,FALSE
+1823,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,9.3,FALSE
+1824,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,12.7,FALSE
+1825,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,25,FALSE
+1826,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,15.9,FALSE
+1827,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,18,FALSE
+1828,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,12.2,FALSE
+1829,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,13.5,FALSE
+1830,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,13.8,FALSE
+1831,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,18,FALSE
+1832,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,18.5,FALSE
+1833,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,16.9,FALSE
+1834,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,12.1,FALSE
+1835,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,7.2,FALSE
+1836,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,10.8,FALSE
+1837,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,10.5,FALSE
+1838,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,12.5,FALSE
+1839,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,15.8,FALSE
+1840,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,21,FALSE
+1841,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,13.9,FALSE
+1842,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,5.9,FALSE
+1843,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,9.2,FALSE
+1844,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,7.9,FALSE
+1845,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,11.9,FALSE
+1846,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,21.8,FALSE
+1847,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,23.7,FALSE
+1848,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,21.6,FALSE
+1849,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,13.4,FALSE
+1850,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,16.9,FALSE
+1851,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,12.8,FALSE
+1852,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,16.2,FALSE
+1853,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,20.2,FALSE
+1854,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,17.9,FALSE
+1855,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,18.7,FALSE
+1856,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,13.4,FALSE
+1857,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,17.7,FALSE
+1858,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,15.5,FALSE
+1859,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,20.6,FALSE
+1860,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,16.8,FALSE
+1861,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,19.2,FALSE
+1862,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,11.6,FALSE
+1863,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,5.8,FALSE
+1864,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,10.5,FALSE
+1865,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,8.6,FALSE
+1866,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,11.9,FALSE
+1867,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,17.3,FALSE
+1868,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,18.5,FALSE
+1869,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,18.4,FALSE
+1870,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,13.6,FALSE
+1871,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,19.9,FALSE
+1872,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,12.9,FALSE
+1873,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,16,FALSE
+1874,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,15.2,FALSE
+1875,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,18.9,FALSE
+1876,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,10.9,FALSE
+1877,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,6,FALSE
+1878,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,8.1,FALSE
+1879,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,7.5,FALSE
+1880,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,10.1,FALSE
+1881,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1994,8,FALSE
+1882,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1995,10.6,FALSE
+1883,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1996,10.5,FALSE
+1884,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1997,5.2,FALSE
+1885,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1998,8,FALSE
+1886,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",1999,8,FALSE
+1887,Panicum,Panicum virgatum,35.73,-95.63,90,1993,"""""",2000,14.6,FALSE
+1888,Panicum,Panicum virgatum,37.45,-88.67,0,2001,"""""",2005,7.8,FALSE
+1889,Panicum,Panicum virgatum,37.45,-88.67,0,2001,"""""",2005,7.8,FALSE
+1890,Panicum,Panicum virgatum,37.45,-88.67,0,2001,"""""",2005,9.6,FALSE
+1891,Panicum,Panicum virgatum,37.45,-88.67,0,2001,"""""",2005,9.1,FALSE
+1892,Panicum,Panicum virgatum,40.08,-88.23,0,2001,100000000,2004,26,FALSE
+1893,Panicum,Panicum virgatum,40.08,-88.23,0,2001,100000000,2004,12.8,FALSE
+1894,Panicum,Panicum virgatum,40.08,-88.23,0,2001,100000000,2005,11.5,FALSE
+1895,Panicum,Panicum virgatum,40.08,-88.23,0,2001,100000000,2005,10.6,FALSE
+1896,Panicum,Panicum virgatum,40.08,-88.23,0,2001,100000000,2006,22,FALSE
+1897,Panicum,Panicum virgatum,40.08,-88.23,0,2001,100000000,2006,15.6,FALSE
+1898,Panicum,Panicum virgatum,41.85,-88.85,0,2001,100000000,2005,7.8,FALSE
+1899,Panicum,Panicum virgatum,41.85,-88.85,0,2001,100000000,2005,7.8,FALSE
+1900,Panicum,Panicum virgatum,41.85,-88.85,0,2001,100000000,2005,8.4,FALSE
+1901,Panicum,Panicum virgatum,41.85,-88.85,0,2001,100000000,2005,7.7,FALSE
+1907,Panicum,Panicum virgatum,41.23,-96.49,112,1990,860000,1992,14.38,FALSE
+1908,Panicum,Panicum virgatum,41.23,-96.49,112,1990,860000,1992,13.31,FALSE
+1909,Panicum,Panicum virgatum,41.23,-96.49,112,1990,860000,1992,13.3,FALSE
+1910,Panicum,Panicum virgatum,41.23,-96.49,112,1990,860000,1992,13.23,FALSE
+1911,Panicum,Panicum virgatum,41.23,-96.49,112,1990,860000,1992,12.96,FALSE
+1912,Panicum,Panicum virgatum,42.03,-93.63,112,1990,860000,1992,11.15,FALSE
+1913,Panicum,Panicum virgatum,42.03,-93.63,112,1990,860000,1992,14.28,FALSE
+1914,Panicum,Panicum virgatum,42.03,-93.63,112,1990,860000,1992,13.48,FALSE
+1915,Panicum,Panicum virgatum,42.03,-93.63,112,1990,860000,1992,11.2,FALSE
+1916,Panicum,Panicum virgatum,42.03,-93.63,112,1990,860000,1992,11.02,FALSE
+1917,Panicum,Panicum virgatum,40.45,-86.92,112,1990,860000,1992,14.89,FALSE
+1918,Panicum,Panicum virgatum,40.45,-86.92,112,1990,860000,1992,14.36,FALSE
+1919,Panicum,Panicum virgatum,40.45,-86.92,112,1990,860000,1992,13.18,FALSE
+1920,Panicum,Panicum virgatum,40.45,-86.92,112,1990,860000,1992,13,FALSE
+1921,Panicum,Panicum virgatum,40.45,-86.92,112,1990,860000,1992,13.39,FALSE
+2024,Panicum,Panicum virgatum,32.4,-85.93,224,1991,"""""",1995,9.402,FALSE
+2025,Panicum,Panicum virgatum,32.4,-85.93,112,1991,4000000,1995,12.038,FALSE
+2026,Panicum,Panicum virgatum,32.4,-85.93,112,1993,4000000,1995,8.839,FALSE
+2027,Panicum,Panicum virgatum,32.4,-85.93,112,1993,4000000,1996,13.153,FALSE
+2028,Panicum,Panicum virgatum,32.4,-85.93,112,1993,4000000,1995,3.428,FALSE
+2029,Panicum,Panicum virgatum,32.4,-85.93,112,1993,4000000,1996,7.584,FALSE
+7482,Panicum,Panicum virgatum,32.4,-85.93,0,,4000000,,3.35,FALSE
+7483,Panicum,Panicum virgatum,32.4,-85.93,112,,4000000,,8.5,FALSE
+7484,Panicum,Panicum virgatum,32.4,-85.93,224,,4000000,,10.88,FALSE
+7485,Panicum,Panicum virgatum,32.4,-85.93,0,,16000000,,4.06,FALSE
+7486,Panicum,Panicum virgatum,32.4,-85.93,112,,16000000,,10.3,FALSE
+7488,Panicum,Panicum virgatum,32.4,-85.93,224,,16000000,,13.19,FALSE
+2072,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,2.38,FALSE
+2073,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,5.48,FALSE
+2074,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,8.04,FALSE
+2079,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,11.9,FALSE
+2075,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,12.41,FALSE
+2078,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,13.35,FALSE
+2076,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,13.6,FALSE
+2077,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,13.79,FALSE
+2080,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,2.38,FALSE
+2081,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,5.48,FALSE
+2082,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,8.04,FALSE
+2087,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,11.9,FALSE
+2083,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,12.41,FALSE
+2086,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,13.35,FALSE
+2084,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,13.6,FALSE
+2085,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,13.79,FALSE
+2088,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,3.02,FALSE
+2089,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,5.48,FALSE
+2090,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,7.95,FALSE
+2095,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,9.9,FALSE
+2094,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,11.8,FALSE
+2093,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,11.88,FALSE
+2091,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,12.04,FALSE
+2092,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1996,12.51,FALSE
+2048,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,2.36,FALSE
+2049,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,5.91,FALSE
+2050,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,10.64,FALSE
+2051,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,10.91,FALSE
+2052,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,11.64,FALSE
+2053,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,12.18,FALSE
+2054,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,12.36,FALSE
+2055,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,12.64,FALSE
+2056,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,2.18,FALSE
+2057,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,5,FALSE
+2058,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,9.82,FALSE
+2059,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,10.18,FALSE
+2060,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,10.91,FALSE
+2063,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,11.64,FALSE
+2061,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,12.09,FALSE
+2062,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,12.55,FALSE
+2064,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,2.27,FALSE
+2065,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,5.36,FALSE
+2066,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,9.55,FALSE
+2067,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,9.91,FALSE
+2068,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,10.09,FALSE
+2069,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,11,FALSE
+2071,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,11.36,FALSE
+2070,Panicum,Panicum virgatum,45.28,-73.45,50,1993,"""""",1995,11.73,FALSE
+2030,Panicum,Panicum virgatum,45.28,-73.45,0,1993,"""""",1995,4.97,FALSE
+2031,Panicum,Panicum virgatum,45.28,-73.45,75,1993,"""""",1995,7.4,FALSE
+2032,Panicum,Panicum virgatum,45.28,-73.45,150,1993,"""""",1995,8.96,FALSE
+2033,Panicum,Panicum virgatum,45.28,-73.45,0,1993,"""""",1995,6.65,FALSE
+2034,Panicum,Panicum virgatum,45.28,-73.45,75,1993,"""""",1995,9.34,FALSE
+2035,Panicum,Panicum virgatum,45.28,-73.45,150,1993,"""""",1995,12.02,FALSE
+2036,Panicum,Panicum virgatum,45.28,-73.45,0,1993,"""""",1995,9.99,FALSE
+2037,Panicum,Panicum virgatum,45.28,-73.45,75,1993,"""""",1995,11.16,FALSE
+2038,Panicum,Panicum virgatum,45.28,-73.45,150,1993,"""""",1995,13.39,FALSE
+2039,Panicum,Panicum virgatum,45.28,-73.45,0,1993,"""""",1996,4.87,FALSE
+2040,Panicum,Panicum virgatum,45.28,-73.45,75,1993,"""""",1996,6.83,FALSE
+2041,Panicum,Panicum virgatum,45.28,-73.45,150,1993,"""""",1996,8.74,FALSE
+2042,Panicum,Panicum virgatum,45.28,-73.45,0,1993,"""""",1996,6.01,FALSE
+2043,Panicum,Panicum virgatum,45.28,-73.45,75,1993,"""""",1996,7.8,FALSE
+2044,Panicum,Panicum virgatum,45.28,-73.45,150,1993,"""""",1996,10.01,FALSE
+2045,Panicum,Panicum virgatum,45.28,-73.45,0,1993,"""""",1996,8.3,FALSE
+2046,Panicum,Panicum virgatum,45.28,-73.45,75,1993,"""""",1996,9.66,FALSE
+2047,Panicum,Panicum virgatum,45.28,-73.45,150,1993,"""""",1996,11.25,FALSE
+2096,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,9.2,FALSE
+2097,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,8.8,FALSE
+2098,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,7.85,FALSE
+2099,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,9.12,FALSE
+2100,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,7.38,FALSE
+2101,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,7.7,FALSE
+2102,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,8.03,FALSE
+2103,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,9.07,FALSE
+2104,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,7.06,FALSE
+2105,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,6.98,FALSE
+2106,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,6.12,FALSE
+2107,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,7.08,FALSE
+2108,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2001,7.68,FALSE
+2109,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,11.05,FALSE
+2110,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,9.97,FALSE
+2111,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,10.89,FALSE
+2112,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,9.59,FALSE
+2113,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,10.47,FALSE
+2114,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,11.1,FALSE
+2115,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,9.47,FALSE
+2116,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,10.43,FALSE
+2117,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,9.03,FALSE
+2118,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,7.71,FALSE
+2119,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,8.71,FALSE
+2120,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,10,FALSE
+2121,Panicum,Panicum virgatum,33.86,-83.41,109.9,2000,,2002,8.24,FALSE
+2122,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,14.95,FALSE
+2123,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,14.11,FALSE
+2124,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.72,FALSE
+2125,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,15.2,FALSE
+2126,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.04,FALSE
+2127,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,14.87,FALSE
+2128,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,16.99,FALSE
+2129,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,16.44,FALSE
+2130,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.36,FALSE
+2131,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,10.43,FALSE
+2132,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,13.39,FALSE
+2133,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.23,FALSE
+2134,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,5.74,FALSE
+2135,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,18.21,FALSE
+2136,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.26,FALSE
+2137,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.71,FALSE
+2138,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,17.9,FALSE
+2139,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.6,FALSE
+2140,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,16.23,FALSE
+2141,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.09,FALSE
+2142,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,16.34,FALSE
+2143,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.32,FALSE
+2144,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.37,FALSE
+2145,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.58,FALSE
+2146,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,16.36,FALSE
+2147,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,10.82,FALSE
+2148,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,9.07,FALSE
+2149,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,11.91,FALSE
+2150,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,15.67,FALSE
+2151,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.78,FALSE
+2152,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.32,FALSE
+2153,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,16.08,FALSE
+2154,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,8.38,FALSE
+2155,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,8.05,FALSE
+2156,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,6.3,FALSE
+2157,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,7.67,FALSE
+2158,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,9.05,FALSE
+2159,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,8.96,FALSE
+2160,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,11.49,FALSE
+2161,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.05,FALSE
+2162,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,18.16,FALSE
+2163,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,20.39,FALSE
+2164,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,17.8,FALSE
+2165,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.75,FALSE
+2166,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,19.26,FALSE
+2167,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.08,FALSE
+2168,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.08,FALSE
+2169,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,11.19,FALSE
+2170,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.55,FALSE
+2171,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.39,FALSE
+2172,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.68,FALSE
+17650,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,16.76,FALSE
+2173,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.69,FALSE
+2174,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,5.3,FALSE
+2175,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.67,FALSE
+2176,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.67,FALSE
+2177,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.63,FALSE
+2178,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,5.15,FALSE
+2179,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.01,FALSE
+2180,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.89,FALSE
+2181,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.4,FALSE
+2182,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.46,FALSE
+2183,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.94,FALSE
+2184,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3.47,FALSE
+2185,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3.6,FALSE
+2186,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3.88,FALSE
+2187,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.39,FALSE
+2188,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,4.08,FALSE
+2189,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,2.66,FALSE
+2190,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3.02,FALSE
+2191,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,2.05,FALSE
+2192,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3,FALSE
+2193,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3.27,FALSE
+2194,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2000,3.14,FALSE
+2195,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,10.29,FALSE
+2196,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,13.13,FALSE
+2197,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.3,FALSE
+2198,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,13.02,FALSE
+2199,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,11.76,FALSE
+2200,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.43,FALSE
+2201,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,10.43,FALSE
+2202,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,11.93,FALSE
+2203,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.06,FALSE
+2204,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,10.44,FALSE
+2205,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,13.28,FALSE
+2206,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,12.35,FALSE
+2207,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,11.8,FALSE
+2208,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,10.9,FALSE
+2209,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,11.08,FALSE
+2210,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,14.91,FALSE
+2211,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,9.07,FALSE
+2212,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,13.39,FALSE
+2213,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,9.28,FALSE
+2214,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,9.78,FALSE
+2215,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,9.91,FALSE
+2216,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2001,8.85,FALSE
+2217,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,12.99,FALSE
+2218,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,11.95,FALSE
+2219,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,12.87,FALSE
+2220,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.03,FALSE
+2221,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,12.58,FALSE
+2222,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.18,FALSE
+2223,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,12.43,FALSE
+2224,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.28,FALSE
+2225,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,12.7,FALSE
+2226,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,10.97,FALSE
+2227,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.71,FALSE
+2228,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.65,FALSE
+2229,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,16.42,FALSE
+2230,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.47,FALSE
+2231,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,16.82,FALSE
+2232,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,14.59,FALSE
+2233,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.24,FALSE
+2234,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.62,FALSE
+2235,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.31,FALSE
+2236,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,13.38,FALSE
+2237,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,8000,2002,15.06,FALSE
+2238,Panicum,Panicum virgatum,33.95,-83.53,109.9,1998,,2002,13.46,FALSE
+2240,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2003,9.18,FALSE
+2241,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2003,13.27,FALSE
+2242,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2003,11.86,FALSE
+2243,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2003,14.03,FALSE
+2244,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2004,9.95,FALSE
+2245,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2004,17.35,FALSE
+2246,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2004,16.45,FALSE
+2247,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2004,21.05,FALSE
+2248,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2005,12.23,FALSE
+2249,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2005,15.54,FALSE
+2250,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2005,10.7,FALSE
+2251,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2005,11.08,FALSE
+2252,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2006,15.54,FALSE
+2253,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2006,13.38,FALSE
+2254,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2006,9.17,FALSE
+2255,Panicum,Panicum virgatum,44.42,11.47,100,2002,800,2006,9.43,FALSE
+2256,Panicum,Panicum virgatum,28.45,-97.7,0,1992,3240000,1993,4.49,FALSE
+2257,Panicum,Panicum virgatum,28.45,-97.7,56,1992,3240000,1993,4.9,FALSE
+2259,Panicum,Panicum virgatum,28.45,-97.7,168,1992,3240000,1993,6.34,FALSE
+2258,Panicum,Panicum virgatum,28.45,-97.7,112,1992,3240000,1993,6.46,FALSE
+2260,Panicum,Panicum virgatum,28.45,-97.7,224,1992,3240000,1993,7.18,FALSE
+2261,Panicum,Panicum virgatum,28.45,-97.7,0,1992,3240000,1994,8.31,FALSE
+2262,Panicum,Panicum virgatum,28.45,-97.7,56,1992,3240000,1994,9.98,FALSE
+2263,Panicum,Panicum virgatum,28.45,-97.7,168,1992,3240000,1994,11.98,FALSE
+2264,Panicum,Panicum virgatum,28.45,-97.7,112,1992,3240000,1994,12.34,FALSE
+2265,Panicum,Panicum virgatum,28.45,-97.7,224,1992,3240000,1994,13.38,FALSE
+2266,Panicum,Panicum virgatum,28.45,-97.7,0,1992,3240000,1995,4.63,FALSE
+2267,Panicum,Panicum virgatum,28.45,-97.7,56,1992,3240000,1995,5.28,FALSE
+2268,Panicum,Panicum virgatum,28.45,-97.7,168,1992,3240000,1995,7.38,FALSE
+2269,Panicum,Panicum virgatum,28.45,-97.7,112,1992,3240000,1995,7.6,FALSE
+2270,Panicum,Panicum virgatum,28.45,-97.7,224,1992,3240000,1995,8.25,FALSE
+2271,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1992,5.91,FALSE
+2272,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1992,8.98,FALSE
+2273,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1992,9.76,FALSE
+2274,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1992,10.16,FALSE
+2275,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1992,11.32,FALSE
+2276,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1993,3.72,FALSE
+2277,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1993,10.12,FALSE
+2278,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1993,13.76,FALSE
+2279,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1993,16.64,FALSE
+2280,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1993,18.85,FALSE
+2281,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1994,4.38,FALSE
+2282,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1994,10.5,FALSE
+2283,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1994,12.81,FALSE
+2284,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1994,12.73,FALSE
+2285,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1994,12.37,FALSE
+2286,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1995,4,FALSE
+2287,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1995,14.98,FALSE
+2288,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1995,19.76,FALSE
+2289,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1995,21.49,FALSE
+2290,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1995,20.56,FALSE
+2291,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1996,2.38,FALSE
+2292,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1996,8.98,FALSE
+2293,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1996,13.19,FALSE
+2294,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1996,16.92,FALSE
+2295,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1996,17.8,FALSE
+2296,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1997,3.24,FALSE
+2297,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1997,8.69,FALSE
+2298,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1997,14.24,FALSE
+2299,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1997,17.3,FALSE
+2300,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1997,19.32,FALSE
+2301,Panicum,Panicum virgatum,32.22,-98.2,0,1992,3240000,1998,1.34,FALSE
+2302,Panicum,Panicum virgatum,32.22,-98.2,56,1992,3240000,1998,5.17,FALSE
+2303,Panicum,Panicum virgatum,32.22,-98.2,168,1992,3240000,1998,7.47,FALSE
+2304,Panicum,Panicum virgatum,32.22,-98.2,112,1992,3240000,1998,11.11,FALSE
+2305,Panicum,Panicum virgatum,32.22,-98.2,224,1992,3240000,1998,12.66,FALSE
+2310,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.3056,FALSE
+2311,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.5074,FALSE
+2312,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.5315,FALSE
+2313,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,1.3652,FALSE
+2314,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.9874,FALSE
+2315,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.4173,FALSE
+2316,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.0351,FALSE
+2317,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.0544,FALSE
+2318,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.3885,FALSE
+2319,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.9954,FALSE
+2320,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,1.3115,FALSE
+2321,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,0.8707,FALSE
+2322,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,1999,2.8424,FALSE
+2323,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,7.59,FALSE
+2324,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,7.6,FALSE
+2325,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,7.11,FALSE
+2326,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,4.71,FALSE
+2327,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,8.33,FALSE
+2328,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,8.5,FALSE
+2329,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,8.5,FALSE
+2330,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,14.62,FALSE
+2331,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,9.96,FALSE
+2332,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,10.35,FALSE
+2333,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,6.28,FALSE
+2334,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,3.45,FALSE
+2335,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,5.78,FALSE
+2336,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,1.71,FALSE
+2337,Panicum,Panicum virgatum,40.15,16.63,75,1998,2250000,2000,2.59,FALSE
+2338,Panicum,Panicum virgatum,40.15,16.63,0,1998,,1999,4.3,FALSE
+2339,Panicum,Panicum virgatum,40.15,16.63,75,1998,,1999,4.87,FALSE
+2340,Panicum,Panicum virgatum,40.15,16.63,150,1998,,1999,5.33,FALSE
+2341,Panicum,Panicum virgatum,40.15,16.63,0,1998,,1999,3.1,FALSE
+2342,Panicum,Panicum virgatum,40.15,16.63,75,1998,,1999,2.62,FALSE
+2343,Panicum,Panicum virgatum,40.15,16.63,150,1998,,1999,2.11,FALSE
+2344,Panicum,Panicum virgatum,40.15,16.63,0,1998,,1999,1.33,FALSE
+2345,Panicum,Panicum virgatum,40.15,16.63,75,1998,,1999,2.48,FALSE
+2346,Panicum,Panicum virgatum,40.15,16.63,150,1998,,1999,2.28,FALSE
+2347,Panicum,Panicum virgatum,40.15,16.63,0,1998,,1999,0.64,FALSE
+2348,Panicum,Panicum virgatum,40.15,16.63,0,1998,,1999,0.83,FALSE
+2349,Panicum,Panicum virgatum,40.15,16.63,75,1998,,1999,1.31,FALSE
+2350,Panicum,Panicum virgatum,40.15,16.63,150,1998,,1999,2.33,FALSE
+2351,Panicum,Panicum virgatum,40.15,16.63,0,1998,,2000,14.79,FALSE
+2352,Panicum,Panicum virgatum,40.15,16.63,75,1998,,2000,16.11,FALSE
+2353,Panicum,Panicum virgatum,40.15,16.63,150,1998,,2000,15.48,FALSE
+2354,Panicum,Panicum virgatum,40.15,16.63,0,1998,,2000,8.09,FALSE
+2355,Panicum,Panicum virgatum,40.15,16.63,75,1998,,2000,8.23,FALSE
+2356,Panicum,Panicum virgatum,40.15,16.63,150,1998,,2000,6.93,FALSE
+2357,Panicum,Panicum virgatum,40.15,16.63,0,1998,,2000,4.78,FALSE
+2358,Panicum,Panicum virgatum,40.15,16.63,75,1998,,2000,7.38,FALSE
+2359,Panicum,Panicum virgatum,40.15,16.63,150,1998,,2000,6.24,FALSE
+2360,Panicum,Panicum virgatum,40.15,16.63,0,1998,,2000,4.86,FALSE
+2361,Panicum,Panicum virgatum,40.15,16.63,75,1998,,2000,4.82,FALSE
+2362,Panicum,Panicum virgatum,40.15,16.63,150,1998,,2000,4.09,FALSE
+2363,Panicum,Panicum virgatum,40.15,16.63,0,1998,,2000,8.3,FALSE
+2364,Panicum,Panicum virgatum,40.15,16.63,75,1998,,2000,8.25,FALSE
+2365,Panicum,Panicum virgatum,40.15,16.63,150,1998,,2000,7.04,FALSE
+2415,Panicum,Panicum virgatum,35.96,-83.92,62,1991,"""""",1993,9,FALSE
+2416,Panicum,Panicum virgatum,35.96,-83.92,62,1991,"""""",1993,6.6,FALSE
+2417,Panicum,Panicum virgatum,35.96,-83.92,62,1991,"""""",1993,15.6,FALSE
+2418,Panicum,Panicum virgatum,35.96,-83.92,62,1991,"""""",1993,11.4,FALSE
+2419,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1994,13.6,FALSE
+2420,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1994,8.7,FALSE
+2421,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1994,22.3,FALSE
+2422,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1994,18,FALSE
+2423,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1995,14.4,FALSE
+2424,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1995,2.4,FALSE
+2425,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1995,16.8,FALSE
+2426,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1995,20.2,FALSE
+2427,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1996,15.4,FALSE
+2428,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1996,7.8,FALSE
+2429,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1996,23.2,FALSE
+2430,Panicum,Panicum virgatum,35.96,-83.92,100,1991,"""""",1996,20,FALSE
+2431,Panicum,Panicum virgatum,35.96,-83.92,50,1991,"""""",1997,10.6,FALSE
+2432,Panicum,Panicum virgatum,35.96,-83.92,50,1991,"""""",1997,4.8,FALSE
+2433,Panicum,Panicum virgatum,35.96,-83.92,50,1991,"""""",1997,15.4,FALSE
+2434,Panicum,Panicum virgatum,35.96,-83.92,0,1991,"""""",1997,17.6,FALSE
+2435,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,12.704,TRUE
+2436,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,3.416,TRUE
+2437,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,2.636,TRUE
+2438,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,7.967,TRUE
+2439,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,7.597,TRUE
+2440,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,7.175,TRUE
+2441,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,9.141,TRUE
+2442,Panicum,Panicum virgatum,28.27,-97.42,67,1992,"""""",1993,11.54,TRUE
+2443,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,17.492,TRUE
+2444,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,6.029,TRUE
+2445,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,6.222,TRUE
+2446,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,10.418,TRUE
+2447,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,10.814,TRUE
+2448,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,11.054,TRUE
+2449,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,12.791,TRUE
+2450,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1994,15.548,TRUE
+2451,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,1.724,TRUE
+2452,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,2.228,TRUE
+2453,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,3.582,TRUE
+2454,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,4.841,TRUE
+2455,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,4.84,TRUE
+2456,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,5.884,TRUE
+2457,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,5.983,TRUE
+2458,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,3.054,TRUE
+2459,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,0.538,TRUE
+2460,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,0.48,TRUE
+2461,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,1.032,TRUE
+2462,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,0.651,TRUE
+2463,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,0.841,TRUE
+2464,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,1.823,TRUE
+2465,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,4.03,TRUE
+2466,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,5.451,TRUE
+2467,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,1.132,TRUE
+2468,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,1.353,TRUE
+2469,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,2.308,TRUE
+2470,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,2.746,TRUE
+2471,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,2.84,TRUE
+2472,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,3.853,TRUE
+2473,Panicum,Panicum virgatum,28.27,-97.42,134,1992,"""""",1995,5.007,TRUE
+2474,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,16.112,TRUE
+2475,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,19.711,TRUE
+2476,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1995,14.934,TRUE
+2477,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,10.68,TRUE
+2478,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,9.309,TRUE
+2479,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,9.99,TRUE
+2480,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,8.898,TRUE
+2481,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,10.481,TRUE
+2482,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,3.952,TRUE
+2483,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,4.045,TRUE
+2484,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,10.238,TRUE
+2485,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,8.815,TRUE
+2486,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,2.001,TRUE
+2487,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,4.589,TRUE
+2488,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,3.295,TRUE
+2489,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,4.029,TRUE
+2490,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,4.21,TRUE
+2491,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,8.747,TRUE
+2492,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,8.642,TRUE
+2493,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,1.917,TRUE
+2494,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,3.139,TRUE
+2495,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,2.528,TRUE
+2496,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,5.248,TRUE
+2497,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,5.912,TRUE
+2498,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,12.392,TRUE
+2499,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,12.605,TRUE
+2500,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1995,9.899,TRUE
+2501,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,4.141,TRUE
+2502,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,3.594,TRUE
+2503,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,3.868,TRUE
+2504,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,6.835,TRUE
+2505,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,6.792,TRUE
+2506,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,3.957,TRUE
+2507,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,3.296,TRUE
+2508,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,10.356,TRUE
+2509,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,13.882,TRUE
+2510,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1995,11.911,TRUE
+2511,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,8.787,TRUE
+2512,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,5.739,TRUE
+2513,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,7.262,TRUE
+2514,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,11.021,TRUE
+2515,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,13.78,TRUE
+2516,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1995,12.888,TRUE
+2517,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,6.906,TRUE
+2518,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,5.462,TRUE
+2519,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,6.184,TRUE
+2520,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,10.768,TRUE
+2521,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,13.073,TRUE
+2522,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1995,11.876,TRUE
+2523,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,7.234,TRUE
+2524,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,5.415,TRUE
+2525,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,6.324,TRUE
+2526,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,6.264,TRUE
+2527,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,5.974,TRUE
+2528,Panicum,Panicum virgatum,30.6,-96.35,67,1992,"""""",1993,13.474,TRUE
+2529,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1994,17.421,TRUE
+2530,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1995,14.922,TRUE
+2531,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,10.672,TRUE
+2532,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,7.953,TRUE
+2533,Panicum,Panicum virgatum,30.6,-96.35,134,1992,"""""",1996,9.312,TRUE
+2534,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1994,3.069,TRUE
+2535,Panicum,Panicum virgatum,30.6,-96.35,78,1993,"""""",1995,2.827,TRUE
+2536,Panicum,Panicum virgatum,32.22,-98.2,67,1992,"""""",1993,8.725,TRUE
+2537,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1994,19.5,TRUE
+2538,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1995,19.39,TRUE
+2539,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1996,13.47,TRUE
+2540,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1994,13.21,TRUE
+2541,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1995,19.82,TRUE
+2542,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1995,13.79,TRUE
+2543,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1995,16.81,TRUE
+2544,Panicum,Panicum virgatum,32.22,-98.2,134,1992,"""""",1996,15.18,TRUE
+2545,Panicum,Panicum virgatum,32.22,-98.2,78,1993,"""""",1994,14.45,TRUE
+2546,Panicum,Panicum virgatum,32.22,-98.2,78,1993,"""""",1995,17.59,TRUE
+2547,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,4.37,TRUE
+2548,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,3.82,TRUE
+2549,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,6.47,TRUE
+2550,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,10.8,TRUE
+2551,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,4.71,TRUE
+2552,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,4.29,TRUE
+2553,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,5.08,TRUE
+2554,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,11.18,TRUE
+2555,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,4.39,TRUE
+2556,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,3.76,TRUE
+2557,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,4.58,TRUE
+2558,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1993,7.9,TRUE
+2559,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,6.37,TRUE
+2560,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,7.64,TRUE
+2561,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,11.58,TRUE
+2562,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,18.08,TRUE
+2563,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,7.38,TRUE
+2564,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,7.33,TRUE
+2565,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,10.71,TRUE
+2566,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,15.92,TRUE
+2567,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,8.91,TRUE
+2568,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,9.08,TRUE
+2569,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,10.5,TRUE
+2570,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1994,13.73,TRUE
+2571,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,6.12,TRUE
+2572,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,6.42,TRUE
+2573,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,11.22,TRUE
+2574,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,19.96,TRUE
+2575,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,5.65,TRUE
+2576,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,6.72,TRUE
+2577,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,10.45,TRUE
+2578,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,20.75,TRUE
+2579,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,6.85,TRUE
+2580,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,6.24,TRUE
+2581,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,11,TRUE
+2582,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1995,13.09,TRUE
+2583,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,4.99,TRUE
+2584,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,6.28,TRUE
+2585,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,8.09,TRUE
+2586,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,14.15,TRUE
+2587,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,5.36,TRUE
+2588,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,6.18,TRUE
+2589,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,7.98,TRUE
+2590,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,16.01,TRUE
+2591,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,4.84,TRUE
+2592,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,6.4,TRUE
+2593,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,6.58,TRUE
+2594,,Panicum virgatum,32.22,-98.2,67,1993,3240000,1996,15.91,TRUE
+2595,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,5.92,TRUE
+2596,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,7.96,TRUE
+2597,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,3.53,TRUE
+2598,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,6.95,TRUE
+2599,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,3.35,TRUE
+2600,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,3.38,TRUE
+2601,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,8.37,TRUE
+2602,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,6.01,TRUE
+2603,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,10.95,TRUE
+2604,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,8.48,TRUE
+2605,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,7.19,TRUE
+2606,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,8.24,TRUE
+2607,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,7.85,TRUE
+2608,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,1.47,TRUE
+2609,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,3.91,TRUE
+2610,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,2.95,TRUE
+2611,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,1.96,TRUE
+2612,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,7.42,TRUE
+2613,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,4.95,TRUE
+2614,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,10.15,TRUE
+2615,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,7.55,TRUE
+2616,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,6.2,TRUE
+2617,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,5.07,TRUE
+2618,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,5.34,TRUE
+2619,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,4.53,TRUE
+2620,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,14.8,TRUE
+2621,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,15.27,TRUE
+2622,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,9.4,TRUE
+2623,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,12.94,TRUE
+2624,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,19.83,TRUE
+2625,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,14.32,TRUE
+2626,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,17.08,TRUE
+2627,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,13.66,TRUE
+2628,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,10.39,TRUE
+2629,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,13.32,TRUE
+2630,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,7.53,TRUE
+2631,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,7.26,TRUE
+2632,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,6.99,TRUE
+2633,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,16.13,TRUE
+2634,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,14.51,TRUE
+2635,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,9.65,TRUE
+2636,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,11.12,TRUE
+2637,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,18.05,TRUE
+2638,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,12.83,TRUE
+2639,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,15.44,TRUE
+2640,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,15.21,TRUE
+2641,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,5.53,TRUE
+2642,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,18.67,TRUE
+2643,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,15.43,TRUE
+2644,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,11.21,TRUE
+2645,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,10.05,TRUE
+2646,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,14.75,TRUE
+2647,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,13.38,TRUE
+2648,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,14.07,TRUE
+2649,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,15.31,TRUE
+2650,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,7.46,TRUE
+2651,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,18.88,TRUE
+2652,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,17.49,TRUE
+2653,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,10.77,TRUE
+2654,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,12.65,TRUE
+2655,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,18.59,TRUE
+2656,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,12.53,TRUE
+2657,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,15.56,TRUE
+2658,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,13,TRUE
+2659,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,10.42,TRUE
+2660,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,13.77,TRUE
+2661,Panicum,Panicum virgatum,32.22,-98.2,67,1992,,1993,5.91,TRUE
+2662,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,17.15,TRUE
+2663,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,16.45,TRUE
+2664,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,11.83,TRUE
+2665,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1994,12.3,TRUE
+2666,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,17.65,TRUE
+2667,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,11.99,TRUE
+2668,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1995,14.82,TRUE
+2669,Panicum,Panicum virgatum,32.22,-98.2,134,1992,,1996,13.07,TRUE
+2670,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,3,TRUE
+2671,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,2.82,TRUE
+2672,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1994,1.75,TRUE
+2673,Panicum,Panicum virgatum,32.22,-98.2,78,1993,,1995,2.08,TRUE
+2674,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,5.17,TRUE
+2675,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,6.6,TRUE
+2676,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,5.89,TRUE
+2677,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,16.82,TRUE
+2678,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,12.22,TRUE
+2679,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,14.52,TRUE
+2680,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,7.86,TRUE
+2681,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.57,TRUE
+2682,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,4.85,TRUE
+2683,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,3.77,TRUE
+2684,,Panicum virgatum,,,,,3240000,1993,6.02,TRUE
+2685,,Panicum virgatum,,,,,3240000,1993,5.58,TRUE
+2686,,Panicum virgatum,,,,,3240000,1993,6.17,TRUE
+2687,,Panicum virgatum,,,,,3240000,1993,5.28,TRUE
+2688,,Panicum virgatum,,,,,3240000,1993,6.06,TRUE
+2689,,Panicum virgatum,,,,,3240000,1993,5.8,TRUE
+2690,,Panicum virgatum,,,,,3240000,1993,6.18,TRUE
+2691,,Panicum virgatum,,,,,3240000,1993,5.11,TRUE
+2692,,Panicum virgatum,,,,,3240000,1993,6.14,TRUE
+2693,,Panicum virgatum,,,,,3240000,1993,5.17,TRUE
+2694,,Panicum virgatum,,,,,3240000,1993,5.13,TRUE
+2695,,Panicum virgatum,,,,,3240000,1993,3.89,TRUE
+2696,,Panicum virgatum,,,,,3240000,1994,6.16,TRUE
+2697,,Panicum virgatum,,,,,3240000,1994,7.11,TRUE
+2698,,Panicum virgatum,,,,,3240000,1994,10.44,TRUE
+2699,,Panicum virgatum,,,,,3240000,1994,15.69,TRUE
+2700,,Panicum virgatum,,,,,3240000,1994,6.75,TRUE
+2701,,Panicum virgatum,,,,,3240000,1994,7.9,TRUE
+2702,,Panicum virgatum,,,,,3240000,1994,9.47,TRUE
+2703,,Panicum virgatum,,,,,3240000,1994,12.73,TRUE
+2704,,Panicum virgatum,,,,,3240000,1994,6.42,TRUE
+2705,,Panicum virgatum,,,,,3240000,1994,6.59,TRUE
+2706,,Panicum virgatum,,,,,3240000,1994,8.55,TRUE
+2707,,Panicum virgatum,,,,,3240000,1994,13.93,TRUE
+2708,,Panicum virgatum,,,,,3240000,1995,5.53,TRUE
+2709,,Panicum virgatum,,,,,3240000,1995,4.23,TRUE
+2710,,Panicum virgatum,,,,,3240000,1995,5.99,TRUE
+2711,,Panicum virgatum,,,,,3240000,1995,8,TRUE
+2712,,Panicum virgatum,,,,,3240000,1995,5.88,TRUE
+2713,,Panicum virgatum,,,,,3240000,1995,5.89,TRUE
+2714,,Panicum virgatum,,,,,3240000,1995,7.6,TRUE
+2715,,Panicum virgatum,,,,,3240000,1995,6.76,TRUE
+2716,,Panicum virgatum,,,,,3240000,1995,6.4,TRUE
+2717,,Panicum virgatum,,,,,3240000,1995,6.2,TRUE
+2718,,Panicum virgatum,,,,,3240000,1995,7.51,TRUE
+2719,,Panicum virgatum,,,,,3240000,1995,7.33,TRUE
+2720,,Panicum virgatum,,,,,3240000,1993,3.58,TRUE
+2721,,Panicum virgatum,,,,,3240000,1993,3.7,TRUE
+2722,,Panicum virgatum,,,,,3240000,1993,3.7,TRUE
+2723,,Panicum virgatum,,,,,3240000,1993,2.06,TRUE
+2724,,Panicum virgatum,,,,,3240000,1993,3.72,TRUE
+2725,,Panicum virgatum,,,,,3240000,1993,4.14,TRUE
+2726,,Panicum virgatum,,,,,3240000,1993,4.36,TRUE
+2727,,Panicum virgatum,,,,,3240000,1993,1.9,TRUE
+2728,,Panicum virgatum,,,,,3240000,1993,3.53,TRUE
+2729,,Panicum virgatum,,,,,3240000,1993,4.17,TRUE
+2730,,Panicum virgatum,,,,,3240000,1993,4.65,TRUE
+2731,,Panicum virgatum,,,,,3240000,1993,2.83,TRUE
+2732,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,7.35,TRUE
+2733,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,5.69,TRUE
+2734,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,6.52,TRUE
+2735,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,9.19,TRUE
+2736,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,9.64,TRUE
+2737,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,9.42,TRUE
+2738,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,7.74,TRUE
+2739,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,1.34,TRUE
+2740,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.99,TRUE
+2741,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.16,TRUE
+2742,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,0.52,TRUE
+2743,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,4.87,TRUE
+2744,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,2.69,TRUE
+2745,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,8.46,TRUE
+2746,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,7.23,TRUE
+2747,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,7.84,TRUE
+2748,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,7.94,TRUE
+2749,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,0.56,TRUE
+2750,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.29,TRUE
+2751,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,1.43,TRUE
+2752,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,3.43,TRUE
+2753,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,6.83,TRUE
+2754,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,5.13,TRUE
+2755,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,15.02,TRUE
+2756,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,10.13,TRUE
+2757,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,12.58,TRUE
+2758,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,7,TRUE
+2759,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,1.38,TRUE
+2760,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,3.24,TRUE
+2761,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.31,TRUE
+2762,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,3.25,TRUE
+2763,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,4.61,TRUE
+2764,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,3.93,TRUE
+2765,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,11.96,TRUE
+2766,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,11.06,TRUE
+2767,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,11.51,TRUE
+2768,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,10.79,TRUE
+2769,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,1.79,TRUE
+2770,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,3.61,TRUE
+2771,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.7,TRUE
+2772,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,4.09,TRUE
+2773,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,3.21,TRUE
+2774,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,3.65,TRUE
+2775,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,12.86,TRUE
+2776,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,7.88,TRUE
+2777,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,10.37,TRUE
+2778,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,8.69,TRUE
+2779,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,1.86,TRUE
+2780,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.9,TRUE
+2781,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.38,TRUE
+2782,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,2.86,TRUE
+2783,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,6.23,TRUE
+2784,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,4.55,TRUE
+2785,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,17.67,TRUE
+2786,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,10.01,TRUE
+2787,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,13.84,TRUE
+2788,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,6.64,TRUE
+2789,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.37,TRUE
+2790,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,4.58,TRUE
+2791,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,3.48,TRUE
+2792,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,2.77,TRUE
+2793,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,6.74,TRUE
+2794,Panicum,Panicum virgatum,32.97,-97.27,67,1992,,1993,4.75,TRUE
+2795,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,16.21,TRUE
+2796,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,11.16,TRUE
+2797,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1994,13.68,TRUE
+2798,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1995,7.18,TRUE
+2799,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,2.36,TRUE
+2800,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,3.9,TRUE
+2801,Panicum,Panicum virgatum,32.97,-97.27,134,1992,,1996,3.13,TRUE
+2802,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,11.39,TRUE
+2803,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,10.87,TRUE
+2804,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,11.1,TRUE
+2805,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,15.68,TRUE
+2806,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,17.61,TRUE
+2807,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,9.7,TRUE
+2808,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,13.65,TRUE
+2809,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,12.65,TRUE
+2810,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,4.04,TRUE
+2811,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,8.35,TRUE
+2812,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,5.72,TRUE
+2813,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,7.23,TRUE
+2814,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,6.48,TRUE
+2815,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,7.42,TRUE
+2816,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,7.47,TRUE
+2817,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,8.09,TRUE
+2818,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,7.78,TRUE
+2819,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,1.43,TRUE
+2820,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,2.28,TRUE
+2821,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,1.86,TRUE
+2822,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,3.5,TRUE
+2823,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,6.23,TRUE
+2824,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,4.86,TRUE
+2825,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,6.64,TRUE
+2826,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,4.6,TRUE
+2827,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,5.44,TRUE
+2828,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,5.02,TRUE
+2829,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,0.65,TRUE
+2830,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,1.29,TRUE
+2831,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,0.97,TRUE
+2832,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,13.43,TRUE
+2833,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,8.14,TRUE
+2834,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,10.79,TRUE
+2835,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,13.96,TRUE
+2836,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,12.56,TRUE
+2837,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,7.6,TRUE
+2838,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,10.08,TRUE
+2839,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,5.89,TRUE
+2840,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,2.77,TRUE
+2841,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,4.33,TRUE
+2842,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,15.34,TRUE
+2843,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,12.29,TRUE
+2844,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,13.81,TRUE
+2845,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,10.28,TRUE
+2846,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,13.14,TRUE
+2847,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,9.07,TRUE
+2848,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,11.11,TRUE
+2849,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,9.02,TRUE
+2850,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,3.19,TRUE
+2851,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,6.1,TRUE
+2852,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,8.05,TRUE
+2853,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,14.11,TRUE
+2854,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,11.08,TRUE
+2855,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,12.9,TRUE
+2856,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,16.4,TRUE
+2857,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,8.54,TRUE
+2858,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,12.47,TRUE
+2859,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,8.52,TRUE
+2860,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,3.5,TRUE
+2861,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,6.01,TRUE
+2862,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,10.85,TRUE
+2863,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,8.18,TRUE
+2864,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,9.51,TRUE
+2865,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,13.29,TRUE
+2866,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,16.46,TRUE
+2867,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,7.65,TRUE
+2868,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,12.05,TRUE
+2869,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,7.66,TRUE
+2870,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,3.26,TRUE
+2871,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,5.46,TRUE
+2872,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,5.72,TRUE
+2873,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,11.37,TRUE
+2874,Panicum,Panicum virgatum,31.05,-97.35,67,1992,,1993,8.54,TRUE
+2875,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1994,9.7,TRUE
+2876,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,13.7,TRUE
+2877,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,9.61,TRUE
+2878,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1995,11.65,TRUE
+2879,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,9.04,TRUE
+2880,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,4.79,TRUE
+2881,Panicum,Panicum virgatum,31.05,-97.35,134,1992,,1996,6.92,TRUE
+2882,Panicum,Panicum virgatum,28.27,-97.42,134,1991,"""""",1995,7.847,TRUE
+2927,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.31,FALSE
+2928,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.51,FALSE
+2929,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.53,FALSE
+2930,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,1.37,FALSE
+2931,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.99,FALSE
+2932,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.42,FALSE
+2933,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.04,FALSE
+2934,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.05,FALSE
+2935,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.39,FALSE
+2936,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,3,FALSE
+2937,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,1.31,FALSE
+2938,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,0.87,FALSE
+2939,Panicum,Panicum virgatum,40.15,16.63,40,1997,2250000,1998,2.84,FALSE
+2940,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,7.59,FALSE
+2941,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,7.6,FALSE
+2942,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,7.11,FALSE
+2943,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,4.71,FALSE
+2944,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,8.33,FALSE
+2945,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,8.5,FALSE
+2946,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,8.5,FALSE
+2947,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,14.62,FALSE
+2948,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,9.96,FALSE
+2949,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,10.35,FALSE
+2950,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,6.28,FALSE
+2951,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,3.45,FALSE
+2952,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,5.78,FALSE
+2953,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,1.71,FALSE
+2954,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,1999,2.59,FALSE
+2955,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,10.1,FALSE
+2956,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,9.42,FALSE
+2957,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,11.37,FALSE
+2958,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,15.3,FALSE
+2959,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,10.83,FALSE
+2960,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,11.91,FALSE
+2961,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,20.16,FALSE
+2962,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,26.08,FALSE
+2963,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,14.9,FALSE
+2964,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,15.76,FALSE
+2965,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,7.79,FALSE
+2966,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,8.2,FALSE
+2967,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,10.67,FALSE
+2968,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,5.63,FALSE
+2969,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2000,7.28,FALSE
+2970,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,8.12,FALSE
+2971,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,9.69,FALSE
+2972,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,7.55,FALSE
+2973,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,12.12,FALSE
+2974,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,11.89,FALSE
+2975,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,12.85,FALSE
+2976,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,13.4,FALSE
+2977,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,21.83,FALSE
+2978,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,17,FALSE
+2979,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,12.98,FALSE
+2980,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,7.84,FALSE
+2981,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,5.49,FALSE
+2982,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,6.11,FALSE
+2983,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,3.3,FALSE
+2984,Panicum,Panicum virgatum,40.15,16.63,75,1997,2250000,2001,3.89,FALSE
+2985,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,6.81,FALSE
+2986,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,8.67,FALSE
+2987,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,8.63,FALSE
+2988,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,9.34,FALSE
+2989,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,9.47,FALSE
+2990,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,8.95,FALSE
+2991,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,17.46,FALSE
+2992,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1989,13.81,FALSE
+2993,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,6.76,FALSE
+2994,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,10.41,FALSE
+2995,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,8.64,FALSE
+2996,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,10.23,FALSE
+2997,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,10.56,FALSE
+2998,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,9.51,FALSE
+2999,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,34.06,FALSE
+3000,Panicum,Panicum virgatum,32.42,-85.9,84,1988,3240000,1990,23.21,FALSE
+3001,Panicum,Panicum virgatum,-36.77,-64.27,100,1989,36000000,1990,3.874,FALSE
+3002,Panicum,Panicum virgatum,-36.77,-64.27,100,1989,36000000,1991,7.1,FALSE
+3003,Panicum,Panicum virgatum,-36.77,-64.27,100,1989,36000000,1991,5.442,FALSE
+3073,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1997,22.2,FALSE
+3074,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1997,17.4,FALSE
+3075,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1997,16.4,FALSE
+3076,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1997,16.9,FALSE
+3077,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1997,20.3,FALSE
+3078,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1997,33.4,FALSE
+3079,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1997,15.5,FALSE
+3080,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1997,33.7,FALSE
+3081,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1997,29.6,FALSE
+3082,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1997,24.4,FALSE
+3083,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1997,26.7,FALSE
+3084,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1997,24.9,FALSE
+3085,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1997,27.7,FALSE
+3086,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1997,30.9,FALSE
+3087,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1997,28.6,FALSE
+3088,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1997,24.1,FALSE
+3089,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1997,25.3,FALSE
+3090,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1997,36.7,FALSE
+3091,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1997,20.2,FALSE
+3092,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1997,24.7,FALSE
+3093,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1997,19.9,FALSE
+3094,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1997,31.8,FALSE
+3095,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1997,29.1,FALSE
+3096,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1998,16.6,FALSE
+3097,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1998,14.1,FALSE
+3098,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1998,15.8,FALSE
+3099,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1998,17.2,FALSE
+3100,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1998,10,FALSE
+3101,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1998,16.6,FALSE
+3102,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1998,11.2,FALSE
+3103,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1998,22.6,FALSE
+3104,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1998,14.7,FALSE
+3105,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1998,16.2,FALSE
+3106,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1998,21.5,FALSE
+3107,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1998,16.8,FALSE
+3108,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1998,20.5,FALSE
+3109,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1998,24.5,FALSE
+3110,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1998,14.7,FALSE
+3111,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1998,17.5,FALSE
+3112,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1998,20,FALSE
+3113,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1998,15.8,FALSE
+3114,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1998,15.6,FALSE
+3115,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1998,14.1,FALSE
+3116,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1998,14.6,FALSE
+3117,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1998,17.5,FALSE
+3118,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1998,13.5,FALSE
+3119,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1999,10.9,FALSE
+3120,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1999,15,FALSE
+3121,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1999,16.2,FALSE
+3122,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1999,19.1,FALSE
+3123,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1999,11.4,FALSE
+3124,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1999,17.9,FALSE
+3125,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1999,13.2,FALSE
+3126,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1999,17,FALSE
+3127,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1999,16.2,FALSE
+3128,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1999,17.3,FALSE
+3129,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",1999,20,FALSE
+3130,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1999,18.5,FALSE
+3131,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1999,16.7,FALSE
+3132,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1999,19.1,FALSE
+3133,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1999,15.4,FALSE
+3134,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1999,14.5,FALSE
+3135,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1999,14.6,FALSE
+3136,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1999,17.5,FALSE
+3137,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1999,20.8,FALSE
+3138,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",1999,15.5,FALSE
+3139,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",1999,15.2,FALSE
+3140,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",1999,18,FALSE
+3141,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",1999,26.3,FALSE
+3142,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",2000,14,FALSE
+3143,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",2000,11,FALSE
+3144,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",2000,12.5,FALSE
+3145,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",2000,11.7,FALSE
+3146,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",2000,10.2,FALSE
+3147,Panicum,Panicum virgatum,35.04,-97.95,0,1996,"""""",2000,15.4,FALSE
+3148,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",2000,15.7,FALSE
+3149,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",2000,14.1,FALSE
+3150,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",2000,15.4,FALSE
+3151,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",2000,9.2,FALSE
+3152,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",2000,10.3,FALSE
+3153,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",2000,12.5,FALSE
+3154,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",2000,10.7,FALSE
+3155,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",2000,10.6,FALSE
+3156,Panicum,Panicum virgatum,35.04,-97.95,112,1996,"""""",2000,13.9,FALSE
+3157,Panicum,Panicum virgatum,35.04,-97.95,224,1996,"""""",2000,12,FALSE
+3158,Panicum,Panicum virgatum,35.04,-97.95,448,1996,"""""",2000,14.4,FALSE
+3159,Panicum,Panicum virgatum,35.04,-97.95,896,1996,"""""",2000,11.2,FALSE
+3004,Panicum,Panicum virgatum,35.98,-97.03,0,1998,"""""",1998,10.6,FALSE
+3005,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1998,8.4,FALSE
+3006,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1998,10.2,FALSE
+3007,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1998,11.9,FALSE
+3008,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1998,10.4,FALSE
+3009,Panicum,Panicum virgatum,35.98,-97.03,0,1998,"""""",1998,8.7,FALSE
+3010,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1998,10.3,FALSE
+3011,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1998,13.3,FALSE
+3012,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1998,11,FALSE
+3013,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1998,10.9,FALSE
+3014,Panicum,Panicum virgatum,35.98,-97.03,0,1998,"""""",1998,12.1,FALSE
+3015,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1998,11.1,FALSE
+3016,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1998,10.7,FALSE
+3017,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1998,12.4,FALSE
+3018,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1998,10.4,FALSE
+3019,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1998,9.8,FALSE
+3020,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1998,11.8,FALSE
+3021,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1998,11.8,FALSE
+3022,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1998,11.9,FALSE
+3023,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1998,11.5,FALSE
+3024,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1998,10.9,FALSE
+3025,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1998,14,FALSE
+3026,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1998,9,FALSE
+3027,Panicum,Panicum virgatum,35.98,-97.03,0,1998,"""""",1999,7,FALSE
+3028,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1999,9.7,FALSE
+3029,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1999,7.2,FALSE
+3030,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1999,9.1,FALSE
+3031,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1999,10.5,FALSE
+3032,Panicum,Panicum virgatum,35.98,-97.03,0,1998,"""""",1999,5.2,FALSE
+3033,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1999,8.8,FALSE
+3034,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1999,10.3,FALSE
+3035,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1999,10.1,FALSE
+3036,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1999,12,FALSE
+3037,Panicum,Panicum virgatum,35.98,-97.03,0,1998,"""""",1999,8.7,FALSE
+3038,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1999,9.6,FALSE
+3039,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1999,10.1,FALSE
+3040,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1999,10.7,FALSE
+3041,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1999,12.8,FALSE
+3042,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1999,6.9,FALSE
+3043,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1999,8.8,FALSE
+3044,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1999,9.9,FALSE
+3045,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1999,11.9,FALSE
+3046,Panicum,Panicum virgatum,35.98,-97.03,112,1998,"""""",1999,10.4,FALSE
+3047,Panicum,Panicum virgatum,35.98,-97.03,224,1998,"""""",1999,12.6,FALSE
+3048,Panicum,Panicum virgatum,35.98,-97.03,448,1998,"""""",1999,10.9,FALSE
+3049,Panicum,Panicum virgatum,35.98,-97.03,896,1998,"""""",1999,10.9,FALSE
+3050,Panicum,Panicum virgatum,35.98,-97.03,0,1998,,2000,9.9,FALSE
+3051,Panicum,Panicum virgatum,35.98,-97.03,112,1998,,2000,8.5,FALSE
+3052,Panicum,Panicum virgatum,35.98,-97.03,224,1998,,2000,11.7,FALSE
+3053,Panicum,Panicum virgatum,35.98,-97.03,448,1998,,2000,9.9,FALSE
+3054,Panicum,Panicum virgatum,35.98,-97.03,896,1998,,2000,12.6,FALSE
+3055,Panicum,Panicum virgatum,35.98,-97.03,0,1998,,2000,9.1,FALSE
+3056,Panicum,Panicum virgatum,35.98,-97.03,112,1998,,2000,9.6,FALSE
+3057,Panicum,Panicum virgatum,35.98,-97.03,224,1998,,2000,12.2,FALSE
+3058,Panicum,Panicum virgatum,35.98,-97.03,448,1998,,2000,11.2,FALSE
+3059,Panicum,Panicum virgatum,35.98,-97.03,896,1998,,2000,13.2,FALSE
+3060,Panicum,Panicum virgatum,35.98,-97.03,0,1998,,2000,13.7,FALSE
+3061,Panicum,Panicum virgatum,35.98,-97.03,112,1998,,2000,12.9,FALSE
+3062,Panicum,Panicum virgatum,35.98,-97.03,224,1998,,2000,13.2,FALSE
+3063,Panicum,Panicum virgatum,35.98,-97.03,448,1998,,2000,12.5,FALSE
+3064,Panicum,Panicum virgatum,35.98,-97.03,896,1998,,2000,14.3,FALSE
+3065,Panicum,Panicum virgatum,35.98,-97.03,112,1998,,2000,9.5,FALSE
+3066,Panicum,Panicum virgatum,35.98,-97.03,224,1998,,2000,10.6,FALSE
+3067,Panicum,Panicum virgatum,35.98,-97.03,448,1998,,2000,11.2,FALSE
+3068,Panicum,Panicum virgatum,35.98,-97.03,896,1998,,2000,11.5,FALSE
+3069,Panicum,Panicum virgatum,35.98,-97.03,112,1998,,2000,12,FALSE
+3070,Panicum,Panicum virgatum,35.98,-97.03,224,1998,,2000,12.8,FALSE
+3071,Panicum,Panicum virgatum,35.98,-97.03,448,1998,,2000,13.5,FALSE
+3072,Panicum,Panicum virgatum,35.98,-97.03,896,1998,,2000,13.1,FALSE
+3161,Panicum,Panicum virgatum,41.15,-96.4,120,1998,"""""",2000,9.46,FALSE
+3162,Panicum,Panicum virgatum,41.15,-96.4,120,1998,"""""",2001,12.403,FALSE
+3163,Panicum,Panicum virgatum,41.15,-96.4,120,1998,"""""",2002,8.63,FALSE
+3164,Panicum,Panicum virgatum,41.15,-96.4,120,1998,"""""",2003,11.572,FALSE
+3165,Panicum,Panicum virgatum,41.15,-96.4,120,1998,"""""",2004,10.898,FALSE
+3177,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2001,3.057,FALSE
+3178,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2001,3.918,FALSE
+3179,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2001,2.737,FALSE
+3180,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2002,16.554,FALSE
+3181,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2002,7.434,FALSE
+3182,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2002,4.78,FALSE
+3183,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2003,12.524,FALSE
+3184,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2003,8.381,FALSE
+3185,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2003,7.434,FALSE
+3186,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2004,13.425,FALSE
+3187,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2004,12.1,FALSE
+3188,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2004,13.116,FALSE
+3189,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2005,14.603,FALSE
+3190,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2005,8.74,FALSE
+3191,Panicum,Panicum virgatum,36.85,-109.32,60,2000,9000000,2005,11.402,FALSE

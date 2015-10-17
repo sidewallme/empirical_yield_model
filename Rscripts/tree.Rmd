@@ -5,10 +5,31 @@ output: html_document
 
 running
 
-```r
+```{r}
 purl("Rscripts/tree.Rmd")
 system("nohup R --no-save < tree.R", wait = FALSE)
 ```
+
+```{r}
+install.packages("plyr")
+install.packages("rpart")
+install.packages("grid")
+install.packages("RWeka")
+install.packages("rattle")
+install.packages("RColorBrewer")
+install.packages("pander")
+install.packages("data.table")
+install.packages("knitr")
+install.packages("printr")
+install.packages("raster")
+install.packages("RNCEP")
+install.packages("udunits2")
+install.packages("devtools")
+install.packages("ggplot2")
+
+```
+
+
 Loading libraries:
 ```{r}
 library(plyr)#try_default
@@ -16,38 +37,34 @@ library(rpart)
 library(grid)
 library(partykit)
 library(RWeka)
-library(rattle)
 library(RColorBrewer)
 library(pander)
 library(data.table)
 library(knitr)
-library(printr)
-
+library(devtools)
+library(RNCEP)
+library(ggplot2)
 opts_chunk$set(echo = FALSE, message = FALSE, warnings = FALSE,  cache = FALSE)
-
-
 ```
 
 
 ## Data Prep
 
 ```{r}
-download.file("https://gist.githubusercontent.com/dlebauer/357e02e5f91390fd9ca0/raw/e5f74e0d65b45014ecd9b29d90100b370b1a0f09/yields.csv", method = 'curl', destfile = 'yields.csv')
-yields <- fread("yields.csv")
-miscanthus <- yields[genus == "Miscanthus"]
+download.file("https://raw.githubusercontent.com/sidewallme/2015-Rose-Hulman-Competition/master/clean_yields.csv", method = 'curl', destfile = 'clean_yields.csv')
+yields <- fread("clean_yields.csv")
 
-#write.csv(miscanthus, file = "data/miscanthus.csv", row.names = FALSE)
 ```
 
 ```{r data-load}
-#miscanthus <- fread("data/miscanthus.csv")
-
+miscanthus <- yields
 m <- miscanthus[!(is.na(planting_density) | is.na(yield)),
                 `:=`(sacchariflorus = grepl('sacchariflorus', species),
                      sinensis = grepl('sinensis', species),
                      sinensis.Hybrid = grepl('Hybrid', species),
                      giganteus = grepl('giganteus', species))]
-m<-m[- grep('""""', m$planting_density),]
+
+m$yields.id <- NULL # remove yields.id
 ```
 
 ### Climate Data
@@ -66,8 +83,6 @@ ans <- m[1, list(tmin = getData('worldclim', var = 'tmin', res = 0.5, lon = lon,
 #### RNCEP
 
 ```{r rncep}
-library(RNCEP)
-
 unique_xyt <- unique(yields[,list(lat, lon, year) ])
 
 get_met <- function(year, lat, lon, var){
@@ -75,26 +90,30 @@ get_met <- function(year, lat, lon, var){
   ans <- try_default(quiet = TRUE, default = NA, expr = 
                        NCEP.gather(variable = var, level='gaussian', months.minmax=c(5,9), years.minmax = c(year,year), lat.southnorth = c(lat,lat), lon.westeast=c(lon,lon), reanalysis2 = TRUE, return.units = FALSE, status.bar=FALSE)
                      )
-  
+  print(ans)
+
   if(any(!is.na(ans))){
     lats <- as.numeric(dimnames(ans)[[1]])
     lons <- as.numeric(dimnames(ans)[[2]])
     lons[lons>180] <- lons[lons>180] - 360
     dlat <- abs(lat - lats)
     dlon <- abs(lon - lons)
-    #weights calculate distance weighted average
+    #weights
     wlat <- dlat/sum(dlat, na.rm = TRUE)
     wlon <- dlon/sum(dlon, na.rm = TRUE)
-    
+
     weights <- as.matrix(wlat) %*% t(as.matrix(wlon))
-    
-    
+
+
     ans2 <- rowMeans(ans, dims = 2, na.rm = TRUE)
     ans2.1 <- ans2[!is.nan(ans2)]
-    
-    ans3 <- sum(ans2.1 * weights)  
-  
-  return(ans3)
+
+    ans3 <- sum(ans2.1 * weights)
+    ans <- ans3
+    }
+
+
+  return(ans)
   }
 
 
@@ -107,14 +126,15 @@ for(i in 1:nrow(unique_xyt)){
                                       PET = mean(get_met(year, lat, lon, 'pevpr.sfc')),
                                       SOLAR = sum(get_met(year, lat, lon, 'dswrf.sfc'))
                                       )]
-  
-  
+
+
   ncep_data <- rbindlist(ncep_data_list)
   save(ncep_data, file = "~/ncep_data.RData") 
   }
-file.copy("~/ncep_data.RData", to = "data/ncep_data.RData", overwrite = TRUE)
+
 
 ggplot() + geom_point(data = ncep_data, aes(lon, lat, color = MAP/PET))
+
 ```
 
 
@@ -129,7 +149,7 @@ if(require(DaymetR)){
 library(DaymetR)
 
 dm <- list()
-new_xyt <- unique_xyt[lon < -30]
+new_xyt <- unique_xyt[unique_xyt$lon < -30,]
 for(i in 1:nrow(new_xyt)){
   rm(Daymet)
   try(
@@ -201,6 +221,6 @@ m5pTree <- M5P(yield ~ sacchariflorus + sinensis + sinensis.Hybrid + giganteus +
 
 summary(m5pTree)
 plot(m5pTree)
-```
 
+```
 TODO what do you see? what does it mean?
